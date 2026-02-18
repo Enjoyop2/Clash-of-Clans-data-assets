@@ -1,0 +1,4 @@
+Name,ID,Enabled,TID,InfoTID,ButtonTID,ButtonURL,ItemSWF,ItemExportName,IconSWF,IconExportName,IncludedCountries,ExcludedCountries,MinLevel,MaxDiamonds,ClickToDismiss
+String,int,boolean,String,String,String,String,String,String,String,String,String,String,int,int,boolean
+PuzzleAndDragon,0,FALSE,TID_XP_TITLE_PUZZLEANDDRAGONS,TID_XP_TEXT_PUZZLEANDDRAGONS,TID_XP_BUTTON_PUZZLEANDDRAGONS,http://mobile.gungho.jp/news/pad/root/paden.html,sc/ui.sc,promo_entry,sc/news.sc,promo_entry_image,US,,4,1199,TRUE
+TestNews,2,FALSE,TID_NEWS_UPDATE_INFO_TITLE,TID_NEWS_UPDATE_INFO_TEXT,TID_NEWS_UPDATE_INFO_BUTTON,http://forum.supercell.net/forumdisplay.php/18-Announcements,sc/ui.sc,news_entry,sc/buildings.sc,town_hall_lvl10,,,3,0,FALSE

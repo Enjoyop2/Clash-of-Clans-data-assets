@@ -1,0 +1,82 @@
+Name,TID,InfoTID,SWF,Speed,Hitpoints,UpgradeTimeH,UpgradeResource,UpgradeCost,RequiredTownHallLevel,AttackRange,AttackSpeed,Damage,PreferedTargetDamageMod,DamageRadius,IconSWF,IconExportName,BigPicture,BigPictureSWF,SmallPicture,SmallPictureSWF,Projectile,PreferedTargetBuilding,DeployEffect,AttackEffect,HitEffect,IsFlying,AirTargets,GroundTargets,AttackCount,DieEffect,Animation,MaxSearchRadiusForDefender,HousingSpace,SpecialAbilityEffect,RegenerationTimeMinutes,TrainingTime,TrainingResource,TrainingCost,CelebrateEffect,SleepOffsetX,SleepOffsetY,PatrolRadius,AbilityTriggerEffect,AbilityAffectsHero,AbilityAffectsCharacter,AbilityRadius,AbilityTime,AbilityOnce,AbilityCooldown,AbilitySpeedBoost,AbilitySpeedBoost2,AbilityDamageBoostPercent,AbilitySummonTroop,AbilitySummonTroopCount,AbilityStealth,AbilityTID,AbilityDescTID,AbilityIcon,AbilityBigPictureExportName,AbilityDelay,StrengthWeight,StrengthWeight2
+String,String,String,String,int,int,int,String,int,int,int,int,int,int,int,String,String,String,String,String,String,String,String,String,String,String,boolean,boolean,boolean,int,String,String,int,int,String,int,int,String,int,String,int,int,int,String,boolean,String,int,int,boolean,int,int,int,int,String,int,boolean,String,String,String,String,int,int,int
+Barbarian King,TID_BARBARIAN_KING,TID_HERO_INSTRUCTIONS,sc/characters.cs,200,1500,12,DarkElixir,12500,7,100,1200,150,1,,sc/ui.sc,icon_hero_barbarianKing,unit_barbarianKing_big,sc/info_barbarianking.sc,unit_barbarianKing_small,sc/ui.sc,,,Barbarian King Deploy,Barbarian King Attack,Barbarian King Hit,FALSE,FALSE,TRUE,,Barbarian King Die,BarbarianKing_lvl1,1300,25,Building Ready,60,,Elixir,,Barbarian King Scream,70,-40,350,King Ability Effect,TRUE,Barbarian,2500,0,TRUE,0,0,0,0,Barbarian,0,,TID_HERO_ABILITY_BARBARIAN_TITLE,TID_HERO_ABILITY_BARBARIAN_DESC,icon_hero_barbarianKing_ability1,unit_barbarianKing_ability_big,0,8,8
+,,,,,1560,24,,15000,7,,,156,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl1,,,,64,,,,,,,,,,,,0,,,0,0,0,,0,,,,,,,8,8
+,,,,,1622,36,,17500,7,,,162,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl1,,,,68,,,,,,,,,,,,0,,,0,0,0,,0,,,,,,,8,8
+,,,,,1687,48,,20000,7,,,169,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl1,,,,72,,,,,,,,,,,,0,,,0,0,0,,0,,,,,,,8,8
+,,,,,1755,60,,22500,7,,,175,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl1,,,,76,,,,,,,,,,,,10000,,,18,9,120,,3,,,,,,,9,8
+,,,,,1825,72,,25000,8,,,182,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl1,,,,80,,,,,,,,,,,,10000,,,18,9,120,,3,,,,,,,9,8
+,,,,,1898,84,,30000,8,,,190,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl1,,,,84,,,,,,,,,,,,10000,,,18,9,120,,3,,,,,,,9,8
+,,,,,1974,96,,35000,8,,,197,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl1,,,,88,,,,,,,,,,,,10000,,,18,9,120,,3,,,,,,,9,8
+,,,,,2053,108,,40000,8,,,205,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl1,,,,92,,,,,,,,,,,,10000,,,18,9,120,,3,,,,,,,9,8
+,,,,,2135,120,,45000,8,,,213,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,96,,,,,,,,,,,,10000,,,19,9,124,,4,,,,,,,10,8
+,,,,,2220,132,,50000,9,,,222,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,100,,,,,,,,,,,,10000,,,19,9,124,,4,,,,,,,10,8
+,,,,,2309,144,,55000,9,,,231,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,104,,,,,,,,,,,,10000,,,19,9,124,,4,,,,,,,10,8
+,,,,,2402,156,,60000,9,,,240,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,108,,,,,,,,,,,,10000,,,19,9,124,,4,,,,,,,10,8
+,,,,,2498,168,,65000,9,,,250,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,112,,,,,,,,,,,,10000,,,19,9,124,,4,,,,,,,10,8
+,,,,,2598,,,70000,9,,,260,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,116,,,,,,,,,,,,10000,,,20,10,128,,5,,,,,,,11,8
+,,,,,2701,,,75000,9,,,270,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,120,,,,,,,,,,,,10000,,,20,10,128,,5,,,,,,,11,8
+,,,,,2809,,,80000,9,,,281,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,124,,,,,,,,,,,,10000,,,20,10,128,,5,,,,,,,11,8
+,,,,,2922,,,85000,9,,,292,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,128,,,,,,,,,,,,10000,,,20,10,128,,5,,,,,,,11,8
+,,,,,3039,,,90000,9,,,304,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl2,,,,132,,,,,,,,,,,,10000,,,20,10,128,,5,,,,,,,11,8
+,,,,,3160,,,95000,9,,,316,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,136,,,,,,,,,,,,10000,,,21,10,132,,6,,,,,,,12,8
+,,,,,3287,,,100000,9,,,329,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,140,,,,,,,,,,,,10000,,,21,10,132,,6,,,,,,,12,8
+,,,,,3418,,,105000,9,,,342,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,144,,,,,,,,,,,,10000,,,21,10,132,,6,,,,,,,12,8
+,,,,,3555,,,110000,9,,,355,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,148,,,,,,,,,,,,10000,,,21,10,132,,6,,,,,,,12,8
+,,,,,3697,,,115000,9,,,370,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,152,,,,,,,,,,,,10000,,,21,10,132,,6,,,,,,,12,8
+,,,,,3845,,,120000,9,,,384,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,156,,,,,,,,,,,,10000,,,22,11,136,,7,,,,,,,13,8
+,,,,,3999,,,125000,9,,,400,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,160,,,,,,,,,,,,10000,,,22,11,136,,7,,,,,,,13,8
+,,,,,4159,,,130000,9,,,416,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,164,,,,,,,,,,,,10000,,,22,11,136,,7,,,,,,,13,8
+,,,,,4325,,,135000,9,,,433,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,168,,,,,,,,,,,,10000,,,22,11,136,,7,,,,,,,13,8
+,,,,,4498,,,140000,9,,,450,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,172,,,,,,,,,,,,10000,,,22,11,136,,7,,,,,,,13,8
+,,,,,4678,,,145000,9,,,468,,,,,,,,,,,,,,,,,,,BarbarianKing_lvl3,,,,176,,,,,,,,,,,,10000,,,23,11,140,,8,,,,,,,14,8
+,,,,,4772,,,150000,10,,,477,,,,,,,,,,,,,,,,,,,,,,,180,,,,,,,,,,,,10000,,,23,11,140,,8,,,,,,,14,8
+,,,,,4867,,,155000,10,,,487,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,23,11,140,,8,,,,,,,14,8
+,,,,,4964,,,160000,10,,,497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,23,11,140,,8,,,,,,,14,8
+,,,,,5063,,,165000,10,,,507,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,23,11,140,,8,,,,,,,14,8
+,,,,,5164,,,170000,10,,,517,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,24,12,144,,9,,,,,,,15,8
+,,,,,5267,,,175000,10,,,527,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,24,12,144,,9,,,,,,,15,8
+,,,,,5372,,,180000,10,,,538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,24,12,144,,9,,,,,,,15,8
+,,,,,5479,,,185000,10,,,549,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,24,12,144,,9,,,,,,,15,8
+,,,,,5589,,,190000,10,,,560,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,24,12,144,,9,,,,,,,15,8
+,,,,,5701,,,,10,,,571,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000,,,25,12,150,,10,,,,,,,16,8
+Archer Queen,TID_ARCHER_QUEEN,TID_HERO_INSTRUCTIONS,sc/characters.cs,300,675,12,DarkElixir,22500,9,500,750,120,1,,sc/ui.sc,icon_hero_archerQueen,unit_archerQueen_big,sc/info_archerqueen.sc,unit_archerQueen_small,sc/ui.sc,ArcherQueen arrow lvl1,,Archer Queen Deploy,ArcherQueen attack,Archer Queen Hit,FALSE,TRUE,TRUE,,Archer Queen Die,ArcherQueen_lvl1,1300,25,Building Ready,60,,Elixir,,Archer Queen Scream,70,-50,350,Queen Ability Effect,TRUE,,2500,0,TRUE,0,,,,Archer,0,TRUE,TID_HERO_ABILITY_QUEEN_TITLE,TID_HERO_ABILITY_QUEEN_DESC,icon_hero_archerQueen_ability1,unit_archerQueen_ability1_big,0,15,15
+,,,,,702,24,,25000,9,,,125,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl1,,,,64,,,,,,,,,,,,0,,,,,,,0,,,,,,,15,15
+,,,,,730,36,,27500,9,,,130,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl1,,,,68,,,,,,,,,,,,0,,,,,,,0,,,,,,,15,15
+,,,,,759,48,,30000,9,,,135,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl1,,,,72,,,,,,,,,,,,0,,,,,,,0,,,,,,,15,15
+,,,,,790,60,,32500,9,,,140,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl1,,,,76,,,,,,,,,,,,2500,,,,,,,3,,,,,,,16,15
+,,,,,821,72,,35000,9,,,146,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl1,,,,80,,,,,,,,,,,,2500,,,,,,,3,,,,,,,16,15
+,,,,,854,84,,40000,9,,,152,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl1,,,,84,,,,,,,,,,,,2500,,,,,,,3,,,,,,,16,15
+,,,,,888,96,,45000,9,,,158,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl1,,,,88,,,,,,,,,,,,2500,,,,,,,3,,,,,,,16,15
+,,,,,924,108,,50000,9,,,164,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl1,,,,92,,,,,,,,,,,,2500,,,,,,,3,,,,,,,16,15
+,,,,,961,120,,55000,9,,,170,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,96,,,,,,,,,,,,3000,,,,,,,4,,,,,,,17,15
+,,,,,999,132,,60000,9,,,178,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,100,,,,,,,,,,,,3000,,,,,,,4,,,,,,,17,15
+,,,,,1039,144,,65000,9,,,185,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,104,,,,,,,,,,,,3000,,,,,,,4,,,,,,,17,15
+,,,,,1081,156,,70000,9,,,192,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,108,,,,,,,,,,,,3000,,,,,,,4,,,,,,,17,15
+,,,,,1124,168,,75000,9,,,200,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,112,,,,,,,,,,,,3000,,,,,,,4,,,,,,,17,15
+,,,,,1169,,,80000,9,,,208,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,116,,,,,,,,,,,,3500,,,,,,,5,,,,,,,18,15
+,,,,,1215,,,85000,9,,,216,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,120,,,,,,,,,,,,3500,,,,,,,5,,,,,,,18,15
+,,,,,1264,,,90000,9,,,225,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,124,,,,,,,,,,,,3500,,,,,,,5,,,,,,,18,15
+,,,,,1315,,,95000,9,,,234,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,128,,,,,,,,,,,,3500,,,,,,,5,,,,,,,18,15
+,,,,,1368,,,100000,9,,,243,,,,,,,,,ArcherQueen arrow lvl1,,,,,,,,,,ArcherQueen_lvl2,,,,132,,,,,,,,,,,,3500,,,,,,,5,,,,,,,18,15
+,,,,,1422,,,105000,9,,,253,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,136,,,,,,,,,,,,4000,,,,,,,6,,,,,,,19,15
+,,,,,1479,,,110000,9,,,263,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,140,,,,,,,,,,,,4000,,,,,,,6,,,,,,,19,15
+,,,,,1538,,,115000,9,,,274,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,144,,,,,,,,,,,,4000,,,,,,,6,,,,,,,19,15
+,,,,,1600,,,120000,9,,,284,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,148,,,,,,,,,,,,4000,,,,,,,6,,,,,,,19,15
+,,,,,1664,,,125000,9,,,296,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,152,,,,,,,,,,,,4000,,,,,,,6,,,,,,,19,15
+,,,,,1730,,,130000,9,,,307,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,156,,,,,,,,,,,,4500,,,,,,,7,,,,,,,20,15
+,,,,,1800,,,135000,9,,,320,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,160,,,,,,,,,,,,4500,,,,,,,7,,,,,,,20,15
+,,,,,1872,,,140000,9,,,333,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,164,,,,,,,,,,,,4500,,,,,,,7,,,,,,,20,15
+,,,,,1946,,,145000,9,,,346,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,168,,,,,,,,,,,,4500,,,,,,,7,,,,,,,20,15
+,,,,,2024,,,150000,9,,,360,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,172,,,,,,,,,,,,4500,,,,,,,7,,,,,,,20,15
+,,,,,2105,,,155000,9,,,374,,,,,,,,,ArcherQueen arrow lvl2,,,,,,,,,,ArcherQueen_lvl3,,,,176,,,,,,,,,,,,5000,,,,,,,8,,,,,,,21,15
+,,,,,2147,,,160000,10,,,381,,,,,,,,,,,,,,,,,,,,,,,180,,,,,,,,,,,,5000,,,,,,,8,,,,,,,21,15
+,,,,,2190,,,165000,10,,,389,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5000,,,,,,,8,,,,,,,21,15
+,,,,,2234,,,170000,10,,,397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5000,,,,,,,8,,,,,,,21,15
+,,,,,2279,,,175000,10,,,405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5000,,,,,,,8,,,,,,,21,15
+,,,,,2325,,,180000,10,,,413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5500,,,,,,,9,,,,,,,22,15
+,,,,,2372,,,185000,10,,,421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5500,,,,,,,9,,,,,,,22,15
+,,,,,2419,,,190000,10,,,429,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5500,,,,,,,9,,,,,,,22,15
+,,,,,2467,,,195000,10,,,438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5500,,,,,,,9,,,,,,,22,15
+,,,,,2516,,,200000,10,,,447,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5500,,,,,,,9,,,,,,,22,15
+,,,,,2566,,,,10,,,456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6000,,,,,,,10,,,,,,,23,15

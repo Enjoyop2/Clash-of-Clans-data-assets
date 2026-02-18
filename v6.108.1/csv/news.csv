@@ -1,0 +1,9 @@
+Name,ID,Enabled,EnabledIOS,EnabledAndroid,TID,InfoTID,ButtonTID,ButtonURL,CenterText,LoadResources,ItemSWF,ItemExportName,IconSWF,IconExportName,IconFrame,AnimateIcon,CenterIcon,IncludedCountries,ExcludedCountries,MinLevel,MaxDiamonds,ClickToDismiss,AvatarIdModulo,ModuloMin,ModuloMax
+String,int,boolean,boolean,boolean,String,String,String,String,boolean,boolean,String,String,String,String,int,boolean,boolean,String,String,int,int,boolean,int,int,int
+event,26,FALSE,TRUE,TRUE,TID_EVENT_BOOST_BARRACKS,TID_EVENT_BOOST_GEM_AMOUNT,,,FALSE,FALSE,sc/ui.sc,news_promotion_entry,sc/ui.sc,news_promo_gem_icon,0,FALSE,FALSE,,,0,0,FALSE,,,
+PuzzleAndDragon,21,FALSE,TRUE,FALSE,TID_NEWS_VIDEO_TITLE_FINALLY,TID_NEWS_VIDEO_TEXT_FINALLY,TID_NEWS_VIDEO_BUTTON_FINALLY,https://itunes.apple.com/gb/app/puzzle-dragons/id709128984?l=ja&ls=1&mt=8,FALSE,TRUE,sc/promo_puzzle_and_dragons.sc,promo_entry,,,0,FALSE,FALSE,,,0,6000,TRUE,,,
+video,27,FALSE,TRUE,TRUE,TID_NEWS_VIDEO_TITLE,TID_NEWS_VIDEO_TEXT,TID_NEWS_VIDEO_BUTTON,http://www.youtube.com/watch?v=CaObO42bjiI,FALSE,TRUE,sc/promo_video.sc,promo_video,,,0,FALSE,FALSE,,CN,0,0,FALSE,,,
+,,,,,,,,,FALSE,,,,,,,,,,JP,,,,,,
+update,50,TRUE,TRUE,TRUE,TID_NEWS_UPDATE_INFO_TITLE,TID_NEWS_UPDATE_INFO_TEXT,,,FALSE,FALSE,sc/ui.sc,news_entry,sc/ui.sc,wbase_news_icon,0,TRUE,TRUE,,,10,0,FALSE,,,
+updateWar,40,FALSE,TRUE,TRUE,TID_NEWS_VIDEO_TITLE_WAR,TID_NEWS_VIDEO_TEXT_WAR,TID_NEWS_VIDEO_BUTTON_WAR,http://youtu.be/_-lO_1QCuoI,FALSE,FALSE,sc/ui.sc,news_entry,sc/ui.sc,icon_clanwar,0,TRUE,TRUE,,,10,0,FALSE,,,
+BoomBeach,48,FALSE,TRUE,FALSE,TID_XP_TITLE_PUZZLEANDDRAGONS,TID_XP_TEXT_PUZZLEANDDRAGONS,TID_XP_BUTTON_PUZZLEANDDRAGONS,https://itunes.apple.com/gb/app/puzzle-dragons/id709128984?l=ja&ls=1&mt=8,FALSE,TRUE,sc/promo_puzzle_and_dragons.sc,promo_entry,,,0,FALSE,FALSE,,,10,100000,FALSE,1000,0,500

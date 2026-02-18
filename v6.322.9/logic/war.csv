@@ -1,0 +1,15 @@
+Name,TeamSize,PreparationMinutes,WarMinutes,BonusPercentWin,BonusPercentLose,BonusPercentDraw,DisableProduction
+String,int,int,int,int,int,int,boolean
+Test_1,1,10,10,500,100,200,TRUE
+Test_2,2,10,10,500,100,200,TRUE
+Test_3,3,10,10,500,100,200,TRUE
+Test_4,5,10,10,500,100,200,TRUE
+Small_1,10,1440,1440,500,100,200,
+Small_2,15,1440,1440,500,100,200,
+Medium_1,20,1440,1440,520,110,215,
+Medium_2,25,1440,1440,520,110,215,
+Large_1,30,1440,1440,550,120,230,
+Large_2,35,1440,1440,550,120,230,
+Epic_1,40,1440,1440,600,130,250,
+Epic_2,45,1440,1440,600,130,250,
+Epic_3,50,1440,1440,600,130,250,

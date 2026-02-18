@@ -1,0 +1,15 @@
+Name,TeamSize,PreparationMinutes,WarMinutes,RangeLowLimit,RangeHighLimit,RangeLowOptimal,RangeHighOptimal,BonusPercentWin,BonusPercentLose,BonusPercentDraw,DisableProduction
+String,int,int,int,int,int,int,int,int,int,int,boolean
+Test_1,1,5,10,1,59,12,35,500,100,200,TRUE
+Test_2,2,5,10,1,59,12,35,500,100,200,TRUE
+Test_3,3,5,10,1,59,12,35,500,100,200,TRUE
+Test_4,5,5,10,1,59,12,35,500,100,200,TRUE
+Small_1,10,1440,1440,1,59,12,35,500,100,200,
+Small_2,15,1440,1440,1,59,12,35,500,100,200,
+Medium_1,20,1440,1440,1,59,12,35,520,110,215,
+Medium_2,25,1440,1440,1,59,12,35,520,110,215,
+Large_1,30,1440,1440,1,59,12,35,550,120,230,
+Large_2,35,1440,1440,1,59,12,35,550,120,230,
+Epic_1,40,1440,1440,1,59,12,35,600,130,250,
+Epic_2,45,1440,1440,1,59,12,35,600,130,250,
+Epic_3,50,1440,1440,1,59,12,35,600,130,250,

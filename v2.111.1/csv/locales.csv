@@ -1,0 +1,11 @@
+Name,Description,IconSWF,IconExportName
+String,String,String,String
+EN,,sc/ui.sc,flag_gb
+FR,,sc/ui.sc,flag_france
+DE,,sc/ui.sc,flag_germany
+ES,,sc/ui.sc,flag_spain
+IT,,sc/ui.sc,flag_italy
+NL,,sc/ui.sc,flag_netherlands
+NO,,sc/ui.sc,flag_norway
+PT,,sc/ui.sc,flag_brazil
+TR,,sc/ui.sc,flag_turkey

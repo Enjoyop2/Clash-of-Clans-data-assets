@@ -1,0 +1,50 @@
+Name,TID,SWF,HousingSpace,BarrackLevel,LaboratoryLevel,Speed,Hitpoints,TrainingTime,TrainingResource,TrainingCost,UpgradeTimeH,UpgradeResource,UpgradeCost,AttackRange,AttackSpeed,Damage,PreferedTargetDamageMod,DamageRadius,IconSWF,IconExportName,BigPicture,Projectile,PreferedTargetBuilding,DeployEffect,AttackEffect,HitEffect,IsFlying,AirTargets,GroundTargets,AttackCount,DieEffect,Animation
+String,String,String,int,int,int,int,int,int,String,int,int,String,int,int,int,int,int,int,String,String,String,String,String,String,String,String,boolean,boolean,boolean,int,String,String
+Barbarian,TID_BARBARIAN,sc/characters.cs,1,1,1,200,45,20,Elixir,25,6,Elixir,50000,40,1000,8,1,,sc/ui.sc,icon_unit_barbarian,unit_barbarian_big,,,Barbarian Deploy,Barbarian Attack,Barbarian Hit,FALSE,FALSE,TRUE,,Barbarian Die,Barbarian
+,,,,,1,,54,,,40,24,,150000,,,11,,,,icon_unit_barbarian2,,,,,,,,,,,,Barbarian
+,,,,,3,,65,,,60,72,,500000,,,14,,,,icon_unit_barbarian3,,,,,,,,,,,,Barbarian3
+,,,,,5,,78,,,80,120,,1500000,,,18,,,,icon_unit_barbarian4,,,,,,,,,,,,Barbarian3
+,,,,,6,,95,,,100,240,,4500000,,,23,,,,icon_unit_barbarian5,,,,,,,,,,,,Barbarian5
+,,,,,7,,110,,,200,240,,,,,28,,,,icon_unit_barbarian6,,,,,,,,,,,,Barbarian6
+Archer,TID_ARCHER,sc/characters.cs,1,2,1,300,20,25,Elixir,50,12,Elixir,50000,350,1000,7,1,,sc/ui.sc,icon_unit_archer,unit_archer_big,Arrow_small,,Archer Deploy,Archer Attack,Archer Hit,FALSE,TRUE,TRUE,,Archer Die,Archer
+,,,,,1,,23,,,80,48,,250000,,,9,,,,icon_unit_archer2,,Arrow_small,,,,,,,,,,Archer
+,,,,,3,,28,,,120,72,,750000,,,12,,,,icon_unit_archer3,,Arrow_small_fire,,,,,,,,,,Archer2
+,,,,,5,,33,,,160,120,,2250000,,,16,,,,icon_unit_archer4,,Arrow_small_fire,,,,,,,,,,Archer2
+,,,,,6,,40,,,200,336,,7500000,,,20,,,,icon_unit_archer5,,Arrow_small_elixirFire,,,,,,,,,,Archer3
+,,,,,7,,46,,,400,336,,,,,22,,,,icon_unit_archer6,,Arrow_small_darkElixirFire,,,,,,,,,,Archer6
+Goblin,TID_GOBLIN,sc/characters.cs,1,3,1,400,25,30,Elixir,25,12,Elixir,50000,40,1000,11,2,,sc/ui.sc,icon_unit_goblin,unit_goblin_big,,Resource,Goblin Deploy,Goblin Attack,Goblin Hit,FALSE,FALSE,TRUE,,Goblin Die,Goblin
+,,,,,1,,30,,,40,48,,250000,,,14,,,,icon_unit_goblin2,,,,,,,,,,,,Goblin
+,,,,,3,,36,,,60,72,,750000,,,19,,,,icon_unit_goblin3,,,,,,,,,,,,Goblin2
+,,,,,5,,43,,,80,120,,2250000,,,24,,,,icon_unit_goblin4,,,,,,,,,,,,Goblin2
+,,,,,6,,52,,,100,120,,,,,32,,,,icon_unit_goblin5,,,,,,,,,,,,Goblin3
+Giant,TID_GIANT,sc/characters.cs,5,4,1,150,300,120,Elixir,500,24,Elixir,100000,100,2000,11,1,,sc/ui.sc,icon_unit_giant,unit_giant_big,,Defense,Giant Deploy,Giant Attack,Giant Hit,FALSE,FALSE,TRUE,,Giant Die,Giant
+,,,,,2,,360,,,1000,48,,250000,,,14,,,,icon_unit_giant2,,,,,,,,,,,,Giant
+,,,,,4,,430,,,1500,72,,750000,,,19,,,,icon_unit_giant3,,,,,,,,,,,,Giant2
+,,,,,5,,520,,,2000,120,,2250000,,,24,,,,icon_unit_giant4,,,,,,,,,,,,Giant2
+,,,,,6,,670,,,2500,240,,6000000,,,31,,,,icon_unit_giant5,,,,,,,,,,,,Giant3
+,,,,,7,,810,,,3500,240,,,,,37,,,,icon_unit_giant6,,,,,,,,,,,,Giant6
+Wall Breaker,TID_WALL_BREAKER,sc/characters.cs,1,5,1,300,20,120,Elixir,1000,24,Elixir,100000,50,1000,12,40,80,sc/ui.sc,icon_unit_wallbreaker,unit_skeleton_big,,Wall,Wall Breaker Deploy,Wall Breaker Attack,Wall Breaker Hit,FALSE,FALSE,TRUE,1,Wall Breaker Die,Wall Breaker
+,,,,,2,,24,,,1500,48,,250000,,,16,,80,,icon_unit_wallbreaker2,,,,,,,,,,,,Wall Breaker
+,,,,,4,,29,,,2000,72,,750000,,,24,,80,,icon_unit_wallbreaker3,,,,,,,,,,,,Wall Breaker2
+,,,,,5,,35,,,2500,120,,2250000,,,32,,80,,icon_unit_wallbreaker4,,,,,,,,,,,,Wall Breaker2
+,,,,,6,,42,,,3000,120,,,,,46,,80,,icon_unit_wallbreaker5,,,,,,,,,,,,Wall Breaker3
+Balloon,TID_GOBLIN_BALLOON,sc/characters.cs,5,6,1,130,150,600,Elixir,2000,24,Elixir,150000,50,4000,25,1,120,sc/ui.sc,icon_unit_balloon,unit_balloon_big,,Defense,Balloon Goblin Deploy,Balloon Goblin Attack,Balloon Goblin Hit,TRUE,FALSE,TRUE,,Balloon Goblin Die,Balloon Goblin
+,,,,,2,,180,,,2500,48,,450000,,,32,,,,icon_unit_balloon2,,,,,,,,,,,,Balloon Goblin
+,,,,,4,,216,,,3000,72,,1350000,,,48,,,,icon_unit_balloon3,,,,,,,,,,,,Balloon Goblin2
+,,,,,5,,280,,,3500,120,,2500000,,,72,,,,icon_unit_balloon4,,,,,,,,,,,,Balloon Goblin2
+,,,,,6,,365,,,4000,240,,6000000,,,108,,,,icon_unit_balloon5,,,,,,,,,,,,Balloon Goblin3
+,,,,,7,,480,,,5000,240,,,,,162,,,,icon_unit_balloon6,,,,,,,,,,,,Balloon Goblin6
+Wizard,TID_WIZARD,sc/characters.cs,4,7,1,200,75,600,Elixir,1500,24,Elixir,150000,300,1500,50,1,,sc/ui.sc,icon_unit_wizard,unit_wizard_big,wizard_projectile,,Wizard Deploy,Wizard Attack,Wizard Hit1,FALSE,TRUE,TRUE,,Wizard Die,Wizard
+,,,,,3,,90,,,2000,48,,450000,,,70,,,,icon_unit_wizard2,,wizard_projectile,,,Wizard Attack,Wizard Hit1,,,,,,Wizard
+,,,,,4,,108,,,2500,72,,1350000,,,90,,,,icon_unit_wizard3,,wizard_projectile,,,Wizard Attack,Wizard Hit1,,,,,,Wizard2
+,,,,,5,,130,,,3000,120,,2500000,,,125,,,,icon_unit_wizard4,,wizard_projectile2,,,Wizard Attack2,Wizard Hit2,,,,,,Wizard2
+,,,,,6,,156,,,3500,120,,,,,170,,,,icon_unit_wizard5,,wizard_projectile2,,,Wizard Attack2,Wizard Hit2,,,,,,Wizard3
+Healer,TID_HEALER,sc/characters.cs,20,8,1,200,430,1200,Elixir,7000,72,Elixir,750000,500,700,-30,1,200,sc/ui.sc,icon_unit_healer,unit_healer_big,HealerEnergy,,Healer Deploy,Healer Attack,Healer Hit,TRUE,FALSE,TRUE,,Healer Die,Healer
+,,,,,5,,520,,,10000,120,,2500000,,,-40,,,,icon_unit_healer2,,,,,,,,,,,,Healer
+,,,,,6,,620,,,13000,120,,,,,-50,,,,icon_unit_healer3,,,,,,,,,,,,Healer2
+Dragon,TID_DRAGON,sc/characters.cs,20,9,1,200,1700,1800,Elixir,25000,168,Elixir,2000000,300,1500,120,1,,sc/ui.sc,icon_unit_dragon,unit_dragon_big,,,Dragon Deploy,Dragon Attack,Dragon Hit,TRUE,TRUE,TRUE,,Dragon Die,Dragon
+,,,,,5,,2000,,,32500,240,,3000000,,,150,,,,icon_unit_dragon2,,,,,,,,,,,,Dragon2
+,,,,,6,,2300,,,40000,240,,,,,180,,,,icon_unit_dragon3,,,,,,,,,,,,Dragon3
+PEKKA,TID_PEKKA,sc/characters.cs,25,10,1,200,2600,3600,Elixir,35000,240,Elixir,3000000,80,2500,220,1,,sc/ui.sc,icon_unit_pekka,unit_pekka_big,,,Pekka Deploy,Pekka Attack,Pekka Hit,FALSE,FALSE,TRUE,,Pekka Die,PEKKA
+,,,,,6,,3000,,,42500,288,,6000000,,,260,,,,icon_unit_pekka2,,,,,,,,,,,,PEKKA2
+,,,,,6,,3400,,,50000,288,,,,,300,,,,icon_unit_pekka3,,,,,,,,,,,,PEKKA3
