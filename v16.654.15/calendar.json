@@ -1,0 +1,889 @@
+{
+	"events": [
+		{
+			"billingPackage": "22000003",
+			"endTime": "20331001T052300.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 36570,
+			"imageFile": {
+				"ChecksumSha1": "32ba6e603a4da0e87395b88138835eb0464c6d17",
+				"Path": "/7c81155c-119f-4da3-ad5f-ee1b650c7d47_Clash_Gems_Box.png"
+			},
+			"impressionId": 1,
+			"startTime": "20230901T052300.000Z",
+			"type": 31,
+			"variantId": 1,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"billingPackage": "22000000",
+			"endTime": "20331001T052300.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 36571,
+			"imageFile": {
+				"ChecksumSha1": "d5d3db55a3667eac19fe9a380695a2607f08e3c7",
+				"Path": "/8a3cd1fe-4313-4d4c-b584-34db333da08e_Clash_Gems_Pile.png"
+			},
+			"impressionId": 1,
+			"startTime": "20230901T052300.000Z",
+			"type": 31,
+			"variantId": 1,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"billingPackage": "22000002",
+			"endTime": "20331001T052300.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 36572,
+			"imageFile": {
+				"ChecksumSha1": "e19ce878105d39fabbcf16513aee7632b51a5dd2",
+				"Path": "/de8ca657-bcfe-4e28-8a57-48893e580beb_Clash_Gems_Sack.png"
+			},
+			"impressionId": 1,
+			"startTime": "20230901T052300.000Z",
+			"type": 31,
+			"variantId": 1,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"billingPackage": "22000001",
+			"endTime": "20331001T052300.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 36573,
+			"imageFile": {
+				"ChecksumSha1": "540633be804f9e60810304bf8e4ec7c25db3acee",
+				"Path": "/0982794e-fc3b-4410-9219-166d01f4fefb_Clash_Gems_Bag.png"
+			},
+			"impressionId": 1,
+			"startTime": "20230901T052300.000Z",
+			"type": 31,
+			"variantId": 1,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"billingPackage": "22000004",
+			"endTime": "20331001T052300.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 36574,
+			"imageFile": {
+				"ChecksumSha1": "c5e878a97d7c860c4a839a722a05d0dcc592ff79",
+				"Path": "/94561c67-1012-4e36-8498-c83bdbc5b118_Clash_Gems_Chest.png"
+			},
+			"impressionId": 1,
+			"startTime": "20230901T052300.000Z",
+			"type": 31,
+			"variantId": 1,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"billingPackage": "22000006",
+			"endTime": "20331001T052300.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 36575,
+			"imageFile": {
+				"ChecksumSha1": "fc3affaec94f29b8c118b8e6bbc310e4b306436e",
+				"Path": "/20e9c3df-0bd4-4f26-82b4-59da85d3d283_Clash_Gems_Pocket.png"
+			},
+			"impressionId": 1,
+			"startTime": "20230901T052300.000Z",
+			"type": 31,
+			"variantId": 1,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"configBooleanList": [],
+			"configIntList": [],
+			"configStringList": [],
+			"endTime": "20250801T080000.000Z",
+			"eventPriority": 0,
+			"id": 57328,
+			"impressionId": 1,
+			"key": "test-info-screen-pass-discount",
+			"startTime": "20240601T080100.000Z",
+			"type": 37,
+			"variantId": 1,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20241231T071800.000Z",
+			"eventPriority": 0,
+			"id": 69133,
+			"impressionId": 1,
+			"startTime": "20241010T080000.000Z",
+			"type": 14,
+			"variantId": 2147483647,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20241010T080000.000Z"
+		},
+		{
+			"endTime": "20250101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71755,
+			"imageFile": {
+				"ChecksumSha1": "5cb6ba6dc37a14d4b6f96f2e6ed7af564d0998f5",
+				"Path": "/e0aeb2f6-639d-4581-8af5-dd9ca37bf129_Clashmas_24_Gold_Pass.png"
+			},
+			"impressionId": 1,
+			"keyRewardImage": {
+				"ChecksumSha1": "f72402dd20e112d1f31ec2bd8e7a72d32d0c5c28",
+				"Path": "/681d721a-adaa-4c72-b98d-f8b2d3043b09_Clashmas2024_AQ_Reward.png"
+			},
+			"localizationFile": {
+				"ChecksumSha1": "3124ef1b1fc15686289f90d984825159db4dae4c",
+				"Path": "/dc512d0e-e27d-4fbe-ad62-a38711df14d1_December_2024_Season_loc_03_12_2024.csv"
+			},
+			"maxTH": 16,
+			"minTH": 6,
+			"overrideTasksScore": [],
+			"rewardTiers": [
+				{"points": 0, "premiumReward": "52000210", "premiumRewardAmount": 1},
+				{"freeReward": "46000007", "freeRewardAmount": 2, "points": 40, "premiumReward": "37000040", "premiumRewardAmount": 99},
+				{"points": 80, "premiumReward": "37000034", "premiumRewardAmount": 10},
+				{"freeReward": "46000019", "freeRewardAmount": 1, "points": 120, "premiumReward": "37000074", "premiumRewardAmount": 10},
+				{"points": 160, "premiumReward": "37000037", "premiumRewardAmount": 10},
+				{"freeReward": "3000013", "freeRewardAmount": 500, "points": 200, "premiumReward": "37000039", "premiumRewardAmount": 100000},
+				{"points": 240, "premiumReward": "37000122", "premiumRewardAmount": 40000},
+				{"freeReward": "46000025", "freeRewardAmount": 1, "points": 280, "premiumReward": "46000024", "premiumRewardAmount": 1},
+				{"points": 320, "premiumReward": "46000000", "premiumRewardAmount": 1},
+				{"freeReward": "46000006", "freeRewardAmount": 1, "points": 360, "premiumReward": "46000005", "premiumRewardAmount": 2},
+				{"points": 400, "premiumReward": "37000123", "premiumRewardAmount": 1},
+				{"freeReward": "46000022", "freeRewardAmount": 1, "points": 460, "premiumReward": "46000021", "premiumRewardAmount": 2},
+				{"points": 520, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"freeReward": "46000023", "freeRewardAmount": 1, "points": 580, "premiumReward": "37000039", "premiumRewardAmount": 150000},
+				{"points": 640, "premiumReward": "37000122", "premiumRewardAmount": 60000},
+				{"freeReward": "46000005", "freeRewardAmount": 1, "points": 700, "premiumReward": "37000124", "premiumRewardAmount": 2},
+				{"points": 760, "premiumReward": "37000125", "premiumRewardAmount": 4},
+				{"freeReward": "46000021", "freeRewardAmount": 1, "points": 820, "premiumReward": "37000034", "premiumRewardAmount": 15},
+				{"points": 880, "premiumReward": "37000074", "premiumRewardAmount": 15},
+				{"freeReward": "3000013", "freeRewardAmount": 1000, "points": 940, "premiumReward": "37000037", "premiumRewardAmount": 15},
+				{"points": 1000, "premiumReward": "46000008", "premiumRewardAmount": 1},
+				{"freeReward": "3000001", "freeRewardAmount": 1000000, "points": 1080, "premiumReward": "46000009", "premiumRewardAmount": 1},
+				{"points": 1160, "premiumReward": "37000039", "premiumRewardAmount": 200000},
+				{"freeReward": "3000002", "freeRewardAmount": 1000000, "points": 1240, "premiumReward": "37000122", "premiumRewardAmount": 80000},
+				{"points": 1320, "premiumReward": "3000013", "premiumRewardAmount": 2000},
+				{"freeReward": "3000007", "freeRewardAmount": 1000000, "points": 1400, "premiumReward": "46000011", "premiumRewardAmount": 1},
+				{"points": 1480, "premiumReward": "37000034", "premiumRewardAmount": 20},
+				{"freeReward": "3000008", "freeRewardAmount": 1000000, "points": 1560, "premiumReward": "37000074", "premiumRewardAmount": 20},
+				{"points": 1640, "premiumReward": "37000037", "premiumRewardAmount": 20},
+				{"freeReward": "3000003", "freeRewardAmount": 10000, "points": 1720, "premiumReward": "46000012", "premiumRewardAmount": 1},
+				{"points": 1800, "premiumReward": "46000002", "premiumRewardAmount": 1},
+				{"freeReward": "3000001", "freeRewardAmount": 2000000, "points": 1880, "premiumReward": "37000039", "premiumRewardAmount": 300000},
+				{"points": 1960, "premiumReward": "37000122", "premiumRewardAmount": 100000},
+				{"freeReward": "3000002", "freeRewardAmount": 2000000, "points": 2040, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 2120, "premiumReward": "46000010", "premiumRewardAmount": 1},
+				{"freeReward": "3000013", "freeRewardAmount": 1500, "points": 2200, "premiumReward": "46000014", "premiumRewardAmount": 1},
+				{"points": 2300, "premiumReward": "46000003", "premiumRewardAmount": 1},
+				{"freeReward": "3000003", "freeRewardAmount": 20000, "points": 2400, "premiumReward": "46000020", "premiumRewardAmount": 1},
+				{"points": 2500, "premiumReward": "3000013", "premiumRewardAmount": 3000},
+				{"freeReward": "46000003", "freeRewardAmount": 1, "points": 2600, "premiumReward": "46000001", "premiumRewardAmount": 1}
+			],
+			"scFile": {
+				"ChecksumSha1": "14b21f884914345a687f7fdb749fc201d32a4ea4",
+				"Path": "/6847a8a9-b5b1-40f4-a36c-76ce6ea47c54_battlepass_background_gold.sc"
+			},
+			"startTime": "20241201T080100.000Z",
+			"type": 13,
+			"variantId": 2,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20241201T080100.000Z",
+			"weeks": [
+				{
+					"tasks": [
+						"53000363",
+						"53000414",
+						"53000187",
+						"53000306",
+						"53000131",
+						"53000029",
+						"53000159",
+						"53000144"
+					]
+				},
+				{
+					"tasks": [
+						"53000152",
+						"53000034",
+						"53000384",
+						"53000341",
+						"53000077",
+						"53000127",
+						"53000129",
+						"53000160"
+					]
+				},
+				{
+					"tasks": [
+						"53000366",
+						"53000387",
+						"53000018",
+						"53000356",
+						"53000330",
+						"53000245",
+						"53000036",
+						"53000162"
+					]
+				},
+				{
+					"tasks": [
+						"53000168",
+						"53000367",
+						"53000011",
+						"53000339",
+						"53000360",
+						"53000147",
+						"53000154",
+						"53000090"
+					]
+				}
+			]
+		},
+		{
+			"endTime": "20301001T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 31032,
+			"impressionId": 1,
+			"items": [
+				{
+					"cost": 25,
+					"deliverable": {
+						"resource": "3000001",
+						"resourceAmount": 2500000,
+						"type": "1"
+					}
+				},
+				{
+					"cost": 25,
+					"deliverable": {
+						"resource": "3000002",
+						"resourceAmount": 2500000,
+						"type": "1"
+					}
+				},
+				{
+					"cost": 10,
+					"deliverable": {
+						"magicItem": "46000007",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 10,
+					"deliverable": {
+						"magicItem": "46000006",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 20,
+					"deliverable": {
+						"magicItem": "46000022",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 30,
+					"deliverable": {
+						"magicItem": "46000014",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 50,
+					"deliverable": {
+						"magicItem": "46000013",
+						"magicItemAmount": 10,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 120,
+					"deliverable": {
+						"magicItem": "46000015",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 120,
+					"deliverable": {
+						"magicItem": "46000016",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 120,
+					"deliverable": {
+						"magicItem": "46000017",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cooldownHours": 168,
+					"cost": 165,
+					"deliverable": {
+						"magicItem": "46000018",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 100,
+					"deliverable": {
+						"decoration": "18000051",
+						"type": "3"
+					}
+				},
+				{
+					"cost": 250,
+					"deliverable": {
+						"decoration": "18000050",
+						"type": "3"
+					},
+					"minLeague": "48000009"
+				},
+				{
+					"cost": 500,
+					"deliverable": {
+						"decoration": "18000049",
+						"type": "3"
+					},
+					"minLeague": "48000012"
+				},
+				{
+					"cost": 1000,
+					"deliverable": {
+						"decoration": "18000048",
+						"type": "3"
+					},
+					"minLeague": "48000015"
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"decoration": "18000047",
+						"type": "3"
+					},
+					"minLeague": "48000018"
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"skin": "52000091",
+						"type": "9"
+					}
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"skin": "52000102",
+						"type": "9"
+					}
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"skin": "52000080",
+						"type": "9"
+					}
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"skin": "52000112",
+						"type": "9"
+					}
+				},
+				{
+					"cost": 2400,
+					"deliverable": {
+						"type": "12",
+						"villageBackground": "60000042"
+					}
+				}
+			],
+			"startTime": "20211001T080100.000Z",
+			"type": 11,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				}
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000207",
+			"diamondCountOverride": 2500,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71560,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "3291babad3efa6670f1d0f44b0312514aee6f2da",
+				"Path": "/042d1a37-fbdb-4411-9c74-3a08336ba8f7_2024_Offer_ABtest.csv"
+			},
+			"priority": 104,
+			"shopItemBGColor": "0",
+			"startTime": "20241001T123400.000Z",
+			"tid": "TID_DIAMOND_PACK_SACK",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				}
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000075",
+			"diamondCountOverride": 14000,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71561,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "3291babad3efa6670f1d0f44b0312514aee6f2da",
+				"Path": "/042d1a37-fbdb-4411-9c74-3a08336ba8f7_2024_Offer_ABtest.csv"
+			},
+			"priority": 106,
+			"shopItemBGColor": "0",
+			"startTime": "20241001T123400.000Z",
+			"tid": "TID_DIAMOND_PACK_CHEST",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				}
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000041",
+			"diamondCountOverride": 500,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71562,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "3291babad3efa6670f1d0f44b0312514aee6f2da",
+				"Path": "/042d1a37-fbdb-4411-9c74-3a08336ba8f7_2024_Offer_ABtest.csv"
+			},
+			"priority": 102,
+			"shopItemBGColor": "0",
+			"startTime": "20241001T123400.000Z",
+			"tid": "TID_DIAMOND_PACK_PILE",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				}
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000188",
+			"diamondCountOverride": 80,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71563,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "3291babad3efa6670f1d0f44b0312514aee6f2da",
+				"Path": "/042d1a37-fbdb-4411-9c74-3a08336ba8f7_2024_Offer_ABtest.csv"
+			},
+			"priority": 101,
+			"shopItemBGColor": "0",
+			"startTime": "20241001T123400.000Z",
+			"tid": "TID_DIAMOND_PACK_POCKET",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				}
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000066",
+			"diamondCountOverride": 6500,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71564,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "3291babad3efa6670f1d0f44b0312514aee6f2da",
+				"Path": "/042d1a37-fbdb-4411-9c74-3a08336ba8f7_2024_Offer_ABtest.csv"
+			},
+			"priority": 105,
+			"shopItemBGColor": "0",
+			"startTime": "20241001T123400.000Z",
+			"tid": "TID_DIAMOND_PACK_BOX",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				}
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000197",
+			"diamondCountOverride": 1200,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71565,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "3291babad3efa6670f1d0f44b0312514aee6f2da",
+				"Path": "/042d1a37-fbdb-4411-9c74-3a08336ba8f7_2024_Offer_ABtest.csv"
+			},
+			"priority": 103,
+			"shopItemBGColor": "0",
+			"startTime": "20241001T123400.000Z",
+			"tid": "TID_DIAMOND_PACK_BAG",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"bracketSize": 8,
+			"endTime": "20241211T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71687,
+			"imageFile": {
+				"ChecksumSha1": "e00ea00a36812df0abbcf1bc6f90e2acb8fbc583",
+				"Path": "/d5200536-dfa9-48c8-8ab0-caf9e8ea7234_original_war_leagues.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "d03b9f41725283198338b7661cbf02d89519d36d",
+				"Path": "/c8ccdb58-5bf7-4aec-a438-7758bf224082_CWL_text_with_link.csv"
+			},
+			"scFile": {
+				"ChecksumSha1": "240a083bf5daeec4949f61c22244e0c3ea58c41d",
+				"Path": "/fb188b80-a449-4837-ab9c-3872e96a75ac_13bd1528_2495_4a3d_b5a1_abe0b8cf60e8_07c7617e_572f_438a_a8bb_7466bd06e20a_clan_games_background_march__1_.sc"
+			},
+			"signupDuration": 172800,
+			"startTime": "20241201T080000.000Z",
+			"type": 8,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20241126T080000.000Z",
+			"warAttacks": 1,
+			"warDrawLootMultiplier": 2,
+			"warDrawLootMultiplierOre": 1,
+			"warDuration": 172800,
+			"warLoseLootMultiplier": 2,
+			"warLoseLootMultiplierOre": 1,
+			"warSizes": [
+				15,
+				30
+			],
+			"warWinLootMultiplier": 2,
+			"warWinLootMultiplierOre": 1
+		},
+		{
+			"endTime": "20250101T080000.000Z",
+			"eventPriority": 0,
+			"id": 71757,
+			"impressionId": 1,
+			"jingleFile": {
+				"ChecksumSha1": "8620188396cde62c0111191312a683c5d395cea5",
+				"Path": "/3a8dcbed-7ba6-4b46-9cbc-91ad2f01d44b_loading_screen_jingle.ogg"
+			},
+			"logoAlign": "1",
+			"scFile": {
+				"ChecksumSha1": "a678865e9c903e1eb60a1830aaf3b8de319ecf17",
+				"Path": "/d3d41e34-9a25-439b-a574-2b368e0b7cc9_loading_clashmas2024.sc"
+			},
+			"startTime": "20241201T080000.000Z",
+			"type": 6,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20250101T080000.000Z",
+			"visibleTime": "20241201T080000.000Z"
+		},
+		{
+			"endTime": "20250101T080000.000Z",
+			"eventPriority": 0,
+			"id": 71758,
+			"impressionId": 1,
+			"obstacles": [
+				{"appearancePeriodHours": 93, "maxCount": 8, "obstacle": "8000127"}
+			],
+			"startTime": "20241201T080000.000Z",
+			"type": 15,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20250101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20260103T102700.000Z",
+			"eventPriority": 0,
+			"fallbackSkinPackAndroid": {
+				"ChecksumSha1": "7a044557915ded5a8947cdfd9f2a92d81a3d6c66",
+				"Path": "/399c8dc0-57ec-4f68-a0d2-be49a3b15247_fe6c02b8_9178_4e79_b260_27bf736fcefa_skin_20241203121948_fallback_android.scp"
+			},
+			"fallbackSkinPackIos": {
+				"ChecksumSha1": "b6eff933cb5e7e20312da87efa7b6643dd11f8f9",
+				"Path": "/de75f83b-d72a-4192-944a-99f3e5f66218_33382bde_5eac_4a2b_8e51_bd2db36f1143_skin_20241203121948_fallback_ios.scp"
+			},
+			"id": 71759,
+			"impressionId": 1,
+			"key": {
+				"Key": "7527d1842019930e579afe44f26766c6628fb27d1d8edcec7d1c5aab914fa48f",
+				"Nonce": "e5958e6d37b55bbe51baf0b95b44eae7964042bb4f7125e1"
+			},
+			"skin": "52000210",
+			"skinPack": {
+				"ChecksumSha1": "ec2cc1ee2571fedec1a65a2f9204f9501c47df0b",
+				"Path": "/5baed1e8-4a1e-4d0a-b825-289d11cf120d_8bc567e7_a4fc_4468_a3c3_eb9dc1a6b2fe_skin_20241203121948.scp"
+			},
+			"startTime": "20241130T102700.000Z",
+			"type": 16,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20260103T102700.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"attackCount": 5,
+			"endTime": "20241209T070000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"id": 71761,
+			"imageFile": {
+				"ChecksumSha1": "e189252645367f9192eb496ac7df8b0dae1f7e61",
+				"Path": "/5d114d56-5d81-4ec6-8113-841c22dc6fbb_raid_weekend.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "ea15df7670dcc48da585fc62e7072478b10f9308",
+				"Key": "bd9ed69a803b73d71ee7b02c9f21cfc59d52c13a408dbf159c312f39a0d84dad",
+				"Nonce": "778ebf768d75acb79276f26d14d2b1e5dacb38852b2f349e",
+				"Path": "/333d101e-7f1b-402a-8b46-5a936da1e47d.csv"
+			},
+			"scFile": {
+				"ChecksumSha1": "0b48e0186b6651a30cb26e4e2b4adb89691e31e9",
+				"Path": "/34202d5d-0a6d-4416-9ac4-77499d207857_purple_background.sc"
+			},
+			"startTime": "20241206T070000.000Z",
+			"type": 28,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20241202T070100.000Z"
+		},
+		{
+			"baseScFile": {
+				"ChecksumSha1": "83d8566bbaeebc14ddf1b99f2e357800b97797ab",
+				"Path": "/90691045-79bf-4b46-807c-ce65d67818af_scenery_gamearea_clashmas24_dl_opt.sc"
+			},
+			"buildingBasesScFile": {
+				"ChecksumSha1": "c531f214e7e5c7a93cecdbee336db61a5d9c5331",
+				"Path": "/a03db085-d6d9-43d4-8597-6e52f17fcbc7_scenery_bases_chess_2023_dl_opt.sc"
+			},
+			"endTime": "20270306T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"foregroundExportName": "Player_Background",
+			"iconFile": {
+				"ChecksumSha1": "5e14274a5139721ca80cf3927b9eefbedd2d1486",
+				"Path": "/0441bbc9-602f-44a0-a340-adf72df01c89_scenery_clashmas24_dl_opt.ktx"
+			},
+			"id": 71763,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "e7a6b8a107e12ba4cb17fca8dda0aebdfb032aca",
+				"Path": "/98eba432-36a7-40cc-ac6b-2f20829320de_clashmas_2024_scenery_loc_28_11_2024.csv"
+			},
+			"musicFile": {
+				"ChecksumSha1": "49a7d22bee5f81fb170f607fd70f7ca7598fc55b",
+				"Path": "/4aecb7bf-18aa-48e9-a428-bddd74098958_Amb_Clashmas24_Bed_and_Music_dl_opt.ogg"
+			},
+			"parallaxLayers": [
+				{"layer": "foreground1", "strength": 15}
+			],
+			"sceneryScFile": {
+				"ChecksumSha1": "0b73ca8784c3b9c4e510b8568e29bf65a7f6dc86",
+				"Path": "/4088c581-4b82-4e53-a36d-7ba0f83ec742_scenery_clashmas24_dl_opt.sc"
+			},
+			"startTime": "20241203T080000.000Z",
+			"thumbnailFile": {
+				"ChecksumSha1": "5a9019bbb7d285d780ae584b8a690178e8efaf73",
+				"Path": "/cbe83938-4df6-4cf1-9c2f-4c1762f4cd3d_clashmas24_bgr_image_dl_opt.ktx"
+			},
+			"tid": "TID_SCENERY_CLASHMAS2024",
+			"type": 18,
+			"variantId": 0,
+			"version": 1,
+			"villageBackground": "60000067",
+			"villageObjectLocators": [
+				{"locator": "ship_location", "villageObject": "39000000"},
+				{"locator": "boat_location", "villageObject": "39000002"},
+				{"locator": "air_ship_location", "villageObject": "39000025"},
+				{"locator": "forge_location", "villageObject": "39000024"}
+			],
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"availableInBuilderBase": true,
+			"availableInVillage": true,
+			"endTime": "20420101T080000.000Z",
+			"eventPriority": 100,
+			"id": 71769,
+			"imageFile": {
+				"ChecksumSha1": "f4b70844881d71895867accf10a2ae7b9d9780e7",
+				"Path": "/4cc50aa5-949b-47c0-b374-a4194f08481b_Clashmas_24_controllable_event.png"
+			},
+			"impressionId": 1,
+			"levels": [
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241204T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"},
+				{"availableFrom": "20241213T080000.000Z"}
+			],
+			"localizationFile": {
+				"ChecksumSha1": "9746488f0ffa068d87ba0122e20da648b31b4da6",
+				"Path": "/69f76704-7de8-4687-a28d-1350096810d1_direct_hero_campaign_loc_2024_11_28.csv"
+			},
+			"minTownHallLevel": 4,
+			"rewards": [
+				{"quantity": 1, "stars": 3, "type": "99000000"},
+				{"quantity": 1, "stars": 9, "type": "99000000"},
+				{"quantity": 1, "stars": 15, "type": "99000000"},
+				{"quantity": 1, "stars": 21, "type": "99000000"},
+				{"quantity": 2, "stars": 27, "type": "99000000"},
+				{"quantity": 2, "stars": 33, "type": "99000000"},
+				{"quantity": 3, "stars": 39, "type": "99000000"},
+				{"quantity": 1, "stars": 45, "type": "99000000"},
+				{"quantity": 1, "stars": 51, "type": "99000000"},
+				{"quantity": 2, "stars": 57, "type": "99000000"},
+				{"quantity": 2, "stars": 63, "type": "99000000"},
+				{"quantity": 3, "stars": 69, "type": "99000000"},
+				{"quantity": 1, "stars": 72, "type": "18000165"}
+			],
+			"scFile": {
+				"ChecksumSha1": "7d9ba7a51acd641bb4393e6a364b57d220bad244",
+				"Key": "37a3007243d862e0798d46a796788eaaffcc7802152ef5d00720621b29d5382c",
+				"Nonce": "64cf2426dcf371bcd751a422d88477135df8c967c22b0605",
+				"Path": "/1db85c85-ae3c-43de-9490-83c02b51000e.sc"
+			},
+			"startTime": "20241204T080000.000Z",
+			"tutorialCsv": {
+				"Content": "\"Name\",\"Dependencies\",\"MissionCategory\",\"VillageType\",\"FirstStep\",\"Deprecated\",\"Action\",\"Character\",\"FixVillageObject\",\"BuildBuilding\",\"BuildBuildingLevel\",\"BuildBuildingCount\",\"DefendNPC\",\"AttackNPC\",\"Delay\",\"TrainTroops\",\"ShowMap\",\"ClientCondition\",\"ClientStartAction\",\"TutorialText\",\"TutorialStep\",\"Darken\",\"TutorialTextBox\",\"TutorialCharacter\",\"CharacterSWF\",\"LoopAnim\",\"SpeechBubble\",\"RightAlignTextBox\",\"ButtonText\",\"TutorialMusic\",\"TutorialSound\",\"HighlightArrowPath\",\"HighlightArrowDirection\",\"ClientAction\",\"RewardResource\",\"RewardResourceCount\",\"RewardXP\",\"RewardTroop\",\"RewardTroopCount\",\"CustomData\",\"Villagers\",\"ForceCamera\",\"WaitUntilPopupIsClosed\",\"LinkedReengagementStep\",\"RewindOnConditionFail\",\"ProgressWithCondition\",\"LinkedMission\"\r\n\"String\",\"String\",\"String\",\"int\",\"boolean\",\"boolean\",\"String\",\"String\",\"String\",\"String\",\"int\",\"int\",\"String\",\"String\",\"int\",\"int\",\"boolean\",\"String\",\"String\",\"String\",\"int\",\"boolean\",\"String\",\"String\",\"String\",\"boolean\",\"String\",\"boolean\",\"String\",\"String\",\"String\",\"String\",\"String\",\"String\",\"String\",\"int\",\"int\",\"String\",\"int\",\"int\",\"int\",\"boolean\",\"boolean\",\"int\",\"boolean\",\"boolean\",\"String\"\r\n\"Level_0\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(0)\",,\"TID_LEVEL1_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL1_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Happy.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL1_DIALOGUE3\",0,\"TRUE\",\"tutorial_friendly\",\"me_bk_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_BarbarianKing_Happy.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_1\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(1)\",,\"TID_LEVEL2_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL2_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_bk_tutorial_pose3\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_BarbarianKing_Angry.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_2\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(2)\",,\"TID_LEVEL3_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL3_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Angry.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_3\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(3)\",,\"TID_LEVEL4_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Happy.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL4_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_5\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(5)\",,\"TID_LEVEL6_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_goblinbaker_tutorial_sad4\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/goblin_chef_emote_02.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL6_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_goblinbaker_tutorial_sad2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/goblin_chef_emote_03.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL6_DIALOGUE3\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_6\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(6)\",,\"TID_LEVEL7_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_goblinbaker_tutorial_sad3\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/goblin_chef_emote_03.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL7_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose3\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Happy.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_7\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(7)\",,\"TID_LEVEL8_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL8_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_mp_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MinionPrince_Angry.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL8_DIALOGUE3\",0,\"TRUE\",\"tutorial_friendly\",\"me_mp_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MinionPrince_Happy.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_9\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(9)\",,\"TID_LEVEL10_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_bk_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_BarbarianKing_Happy.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_11\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(11)\",,\"TID_LEVEL12_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_bk_tutorial_pose3\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_BarbarianKing_Sad.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_12\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(12)\",,\"TID_LEVEL13_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_rc_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_RoyalChampion_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL13_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_rc_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_RoyalChampion_Happy.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_13\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(13)\",,\"TID_LEVEL14_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL14_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_mp_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MinionPrince_Sad.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL14_DIALOGUE3\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL14_DIALOGUE4\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Happy.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_14\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(14)\",,\"TID_LEVEL15_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_mp_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MinionPrince_Sad.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL15_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_mp_tutorial_pose3\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MinionPrince_Happy.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL15_DIALOGUE3\",0,\"TRUE\",\"tutorial_friendly\",\"me_mp_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MinionPrince_Angry.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_15\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(15)\",,\"TID_LEVEL16_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_mp_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MinionPrince_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL16_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_mp_tutorial_pose3\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MinionPrince_Happy.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_17\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(17)\",,\"TID_LEVEL18_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_gw_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_GrandWarden_Happy.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL18_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_gw_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_GrandWarden_Angry.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL18_DIALOGUE3\",0,\"TRUE\",\"tutorial_friendly\",\"me_aq_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_ArcherQueen_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_18\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(18)\",,\"TID_LEVEL19_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_gw_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_GrandWarden_Angry.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_19\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(19)\",,\"TID_LEVEL20_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_goblinmaker_tutorial_smile\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/goblin_chef_emote_04.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL20_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_goblinmaker_tutorial_show\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/goblin_chef_emote_01.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL20_DIALOGUE3\",0,\"TRUE\",\"tutorial_friendly\",\"me_goblinmaker_tutorial_run\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/goblin_chef_emote_05.ogg\",,,,,,,,,,,,,,,,\r\n\"Level_23\",,\"CHALLENGE_CAMPAIGN\",0,\"TRUE\",,\"custom\",,,,,,,,1000,,,\"noPopups && isInChallengeCampaignLevel(23)\",,\"TID_LEVEL24_DIALOGUE1\",0,\"TRUE\",\"tutorial_friendly\",\"me_rc_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_RoyalChampion_Happy.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL24_DIALOGUE2\",0,\"TRUE\",\"tutorial_friendly\",\"me_rc_tutorial_pose2\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_RoyalChampion_Neutral.ogg\",,,,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,,,\"TID_LEVEL24_DIALOGUE3\",0,\"TRUE\",\"tutorial_friendly\",\"me_cookie_tutorial_pose1\",,,\"bubble_no_button_left\",\"false\",,,\"sfx/Vo_MegaCookie_Neutral.ogg\",,,,,,,,,,,,,,,,"
+			},
+			"type": 38,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20250101T080000.000Z",
+			"visibleTime": "20241204T080000.000Z"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+Name,IconSWF,IconExportName,TID,InfoTID,Attacker,Defender,BuildingClass,Spells,Heroes,DamageMultiplier,HPMultiplier,CommonEquipmentLevelCap,EpicEquipmentLevelCap
+String,String,String,String,String,boolean,boolean,String,boolean,boolean,int,int,int,int
+Hard Mode,,,TID_CHALLENGE_TITLE_HARD_MODE,TID_HARD_MODE_DESC,,TRUE,Any Building,TRUE,,105,,15,21
+,,,,,TRUE,,,,TRUE,95,95,,

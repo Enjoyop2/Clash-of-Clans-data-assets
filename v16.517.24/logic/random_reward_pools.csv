@@ -1,0 +1,11 @@
+Name,Box,Amount,InitialRarity
+String,String,int,int
+CommonPool,CommonChest,29,1
+,RareChest,16,
+,EpicChest,4,
+,LegendaryChest,1,
+RarePool,RareChest,16,2
+,EpicChest,4,
+,LegendaryChest,1,
+EpicPool,EpicChest,4,3
+,LegendaryChest,1,

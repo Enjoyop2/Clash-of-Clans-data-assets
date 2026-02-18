@@ -1,0 +1,3 @@
+Name,TID,InfoTID,SWF,ExportName,ExportNameConstruction,Width,Height,PassableSubtilesAtEdge,Icon,ExportNameBase,VillageType,DecoPath,UseObjectBottomLayer,IsFadedAndPassableInCombat
+String,String,String,String,String,String,int,int,int,String,String,int,boolean,boolean,boolean
+DanceFloor,TID_DANCE_FLOOR,TID_DANCE_FLOOR_INFO,sc/buildings.sc,env_large_stone_b,generic_construction_state1,2,2,1,,large_stone_b_base,,,TRUE,FALSE

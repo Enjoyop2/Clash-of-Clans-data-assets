@@ -1,0 +1,5 @@
+Name,Diffuse,DiffuseMultiplier,DiffuseMenu,DiffuseMenuMultiplier,Specular,SpecularMultiplier,SpecularMenu,SpecularMenuMultiplier,Tonemap,ShaderOverride
+String,String,float,String,float,String,float,String,float,boolean,String
+Default,sc3d/irradiance_game.png,2,sc3d/irradiance_menu.png,2,sc3d/env_game.png,16,sc3d/env_menu.png,16,TRUE,
+BB,sc3d/irradiance_game_bb.png,2,sc3d/irradiance_menu_bb.png,2,sc3d/env_game_bb.png,16,sc3d/env_menu_bb.png,16,TRUE,
+Anime,sc3d/irradiance_game_toon.png,2,sc3d/irradiance_menu_toon.png,2,sc3d/env_menu_toon.png,1,sc3d/env_menu_toon.png,1,TRUE,shader/character_simple.vsh

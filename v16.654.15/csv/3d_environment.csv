@@ -1,0 +1,11 @@
+Name,Diffuse,DiffuseMultiplier,Specular,SpecularMultiplier
+String,String,float,String,float
+Default,sc3d/irradiance_game.png,2,sc3d/env_game.png,16
+DefaultMenu,sc3d/irradiance_menu.png,2,sc3d/env_menu.png,16
+DefaultWardrobe,sc3d/irradiance_wardrobe.png,2,sc3d/env_wardrobe.png,16
+BB,sc3d/irradiance_game_bb.png,2,sc3d/env_game_bb.png,16
+BBMenu,sc3d/irradiance_menu_bb.png,2,sc3d/env_menu_bb.png,16
+BBWardrobe,sc3d/irradiance_wardrobe.png,2,sc3d/env_wardrobe.png,16
+Anime,sc3d/irradiance_game_toon.png,2,sc3d/env_menu_toon.png,1
+AnimeMenu,sc3d/irradiance_menu_toon.png,2,sc3d/env_menu_toon.png,1
+AnimeWardrobe,sc3d/irradiance_wardrobe_toon.png,2,sc3d/env_menu_toon.png,1
