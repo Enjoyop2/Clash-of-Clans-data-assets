@@ -1,0 +1,37 @@
+Name,ParameterType,ParameterName,Description,Public
+String,String,String,String,boolean
+OpenShop,int,village,"Open the shop. village is optional 0==Home, 1==BuilderBase",TRUE
+OpenShopBillingPackage,BillingPackage,package,Open the shop and show the billing package,TRUE
+OpenShopOfferBundle,Bundle,bundle,Open the shop and show bundle,TRUE
+OpenShopBuilding,Building,building,Open the shop and show the building,TRUE
+OpenShopTrap,Trap,trap,Open the shop and show the trap,TRUE
+OpenTraining,,,Open the training screen,TRUE
+OpenTrainingTroop,Troop,troop,Open the training screen and show the troop,TRUE
+OpenTrainingSpell,Spell,spell,Open the training screen and show the spell,TRUE
+OpenWeb,String,url,Open default browser and go to address,FALSE
+,,url2,If address cannot be opened i.e. clashroyale:// then the following urls are tested.,
+,,url3,,
+Share,String,url,Open native share dialogue with message,FALSE
+,String,message,,
+OpenPlayerProfile,String,tag,Open player profile,TRUE
+OpenClanProfile,String,tag,Open a clans profile,TRUE
+OpenEvents,int,eventId,Open event calendar and highlight event,TRUE
+SelectGameObject,GameObject,name,Select first game object with name,TRUE
+OpenHelpshift,String,article,"Open Helpshift. Show article if defined, show section if defined, else show FAQ.",TRUE
+,String,section,,
+OpenClanSearch,,,Open the clan search screen.,TRUE
+OpenCreateClan,,,Open the create clan screen.,TRUE
+OpenClanGames,,,Open clan games UI if available,TRUE
+OpenSCID,,,Open SCID UI,TRUE
+Purchase,Offer,offer,Initiate offer purchase,FALSE
+OpenMyClan,,,Open ”My Clan” page,TRUE
+OpenClanChat,,,Open clan chat,TRUE
+OpenSettings,,,Open settings,TRUE
+OpenMoreSettings,,,Open ”More Settings”,TRUE
+OpenLayoutEditor,int,village,"Open layout editor, optional village parameter 0==Home, 1==BuilderBase",TRUE
+ChallengeAttack,String,map,Attack challenge npc map,FALSE
+OpenNews,,,Open News,TRUE
+OpenLayout,String,id,Description,TRUE
+OpenSeasonChallenges,,,Open season challenges UI if available,TRUE
+OpenShopOffer,Offer,offer,Open the shop and show offer page,TRUE
+OpenTrader,,,Open Trader,TRUE

@@ -1,0 +1,10 @@
+Name,SWF,ExportName,ScaleTimeline,DirectionCount,ParticleEmitter,Effect,StartHeight,IsBallistic,ShadowSWF,ShadowExportName,UseRotate,DirectionFrame,PlayOnce,UseTopLayer,Scale,BallisticHeight,TrajectoryStyle,DestroyedEffect,BounceEffect,StartOffsetFromGunBone
+String,String,String,boolean,int,String,String,int,boolean,String,String,boolean,boolean,boolean,boolean,int,int,int,String,String,boolean
+ArcherQueenCNY arrow,sc/buildings.sc,hero_cny_multi_arrow,FALSE,0,,,65,FALSE,sc/buildings.sc,bolt_projectile_shadow,TRUE,FALSE,FALSE,FALSE,100,0,0,,,FALSE
+ArcherQueenCNY arrow rage,sc/buildings.sc,hero_cny_multi_arrow_rage,FALSE,0,,,65,FALSE,sc/buildings.sc,bolt_projectile_shadow,TRUE,FALSE,FALSE,FALSE,100,0,0,,,FALSE
+RoyalChampionWinter spear,sc/hero_rc_winter_dl_opt.sc,hero_warriorprincess_javelin_winter,FALSE,0,javelin_trail_glow,,0,TRUE,sc/buildings.sc,bolt_projectile_shadow,TRUE,FALSE,FALSE,FALSE,100,0,0,,,TRUE
+AmazonQueen_shield_winter,sc/hero_rc_winter_dl_opt.sc,shield_projectile_winter,FALSE,0,shield_trail_glow,,50,TRUE,sc/buildings.sc,simple_shadow_small,FALSE,FALSE,FALSE,FALSE,100,100,3,trollBoulder_destroyed,,FALSE
+RoyalChampionRogue spear,sc/hero_rc_rogue_dl_opt.sc,hero_warriorprincess_javelin_rogue,FALSE,0,javelin_trail_glow,,0,TRUE,sc/buildings.sc,bolt_projectile_shadow,TRUE,FALSE,FALSE,FALSE,100,0,0,,,TRUE
+AmazonQueen_shield_rogue,sc/hero_rc_rogue_dl_opt.sc,shield_projectile_rogue,FALSE,0,shield_trail_glow,,50,TRUE,sc/buildings.sc,simple_shadow_small,FALSE,FALSE,FALSE,FALSE,100,100,3,trollBoulder_destroyed,,FALSE
+RoyalChampionJungle spear,sc/hero_rc_jungle_dl_opt.sc,hero_warriorprincess_javelin_jungle,FALSE,0,javelin_trail_glow,,0,TRUE,sc/buildings.sc,bolt_projectile_shadow,TRUE,FALSE,FALSE,FALSE,100,0,0,,,TRUE
+RoyalChampionJungle shield,sc/hero_rc_jungle_dl_opt.sc,shield_projectile_jungle,FALSE,0,shield_trail_glow,,50,TRUE,sc/buildings.sc,simple_shadow_small,FALSE,FALSE,FALSE,FALSE,100,100,3,trollBoulder_destroyed,,FALSE

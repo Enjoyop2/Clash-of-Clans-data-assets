@@ -1,0 +1,363 @@
+{
+	"events": [
+		{
+			"bracketSize": 4,
+			"endTime": "20180625T110000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"id": 31734,
+			"scFile": {
+				"ChecksumSha1": "04d0d40abec935e7c1f39cbfc1f06fde62743e4d",
+				"Path": "/6a3c7980-6237-42ce-969f-f2b566440397_silly.sc"
+			},
+			"signupDuration": 3600,
+			"startTime": "20180625T070000.000Z",
+			"type": 8,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T100000.000Z",
+			"warAttacks": 1,
+			"warDrawLootMultiplier": 1,
+			"warDuration": 3600,
+			"warLoseLootMultiplier": 1,
+			"warSizes": [
+				15,
+				30
+			],
+			"warWinLootMultiplier": 1
+		},
+		{
+			"endTime": "20191101T070000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"id": 734,
+			"imageFile": {
+				"ChecksumSha1": "bdac46baaca6a51e208aaefbbaede81f22a07adb",
+				"Path": "/ec21bcfa-17e8-4112-a408-0a9a1227b72e_boost_war.png"
+			},
+			"keyRewardImage": {
+				"ChecksumSha1": "bfed1550d196438453921c5fe7ae325b3109d18d",
+				"Path": "/d5ca7fd9-57e4-4b38-be48-4418150e3c03_bp_skin_aq_ice_image.png"
+			},
+			"localizationFile": {
+				"ChecksumSha1": "a169ec44e3d16a8110cda93f3cc9904bc489d9a8",
+				"Path": "/7879b308-d9ac-4e6c-b030-af60d40d967d_Season_Challenges_Events_Tab_test.csv"
+			},
+			"rewardTiers": [
+				{"freeReward": "3000001", "freeRewardAmount": 500000, "points": 40, "premiumReward": "37000040", "premiumRewardAmount": 99},
+				{"points": 80, "premiumReward": "37000034", "premiumRewardAmount": 10},
+				{"freeReward": "3000002", "freeRewardAmount": 500000, "points": 120, "premiumReward": "37000037", "premiumRewardAmount": 10},
+				{"points": 160, "premiumReward": "37000074", "premiumRewardAmount": 10},
+				{"freeReward": "3000003", "freeRewardAmount": 5000, "points": 200, "premiumReward": "37000039", "premiumRewardAmount": 100000},
+				{"points": 260, "premiumReward": "46000001", "premiumRewardAmount": 1},
+				{"freeReward": "46000005", "freeRewardAmount": 1, "points": 320, "premiumReward": "46000020", "premiumRewardAmount": 1},
+				{"points": 380, "premiumReward": "46000002", "premiumRewardAmount": 1},
+				{"freeReward": "46000021", "freeRewardAmount": 1, "points": 440, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 500, "premiumReward": "46000005", "premiumRewardAmount": 1},
+				{"freeReward": "46000007", "freeRewardAmount": 1, "points": 580, "premiumReward": "37000034", "premiumRewardAmount": 15},
+				{"points": 660, "premiumReward": "37000074", "premiumRewardAmount": 15},
+				{"freeReward": "3000001", "freeRewardAmount": 1000000, "points": 740, "premiumReward": "37000039", "premiumRewardAmount": 150000},
+				{"points": 820, "premiumReward": "37000037", "premiumRewardAmount": 15},
+				{"freeReward": "3000002", "freeRewardAmount": 1000000, "points": 900, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 980, "premiumReward": "46000021", "premiumRewardAmount": 1},
+				{"freeReward": "3000003", "freeRewardAmount": 10000, "points": 1060, "premiumReward": "46000014", "premiumRewardAmount": 1},
+				{"points": 1140, "premiumReward": "46000007", "premiumRewardAmount": 5},
+				{"freeReward": "46000019", "freeRewardAmount": 1, "points": 1220, "premiumReward": "37000034", "premiumRewardAmount": 20},
+				{"points": 1300, "premiumReward": "37000074", "premiumRewardAmount": 20},
+				{"freeReward": "46000022", "freeRewardAmount": 1, "points": 1400, "premiumReward": "37000039", "premiumRewardAmount": 200000},
+				{"points": 1500, "premiumReward": "37000037", "premiumRewardAmount": 20},
+				{"freeReward": "46000014", "freeRewardAmount": 1, "points": 1600, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 1700, "premiumReward": "46000011", "premiumRewardAmount": 1},
+				{"freeReward": "3000001", "freeRewardAmount": 1500000, "points": 1850, "premiumReward": "46000008", "premiumRewardAmount": 1},
+				{"points": 2000, "premiumReward": "46000010", "premiumRewardAmount": 1},
+				{"freeReward": "3000002", "freeRewardAmount": 1500000, "points": 2150, "premiumReward": "46000000", "premiumRewardAmount": 1},
+				{"points": 2300, "premiumReward": "37000039", "premiumRewardAmount": 250000},
+				{"freeReward": "3000003", "freeRewardAmount": 15000, "points": 2450, "premiumReward": "37000034", "premiumRewardAmount": 30},
+				{"freeReward": "46000003", "freeRewardAmount": 1, "points": 2600, "premiumReward": "52000006", "premiumRewardAmount": 1}
+			],
+			"scFile": {
+				"ChecksumSha1": "d5fa4f3ee38b2fe92b572110f8013a1580d1996d",
+				"Path": "/310c63cc-0ebf-49af-bd32-4cff9c9c0e4b_halloween_background_orange.sc"
+			},
+			"startTime": "20191001T070000.000Z",
+			"startingSeasonBankSize": 50000,
+			"tierSkipCost": 100,
+			"type": 13,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20191001T070000.000Z",
+			"weeks": [
+				{
+					"tasks": [
+						"53000174",
+						"53000363",
+						"53000305",
+						"53000322",
+						"53000034",
+						"53000036"
+					]
+				},
+				{
+					"tasks": [
+						"53000166",
+						"53000209",
+						"53000117",
+						"53000279",
+						"53000143",
+						"53000090"
+					]
+				},
+				{
+					"tasks": [
+						"53000072",
+						"53000171",
+						"53000070",
+						"53000309",
+						"53000010",
+						"53000362"
+					]
+				},
+				{
+					"tasks": [
+						"53000206",
+						"53000088",
+						"53000151",
+						"53000013",
+						"53000146",
+						"53000326"
+					]
+				}
+			]
+		},
+		{
+			"endTime": "20190725T110000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"functions": [
+				{
+					"name": "EnableTroop",
+					"parameters": [
+						"4000072"
+					]
+				}
+			],
+			"id": 4011,
+			"startTime": "20190325T070000.000Z",
+			"type": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T100000.000Z"
+		},
+		{
+			"endTime": "20200101T110000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"functions": [
+				{
+					"name": "EnableTroop",
+					"parameters": [
+						"4000030"
+					]
+				}
+			],
+			"id": 4012,
+			"startTime": "20190825T070000.000Z",
+			"type": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T100000.000Z"
+		},
+		{
+			"endTime": "20200101T110000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"functions": [
+				{
+					"name": "EnableSpell",
+					"parameters": [
+						"26000006"
+					]
+				}
+			],
+			"id": 4013,
+			"startTime": "20190825T070000.000Z",
+			"type": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T100000.000Z"
+		},
+		{
+			"boostedTaskExtraProbabilityPercentage": 200,
+			"boostedTaskExtraScorePercentage": 100,
+			"boostedTasks": [
+				"45000005",
+				"45000013",
+				"45000016",
+				"45000018",
+				"45000020",
+				"45000029",
+				"45000031",
+				"45000039",
+				"45000040",
+				"45000050",
+				"45000054",
+				"45000056",
+				"45000061",
+				"45000063",
+				"45000066",
+				"45000072",
+				"45000073",
+				"45000078",
+				"45000079",
+				"45000092",
+				"45000094",
+				"45000095",
+				"45000097",
+				"45000100",
+				"45000102",
+				"45000105",
+				"45000119",
+				"45000126",
+				"45000135",
+				"45000137",
+				"45000139",
+				"45000143",
+				"45000148",
+				"45000149",
+				"45000150",
+				"45000153",
+				"45000154",
+				"45000157",
+				"45000160",
+				"45000165",
+				"45000167",
+				"45000168",
+				"45000171",
+				"45000178",
+				"45000185",
+				"45000187",
+				"45000188",
+				"45000199",
+				"45000206",
+				"45000207",
+				"45000208",
+				"45000221",
+				"45000253",
+				"45000258",
+				"45000260",
+				"45000271",
+				"45000272",
+				"45000277",
+				"45000278",
+				"45000286",
+				"45000291",
+				"45000295",
+				"45000296",
+				"45000307",
+				"45000310",
+				"45000314",
+				"45000319",
+				"45000327",
+				"45000338"
+			],
+			"endTime": "20191101T070000.000Z",
+			"endingSoonNotificationMinutesFromEnd": 180,
+			"id": 6883,
+			"imageFile": {
+				"Checksum": "32db69cbf67088c1499c2ce6e771069d",
+				"ChecksumSha1": "288060adc9bc92427255bfc1a2337503ac0922a6",
+				"File": "clan_games_generic.png",
+				"Path": "/dfdd0116-8ba7-4a52-bcce-18585cc1615d_clan_games_generic.png"
+			},
+			"localizationFile": {
+				"Checksum": "66a2ecc9b4da19eccade6a6e4e5062ed",
+				"ChecksumSha1": "314e347b016f81313c155f76c947fd05fbd80e9b",
+				"File": "9thClash_Clan_Games.csv",
+				"Id": "35425c5c-e5cf-40e6-87b0-b2174bc1078e",
+				"Operations": [],
+				"Path": "/35425c5c-e5cf-40e6-87b0-b2174bc1078e_9thClash_Clan_Games.csv",
+				"Status": "COMPLETE",
+				"Timestamp": "20210811T052842.166Z",
+				"Type": "csv",
+				"gameId": "clashofclans"
+			},
+			"maxVisibleTasks": 1000,
+			"notificationTid": "TID_CLAN_GAMES_STARTED_NOTIFICATION",
+			"personalRewardPoints": 4000,
+			"pointsPerPlayer": 5000,
+			"scFile": {
+				"Checksum": "a276c519f5526b5e72842f18af94bcaa",
+				"ChecksumSha1": "240a083bf5daeec4949f61c22244e0c3ea58c41d",
+				"File": "Clan Games Background.sc",
+				"Path": "/fafe919c-5dbe-4a10-8af1-62a2a863d9c7_Clan_Games_Background.sc"
+			},
+			"startTime": "20191001T070000.000Z",
+			"thresholds": [
+				{
+					"clanXP": 20,
+					"points": 3000,
+					"rewards": [
+						{"amount": 20, "guaranteed": true, "type": "3000004"},
+						{"amount": 1, "guaranteed": true, "type": "46000007"},
+						{"amount": 20, "guaranteed": true, "type": "3000000"},
+						{"amount": 1, "guaranteed": false, "type": "46000006"}
+					]
+				},
+				{
+					"clanXP": 40,
+					"points": 7500,
+					"rewards": [
+						{"amount": 30, "guaranteed": false, "type": "3000005"},
+						{"amount": 1, "guaranteed": false, "type": "46000014"},
+						{"amount": 1, "guaranteed": false, "type": "46000019"}
+					]
+				},
+				{
+					"clanXP": 60,
+					"points": 12000,
+					"rewards": [
+						{"amount": 1, "guaranteed": false, "type": "46000020"},
+						{"amount": 1, "guaranteed": false, "type": "46000022"},
+						{"amount": 50, "guaranteed": false, "type": "3000000"}
+					]
+				},
+				{
+					"clanXP": 80,
+					"points": 18000,
+					"rewards": [
+						{"amount": 80, "guaranteed": true, "type": "3000006"},
+						{"amount": 1, "guaranteed": true, "type": "46000023"},
+						{"amount": 6, "guaranteed": true, "type": "46000013"},
+						{"amount": 2, "guaranteed": false, "type": "46000007"}
+					]
+				},
+				{
+					"clanXP": 100,
+					"points": 30000,
+					"rewards": [
+						{"amount": 100, "guaranteed": false, "type": "3000004"},
+						{"amount": 1, "guaranteed": false, "type": "46000012"},
+						{"amount": 2, "guaranteed": false, "type": "46000021"}
+					]
+				},
+				{
+					"clanXP": 120,
+					"points": 50000,
+					"rewards": [
+						{"amount": 1, "guaranteed": false, "type": "46000004"},
+						{"amount": 2, "guaranteed": false, "type": "46000005"},
+						{"amount": 2, "guaranteed": false, "type": "46000006"}
+					]
+				},
+				{
+					"clanXP": 140,
+					"points": 75000,
+					"rewards": [
+						{"amount": 1, "guaranteed": false, "type": "46000010"},
+						{"amount": 2, "guaranteed": false, "type": "46000014"},
+						{"amount": 100, "guaranteed": false, "type": "3000000"}
+					]
+				}
+			],
+			"type": 5,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20191001T070000.000Z"
+		}
+	]
+}
