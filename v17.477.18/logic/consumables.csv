@@ -1,0 +1,8 @@
+Name,TID,InfoTID,WarnBoosterTID,IconSWF,IconExportName,VillageType,DurationSeconds,BoostMultiplier,BattleUsages,InstantUsages,BoostUpgradeSpeed,BoostResearchSpeed,BoostTroopLevel,BoostSpellLevel,BoostHeroLevel,BoostPetLevel,BoostEquipmentLevel,InstantTraining,RefillCC
+String,String,String,String,String,String,int,int,int,int,int,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean
+Builder Bite,TID_CONSUMABLE_BOOST_BUILDER,TID_CONSUMABLE_BOOST_BUILDER_INFO,TID_CONSUMABLE_BOOST_BUILDER_WARN,sc/ui.sc,consumable_builder_boost,0,3600,2,,,TRUE,,,,,,,,
+Lab Licorice,TID_CONSUMABLE_BOOST_LAB,TID_CONSUMABLE_BOOST_LAB_INFO,TID_CONSUMABLE_BOOST_LAB_WARN,sc/ui.sc,consumable_lab_boost,0,3600,4,,,,TRUE,,,,,,,
+Hero Honey,TID_CONSUMABLE_BOOST_HERO,TID_CONSUMABLE_BOOST_HERO_INFO,TID_CONSUMABLE_BOOST_HERO_WARN,sc/ui.sc,consumable_hero_boost,0,,,3,,,,,,TRUE,TRUE,TRUE,,
+Power Pancakes,TID_CONSUMABLE_BOOST_ARMY,TID_CONSUMABLE_BOOST_ARMY_INFO,TID_CONSUMABLE_BOOST_ARMY_WARN,sc/ui.sc,consumable_army_boost,0,,,3,,,,TRUE,TRUE,,,,,
+Training Treat,TID_CONSUMABLE_INSTANT_TRAINING,TID_CONSUMABLE_INSTANT_TRAINING_INFO,TID_CONSUMABLE_INSTANT_TRAINING_WARN,sc/ui.sc,consumable_training_boost,0,1200,,10,,,,,,,,,TRUE,
+Clan Castle Cake,TID_CONSUMABLE_CC_REFILL,TID_CONSUMABLE_CC_REFILL_INFO,,sc/ui.sc,consumable_free_cc_refill,0,43200,,,,,,,,,,,,TRUE

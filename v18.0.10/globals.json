@@ -1,0 +1,101 @@
+{
+	"Globals": {
+		"CurrentSeasonEndTimestamp": 0,
+		"DuelBonusLimitWinsPerDay": 3,
+		"DuelBonusMaxDiamondCostPercent": 100,
+		"DuelBonusPercentDraw": 0,
+		"DuelBonusPercentLose": 0,
+		"DuelBonusPercentWin": 100,
+		"DuelLootLimitCooldownInMinutes": 1320,
+		"GiftPackExtension": "xmas",
+		"PerformanceTrackerPercent": 100
+	},
+	"KillSwitches": {
+		"AirWardenRetargetingDelay": 800,
+		"DynamicFeatureFlags": [
+			{"FeatureFlagName": "SoftMandatory_16_654_1_TrainingPotion", "FeatureFlagOn": true},
+			{"FeatureFlagName": "SoftMandatory_16_654_1_StuckInWalls", "FeatureFlagOn": true},
+			{"FeatureFlagName": "ControllableHeroEquipmentUI", "FeatureFlagOn": true},
+			{"FeatureFlagName": "EnableWatchChallengeReplayButton", "FeatureFlagOn": true},
+			{"FeatureFlagName": "MovementOverrideForPets", "FeatureFlagOn": true},
+			{"FeatureFlagName": "ControllableHeroMinimumTouchAreaForTroops", "FeatureFlagOn": true},
+			{"FeatureFlagName": "NewTos", "FeatureFlagOn": true},
+			{"FeatureFlagName": "SoftMandatory_16_654_2_LabAssistant", "FeatureFlagOn": true},
+			{"FeatureFlagName": "SoftMandatory_16_654_2_BuilderAssistant", "FeatureFlagOn": true},
+			{"FeatureFlagName": "AgeGateResurface", "FeatureFlagOn": true},
+			{"FeatureFlagName": "AllowSuperTroopsDonation", "FeatureFlagOn": true},
+			{"FeatureFlagName": "ValidateSaveActiveArmyToPreset", "FeatureFlagOn": true},
+			{"FeatureFlagName": "SoftMandatory_DoNotAllowUsageOfDeadBBHeroesInStage2", "FeatureFlagOn": true},
+			{"FeatureFlagName": "FixSiegeLauncherUnits", "FeatureFlagOn": true},
+			{"FeatureFlagName": "RestoreActiveHeroesOnFailure", "FeatureFlagOn": true},
+			{"FeatureFlagName": "FixRecurringBAAssignment", "FeatureFlagOn": true},
+			{"FeatureFlagName": "COC7005_ArmyLoadoutNameFix", "FeatureFlagOn": true},
+			{"FeatureFlagName": "ProjectileNPEForHookTower", "FeatureFlagOn": true},
+			{"FeatureFlagName": "SaveSeasonalDefenseManagerToSnapshot", "FeatureFlagOn": true},
+			{"FeatureFlagName": "magic_17_477_FixCommodityHandlingForFriendlyArmy", "FeatureFlagOn": true},
+			{"FeatureFlagName": "CapitalSiegeCartFix", "FeatureFlagOn": true},
+			{"FeatureFlagName": "magic_17_477_FixHookTowerPullsGettingStuckInsideWall", "FeatureFlagOn": true},
+			{"FeatureFlagName": "EnableFullscreenInbox", "FeatureFlagOn": false},
+			{"FeatureFlagName": "AirSweeperPushBackBugWithTotemSpell", "FeatureFlagOn": true},
+			{"FeatureFlagName": "BuilderBoostsExpiredWhileOfflineGuardian", "FeatureFlagOn": true},
+			{"FeatureFlagName": "SeasonalDefenseTutorialOnlyResetAtHome", "FeatureFlagOn": true}
+		],
+		"EnableArmyLoadouts": true,
+		"MinRangeForAvoidingWallsInAttackPositionSelection": 1500,
+		"RemoveInvalidBlockingObstacles": true,
+		"SiegeUnloadMaxTime": 1750,
+		"WardenGroupRefreshInterval": 1800
+	},
+	"MinVersion": {
+		"BaseVersion": "18.0",
+		"GlobalMinimumVersion": 5
+	},
+	"RegionalRules": {
+		"AgeRestrictions": [
+			{"Age": 16, "Country": "US"},
+			{"Age": 16, "Country": "GB"},
+			{"Age": 16, "Country": "KR"}
+		],
+		"GlobalAgeRestriction": 16,
+		"GlobalAskAgeTutorial": true,
+		"ParentalConsent": [
+			{"ConsentUrl": "~~EMPTY~~", "Country": "KR"}
+		]
+	},
+	"Village1": {
+		"LegendLeagueDailyAttacks": [
+			{"Count": 8, "Trophies": 1}
+		],
+		"LegendLeagueTrophyChange": [
+			{"DPPerTrophy": 10, "Min": 0},
+			{"DPPerTrophy": 9, "Min": 5},
+			{"DPPerTrophy": 3, "Min": 16},
+			{"DPPerTrophy": 0, "Min": 40}
+		]
+	},
+	"Village2": {
+		"ScoreChangeForLosing": [
+			{"Milestone": 0, "Percentage": 0},
+			{"Milestone": 400, "Percentage": 30},
+			{"Milestone": 800, "Percentage": 55},
+			{"Milestone": 1200, "Percentage": 70},
+			{"Milestone": 1600, "Percentage": 85},
+			{"Milestone": 2000, "Percentage": 95},
+			{"Milestone": 2400, "Percentage": 100}
+		],
+		"StrengthRangeForScore": [
+			{"Milestone": 0, "Percentage": 80},
+			{"Milestone": 200, "Percentage": 80},
+			{"Milestone": 400, "Percentage": 100},
+			{"Milestone": 600, "Percentage": 120},
+			{"Milestone": 800, "Percentage": 140},
+			{"Milestone": 1000, "Percentage": 160},
+			{"Milestone": 1200, "Percentage": 180},
+			{"Milestone": 1400, "Percentage": 200},
+			{"Milestone": 1600, "Percentage": 400},
+			{"Milestone": 1800, "Percentage": 600},
+			{"Milestone": 2000, "Percentage": 1000},
+			{"Milestone": 10000, "Percentage": 10000}
+		]
+	}
+}

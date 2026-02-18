@@ -1,0 +1,11 @@
+Name,Archetypes,TID,InfoTID
+String,String,String,String
+Season1,HookTower,TID_SEASONAL_DEFENCE_SEASON_1_TITLE,TID_SEASONAL_DEFENCE_SEASON_1_DESCRIPTION
+,FlameSpinner,,
+,CrusherMortar,,
+Season2,HeroBooster,TID_SEASONAL_DEFENCE_SEASON_2_TITLE,TID_SEASONAL_DEFENCE_SEASON_2_DESCRIPTION
+,LogLobber,,
+,SunBeam,,
+Season3,LazyLaser,,
+,SlowdownTower,,
+,SunBeam,,

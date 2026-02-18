@@ -1,0 +1,7 @@
+Name,Geometry,Texture,NormalMap,MaterialMap,EmissionMap,OpacityMap,CameraDistance,ViewportWidth,ViewportHeight,ParticleEffect3D,Environment,OutlineSize
+String,String,String,String,String,String,String,int,int,int,String,String,int
+Mortar Rocket,sc3d/mortar_rocket_01.glb,sc3d/mortar_rocket_01_tex.ktx,sc3d/mortar_rocket_01_normal.ktx,sc3d/mortar_rocket_01_material.ktx,,,10000,225,225,rocket_trail_01,,
+Mortar Rocket 2,sc3d/mortar_rocket_01.glb,sc3d/mortar_rocket_02_tex.ktx,sc3d/mortar_rocket_01_normal.ktx,sc3d/mortar_rocket_01_material.ktx,,,10000,225,225,rocket_trail_01,,
+Mortar Rocket 5,sc3d/mortar_rocket_05.glb,sc3d/mortar_rocket_05_tex.ktx,sc3d/mortar_rocket_05_normal.ktx,sc3d/mortar_rocket_05_material.ktx,,,10000,225,225,rocket_trail_01,,
+April25_RRAltProjectile,sc3d/april25_rrlb_geo.glb,sc3d/april25_rrlb_a.ktx,sc3d/april25_rrlb_n.ktx,sc3d/april25_rrlb_m.ktx,,,10000,128,128,,,
+April25_RRProjectile,sc3d/april25_rrlb_spear_geo.glb,sc3d/april25_rrlb_a.ktx,sc3d/april25_rrlb_n.ktx,sc3d/april25_rrlb_m.ktx,,,10000,280,280,,,

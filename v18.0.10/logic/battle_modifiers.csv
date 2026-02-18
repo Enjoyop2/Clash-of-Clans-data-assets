@@ -1,0 +1,14 @@
+Name,IconSWF,IconExportName,TID,InfoTID,Attacker,Defender,BuildingClass,Spells,Heroes,DamageMultiplier,HPMultiplier,CommonEquipmentMinusLevels,EpicEquipmentMinusLevels,InfoListTID
+String,String,String,String,String,boolean,boolean,String,boolean,boolean,int,int,int,int,String
+Hard Mode,,,TID_CHALLENGE_TITLE_HARD_MODE,TID_HARD_MODE_DESC,,TRUE,Any Building,TRUE,,120,,3,6,TID_HARD_MODE_DESC_LIST
+,,,,,TRUE,,,,TRUE,90,90,,,
+,,,,,,TRUE,,,TRUE,120,120,,,
+Minus One,,,TID_MODE_TITLE_MINUS_ONE,TID_EXPERT_MODE_DESC,,TRUE,Any Building,TRUE,,115,,,,TID_HARD_MODE_MINUS_ONE_DESC_LIST
+,,,,,TRUE,,,,TRUE,95,95,,,
+,,,,,,TRUE,,,TRUE,115,115,,,
+Minus Two,,,TID_MODE_TITLE_MINUS_TWO,TID_ADVANCED_MODE_DESC,,TRUE,Any Building,TRUE,,110,,,,TID_HARD_MODE_MINUS_TWO_DESC_LIST
+,,,,,TRUE,,,,TRUE,100,100,,,
+,,,,,,TRUE,,,TRUE,110,110,,,
+Minus Three,,,TID_MODE_TITLE_MINUS_THREE,TID_INTERMEDIATE_MODE_DESC,,TRUE,Any Building,TRUE,,105,,,,TID_HARD_MODE_MINUS_THREE_DESC_LIST
+,,,,,TRUE,,,,TRUE,100,100,,,
+,,,,,,TRUE,,,TRUE,105,105,,,

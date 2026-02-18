@@ -1,0 +1,18 @@
+Name,Level,TID,InfoTID,ShortInfoTID,UpgradeData,isDefault,Deprecated,IconSWF,IconExportName,DisplaySkin,CharacterDatas,CharacterLevels,SpawnAmounts,ActivationRadius,LeapTimeMS,LeapDistance,PatrolRadius,Strength,PreviewScenario
+String,int,String,String,String,String,boolean,boolean,String,String,String,String,String,String,int,int,int,int,int,String
+InfernoArtillery,1,TID_INFERNO_GUARDIAN,TID_INFERNO_GUARDIAN_INFO,TID_INFERNO_GUARDIAN_INFO_SHORT,GuardianGeneral,TRUE,,sc/ui.sc,icon_unit_guardian_ranged,RangedGuardian,Guardian Ranged,1,1,20,750,3,350,205000,GuardianLongshot
+,2,,,,,,,,,,,2,,,,,,206000,
+,3,,,,,,,,,,,3,,,,,,207000,
+,4,,,,,,,,,,,4,,,,,,208000,
+,5,,,,,,,,,,,5,,,,,,209000,
+MeleeAreaaaa,1,TID_MELEE_AREA_GUARDIAN,TID_MELEE_AREA_GUARDIAN_INFO,TID_MELEE_AREA_GUARDIAN_INFO_SHORT,GuardianGeneral,,,sc/ui.sc,icon_unit_guardian_melee,MeleeGuardian,Guardian Melee,1,1,12,750,3,350,205000,GuardianSmasher
+,2,,,,,,,,,,,2,,,,,,206000,
+,3,,,,,,,,,,,3,,,,,,207000,
+,4,,,,,,,,,,,4,,,,,,208000,
+,5,,,,,,,,,,,5,,,,,,209000,
+Eagle,1,TID_EAGLE_GUARDIAN,,,GuardianGeneral,,TRUE,sc/ui.sc,icon_unit_thrower,MeleeGuardian,Guardian Eagle,1,1,12,750,3,500,100,GuardianLongshot
+GigaInferno,1,TID_GIGA_INFERNO_GUARDIAN,,,GuardianGeneral,,TRUE,sc/ui.sc,icon_unit_furnace,MeleeGuardian,Guardian Giga Inferno,1,1,12,750,3,500,100,GuardianLongshot
+Assassins,1,TID_ASSASSINS_GUARDIAN,,,GuardianAssassin,,TRUE,sc/ui.sc,icon_unit_headhunter,MeleeGuardian,Guardian Assassins,1,1,11,750,3,500,100,GuardianLongshot
+,2,,,,,,,,,,,,2,,,,,200,
+,3,,,,,,,,,,,,3,,,,,300,
+Reviver,1,TID_REVIVER_GUARDIAN,,,GuardianGeneral,,TRUE,sc/ui.sc,icon_unit_healer,MeleeGuardian,Guardian Reviver,1,1,12,750,3,500,100,GuardianLongshot

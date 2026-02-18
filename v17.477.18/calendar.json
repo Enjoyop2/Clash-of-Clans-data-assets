@@ -1,0 +1,6248 @@
+{
+	"events": [
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 999,
+			"availableInBuilderBase": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000004", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20350901T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 50185,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "762deb5d3d2daa94f725ca89677101bdb47d9cc6",
+				"Path": "/6270c56b-7c98-479c-9c6d-b801452639c8_TID_stamp_card_rewards.csv"
+			},
+			"startTime": "20240301T000000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_STAMP_CARD_REWARD",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20350901T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"configBooleanList": [
+				{"key": "38000309", "value": true},
+				{"key": "38000310", "value": true},
+				{"key": "38000311", "value": true},
+				{"key": "38000312", "value": true},
+				{"key": "38000313", "value": true},
+				{"key": "38000314", "value": true},
+				{"key": "38000315", "value": true},
+				{"key": "38000316", "value": true},
+				{"key": "38000317", "value": true},
+				{"key": "38000318", "value": true},
+				{"key": "38000319", "value": true},
+				{"key": "38000320", "value": true},
+				{"key": "38000321", "value": true},
+				{"key": "38000322", "value": true},
+				{"key": "38000323", "value": true},
+				{"key": "38000324", "value": true},
+				{"key": "38000325", "value": true},
+				{"key": "38000326", "value": true},
+				{"key": "38000327", "value": true},
+				{"key": "38000328", "value": true},
+				{"key": "38000329", "value": true},
+				{"key": "38000330", "value": true},
+				{"key": "38000331", "value": true},
+				{"key": "38000332", "value": true},
+				{"key": "38000333", "value": true},
+				{"key": "40345", "value": true}
+			],
+			"configIntList": [],
+			"configStringList": [],
+			"endTime": "20300531T131700.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 55483,
+			"impressionId": 1,
+			"key": "test-highlight-th-upgrade-offer",
+			"startTime": "20240501T080000.000Z",
+			"type": 37,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInBuilderBase": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000047"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 61162,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"shopItemValueSticker": "0",
+			"startTime": "20240715T000000.000Z",
+			"tid": "TID_SCENERY_CRYSTAL_CAVERNS",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000019"}
+			],
+			"endTime": "20330101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 63969,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 65,
+			"shopItemValueSticker": "0",
+			"startTime": "20230810T080000.000Z",
+			"tid": "TID_SUMMER_SCENERY",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000034"}
+			],
+			"endTime": "20331015T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 63970,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 90,
+			"shopItemValueSticker": "0",
+			"startTime": "20230926T000000.000Z",
+			"tid": "TID_SPOOKY2022_SCENERY",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000013"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 63971,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 40,
+			"shopItemValueSticker": "0",
+			"startTime": "20221110T000000.000Z",
+			"tid": "TID_SNOWED_IN_SCENERY",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000017"}
+			],
+			"endTime": "20330101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 63972,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 55,
+			"shopItemValueSticker": "0",
+			"startTime": "20230401T080000.000Z",
+			"tid": "TID_SHADOW_SCENERY",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000076", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 63973,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 127,
+			"shopItemValueSticker": "0",
+			"startTime": "20240315T000000.000Z",
+			"tid": "TID_PAINTER_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000046"}
+			],
+			"endTime": "20331015T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 66615,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 135,
+			"shopItemValueSticker": "0",
+			"startTime": "20240917T080000.000Z",
+			"tid": "TID_SCENERY_CHESS",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000096", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 66616,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 169,
+			"shopItemValueSticker": "0",
+			"startTime": "20240917T080000.000Z",
+			"tid": "TID_CHESS_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 66617,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000105",
+			"startTime": "20240917T080059.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000049"}
+			],
+			"endTime": "20331015T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 70442,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 140,
+			"shopItemValueSticker": "0",
+			"startTime": "20241021T080000.000Z",
+			"tid": "TID_SCENERY_GHOST",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000095", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 70443,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 168,
+			"shopItemValueSticker": "0",
+			"startTime": "20241021T080000.000Z",
+			"tid": "TID_GHOST_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000101", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 70444,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 167,
+			"shopItemValueSticker": "0",
+			"startTime": "20241021T080000.000Z",
+			"tid": "TID_GHOST_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 8,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000078", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 70445,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 166,
+			"shopItemValueSticker": "0",
+			"startTime": "20241021T080000.000Z",
+			"tid": "TID_GHOST_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"decoration": "18000148", "type": "3"}
+			],
+			"endTime": "20251212T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 71657,
+			"impressionId": 1,
+			"infoTid": "TID_DESC_SCSTORE_GAUNTLET",
+			"localizationFile": {
+				"ChecksumSha1": "a4e4bea05c29154ec81174a950999d66e3060697",
+				"Path": "/d2128be1-03b9-4798-bc14-b1b74192b6aa_TID_IDRewards_scenery.csv"
+			},
+			"priority": 998,
+			"startTime": "20241112T080000.000Z",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20251212T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000052"}
+			],
+			"endTime": "20331015T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 71665,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 141,
+			"shopItemValueSticker": "0",
+			"startTime": "20241115T080000.000Z",
+			"tid": "TID_SCENERY_CHAMPION",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"configBooleanList": [
+				{"key": "27889", "value": true},
+				{"key": "38000309", "value": true},
+				{"key": "38000310", "value": true},
+				{"key": "38000311", "value": true},
+				{"key": "38000312", "value": true},
+				{"key": "38000313", "value": true},
+				{"key": "38000314", "value": true},
+				{"key": "38000315", "value": true},
+				{"key": "38000316", "value": true},
+				{"key": "38000317", "value": true},
+				{"key": "38000318", "value": true},
+				{"key": "38000319", "value": true},
+				{"key": "38000320", "value": true},
+				{"key": "38000321", "value": true},
+				{"key": "38000322", "value": true},
+				{"key": "38000323", "value": true},
+				{"key": "38000324", "value": true},
+				{"key": "38000325", "value": true},
+				{"key": "38000326", "value": true},
+				{"key": "38000327", "value": true},
+				{"key": "38000328", "value": true},
+				{"key": "38000329", "value": true},
+				{"key": "38000330", "value": true},
+				{"key": "38000331", "value": true},
+				{"key": "38000332", "value": true},
+				{"key": "38000333", "value": true},
+				{"key": "40248", "value": true},
+				{"key": "40249", "value": true},
+				{"key": "41146", "value": true},
+				{"key": "41147", "value": true},
+				{"key": "68070", "value": true},
+				{"key": "68071", "value": true},
+				{"key": "71701", "value": true},
+				{"key": "71702", "value": true}
+			],
+			"configIntList": [],
+			"configStringList": [],
+			"endTime": "20280531T131700.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 71673,
+			"impressionId": 1,
+			"key": "test-highlight-th-upgrade-offer",
+			"startTime": "20240228T131700.000Z",
+			"type": 37,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000062"}
+			],
+			"endTime": "20251212T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 71738,
+			"impressionId": 1,
+			"infoTid": "TID_DESC_SCSTORE_CROSSSCENERY",
+			"localizationFile": {
+				"ChecksumSha1": "6780884146e5505b83a8701500705dc126daef28",
+				"Path": "/30b89024-4982-43a2-87d4-a29be82ab4b1_mashup_scenery_localization_fix__1_.csv"
+			},
+			"priority": 1000,
+			"shopInfoItemExportName": "offer2_info",
+			"shopItemExportName": "offer2_item",
+			"shopItemValueSticker": "3",
+			"startTime": "20240505T080000.000Z",
+			"tid": "TID_SCENERY_MASHUP",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 9,
+			"visibleEndTime": "20251212T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"baseScFile": {
+				"ChecksumSha1": "b92fef1f2f3acd743a58aec7f322a609ea1bdaa9",
+				"Path": "/f9a08a7d-5023-47a9-b46f-05e3b5780cd5_scenery_gamearea_mashup_dl_opt.sc"
+			},
+			"endTime": "20260301T140400.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"foregroundExportName": "Player_Background",
+			"hideEventEntry": false,
+			"iconFile": {
+				"ChecksumSha1": "6defa740caeea306801f59fac45d9ed07eaf8c84",
+				"Path": "/211ddf87-5c5a-4f1b-8af0-53c71cbe7bc5_scenery_mashup_dl_opt.ktx"
+			},
+			"id": 72761,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "3c36eb14bcc060c0267656ce3dcd82a0f90b7522",
+				"Path": "/3ce8888b-ad92-4eb5-860b-52ba5beb2f87_mashup_scenery_localization_fix.csv"
+			},
+			"musicFile": {
+				"ChecksumSha1": "942307a6f3fa7ab8db74f56eeaa02ec92a8c011a",
+				"Path": "/45850599-5b6d-4075-922c-5ade46596ac6_royale_scenery_amb_music_dl_opt.ogg"
+			},
+			"sceneryScFile": {
+				"ChecksumSha1": "a6412bf64cc26f035631e91b8b270ad79e50fed8",
+				"Path": "/3831a9aa-6bd9-4b0a-8e21-c594e7b96416_scenery_mashup_dl_opt.sc"
+			},
+			"startTime": "20240201T140400.000Z",
+			"thumbnailFile": {
+				"ChecksumSha1": "cf71f42672bdc05783c26f0cd461c9b0b567d686",
+				"Path": "/39a35f77-ae24-4e19-8318-a27f0662158d_mashup_bgr_image_dl_opt.ktx"
+			},
+			"tid": "TID_SCENERY_MASHUP",
+			"type": 18,
+			"update": true,
+			"variantId": 0,
+			"version": 1,
+			"villageBackground": "60000062",
+			"villageObjectLocators": [
+				{"locator": "ship_location", "villageObject": "39000000"},
+				{"locator": "boat_location", "villageObject": "39000002"},
+				{"locator": "air_ship_location", "villageObject": "39000025"},
+				{"locator": "forge_location", "villageObject": "39000024"}
+			],
+			"visibleEndTime": "20260301T140400.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000053"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 72765,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 150,
+			"shopItemValueSticker": "0",
+			"startTime": "20241215T000000.000Z",
+			"tid": "TID_SCENERY_GINGERBREAD",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 72766,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000123",
+			"startTime": "20241215T000000.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000094", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 72767,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 179,
+			"shopItemValueSticker": "0",
+			"startTime": "20241215T000000.000Z",
+			"tid": "TID_GINGERBREAD_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000104", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 72768,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 177,
+			"shopItemValueSticker": "0",
+			"startTime": "20241215T000000.000Z",
+			"tid": "TID_GINGERBREAD_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInBuilderBase": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000054"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 75009,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"shopItemValueSticker": "0",
+			"startTime": "20250115T000000.000Z",
+			"tid": "TID_SCENERY_OFTHENORTH",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 75010,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000133",
+			"startTime": "20250115T080059.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000106", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 75011,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 187,
+			"shopItemValueSticker": "0",
+			"startTime": "20250115T000000.000Z",
+			"tid": "TID_WINTER_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInBuilderBase": true,
+			"deliverables": [
+				{"skin": "52000156", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 75012,
+			"impressionId": 1,
+			"pricePoint": "100000041",
+			"priority": 18,
+			"shopItemValueSticker": "0",
+			"startTime": "20250115T000000.000Z",
+			"tid": "TID_OFTHENORTH_BATTLE_MACHINE",
+			"type": 1,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"decoration": "18000147", "type": "3"}
+			],
+			"endTime": "20251212T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76626,
+			"impressionId": 1,
+			"infoTid": "TID_STORE_BS_DESC",
+			"localizationFile": {
+				"ChecksumSha1": "c21084ceeb6e7d90adb2861e94bf386f0d00da25",
+				"Path": "/53b41ed8-6c87-423f-a67c-08169901b467_Store_Decos.csv"
+			},
+			"priority": 994,
+			"startTime": "20250201T080000.000Z",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "20251212T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"decoration": "18000150", "type": "3"}
+			],
+			"endTime": "20251212T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76627,
+			"impressionId": 1,
+			"infoTid": "TID_STORE_SK_DESC",
+			"localizationFile": {
+				"ChecksumSha1": "c21084ceeb6e7d90adb2861e94bf386f0d00da25",
+				"Path": "/53b41ed8-6c87-423f-a67c-08169901b467_Store_Decos.csv"
+			},
+			"priority": 996,
+			"startTime": "20250201T080000.000Z",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "20251212T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20301001T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76692,
+			"impressionId": 1,
+			"items": [
+				{
+					"cost": 750,
+					"deliverable": {
+						"characterItem": "90000010",
+						"type": "15"
+					}
+				},
+				{
+					"cost": 750,
+					"deliverable": {
+						"characterItem": "90000015",
+						"type": "15"
+					}
+				},
+				{
+					"cost": 15,
+					"deliverable": {
+						"resource": "3000001",
+						"resourceAmount": 2500000,
+						"type": "1"
+					}
+				},
+				{
+					"cost": 15,
+					"deliverable": {
+						"resource": "3000002",
+						"resourceAmount": 2500000,
+						"type": "1"
+					}
+				},
+				{
+					"cost": 5,
+					"deliverable": {
+						"magicItem": "46000006",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 20,
+					"deliverable": {
+						"magicItem": "46000022",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 30,
+					"deliverable": {
+						"magicItem": "46000014",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 30,
+					"deliverable": {
+						"magicItem": "46000013",
+						"magicItemAmount": 10,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cooldownHours": 168,
+					"cost": 120,
+					"deliverable": {
+						"magicItem": "46000015",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cooldownHours": 168,
+					"cost": 120,
+					"deliverable": {
+						"magicItem": "46000016",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cooldownHours": 168,
+					"cost": 120,
+					"deliverable": {
+						"magicItem": "46000017",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cooldownHours": 168,
+					"cost": 165,
+					"deliverable": {
+						"magicItem": "46000018",
+						"magicItemAmount": 1,
+						"source": 0,
+						"type": "8"
+					}
+				},
+				{
+					"cost": 100,
+					"deliverable": {
+						"decoration": "18000051",
+						"type": "3"
+					}
+				},
+				{
+					"cost": 250,
+					"deliverable": {
+						"decoration": "18000050",
+						"type": "3"
+					},
+					"minLeague": "48000009"
+				},
+				{
+					"cost": 500,
+					"deliverable": {
+						"decoration": "18000049",
+						"type": "3"
+					},
+					"minLeague": "48000012"
+				},
+				{
+					"cost": 1000,
+					"deliverable": {
+						"decoration": "18000048",
+						"type": "3"
+					},
+					"minLeague": "48000015"
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"decoration": "18000047",
+						"type": "3"
+					},
+					"minLeague": "48000018"
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"skin": "52000091",
+						"type": "9"
+					}
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"skin": "52000102",
+						"type": "9"
+					}
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"skin": "52000080",
+						"type": "9"
+					}
+				},
+				{
+					"cost": 2000,
+					"deliverable": {
+						"skin": "52000112",
+						"type": "9"
+					}
+				},
+				{
+					"cost": 2400,
+					"deliverable": {
+						"type": "12",
+						"villageBackground": "60000042"
+					}
+				}
+			],
+			"startTime": "20211002T080100.000Z",
+			"type": 11,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableInBuilderBase": true,
+			"availableInVillage": true,
+			"availableTreasurePage": true,
+			"diamondCountOverride": 1200,
+			"endTime": "20320220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76693,
+			"imageFile": {
+				"ChecksumSha1": "540633be804f9e60810304bf8e4ec7c25db3acee",
+				"Path": "/0982794e-fc3b-4410-9219-166d01f4fefb_Clash_Gems_Bag.png"
+			},
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000122",
+			"priority": 9997,
+			"shopItemBGColor": "0",
+			"startTime": "20250210T080000.000Z",
+			"tid": "TID_DIAMOND_PACK_SACK",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20320220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableInBuilderBase": true,
+			"availableInVillage": true,
+			"availableTreasurePage": true,
+			"diamondCountOverride": 500,
+			"endTime": "20320220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76694,
+			"imageFile": {
+				"ChecksumSha1": "d5d3db55a3667eac19fe9a380695a2607f08e3c7",
+				"Path": "/8a3cd1fe-4313-4d4c-b584-34db333da08e_Clash_Gems_Pile.png"
+			},
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000121",
+			"priority": 9998,
+			"shopItemBGColor": "0",
+			"startTime": "20250210T080000.000Z",
+			"tid": "TID_DIAMOND_PACK_PILE",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20320220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableInBuilderBase": true,
+			"availableInVillage": true,
+			"availableTreasurePage": true,
+			"diamondCountOverride": 14000,
+			"endTime": "20320220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76695,
+			"imageFile": {
+				"ChecksumSha1": "c5e878a97d7c860c4a839a722a05d0dcc592ff79",
+				"Path": "/94561c67-1012-4e36-8498-c83bdbc5b118_Clash_Gems_Chest.png"
+			},
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000125",
+			"priority": 9994,
+			"shopItemBGColor": "0",
+			"startTime": "20250210T080000.000Z",
+			"tid": "TID_DIAMOND_PACK_CHEST",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20320220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableInBuilderBase": true,
+			"availableInVillage": true,
+			"availableTreasurePage": true,
+			"diamondCountOverride": 80,
+			"endTime": "20320220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76696,
+			"imageFile": {
+				"ChecksumSha1": "fc3affaec94f29b8c118b8e6bbc310e4b306436e",
+				"Path": "/20e9c3df-0bd4-4f26-82b4-59da85d3d283_Clash_Gems_Pocket.png"
+			},
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000126",
+			"priority": 9999,
+			"shopItemBGColor": "0",
+			"startTime": "20250210T080000.000Z",
+			"tid": "TID_DIAMOND_PACK_POCKET",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20320220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableInBuilderBase": true,
+			"availableInVillage": true,
+			"availableTreasurePage": true,
+			"diamondCountOverride": 6500,
+			"endTime": "20320220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76697,
+			"imageFile": {
+				"ChecksumSha1": "32ba6e603a4da0e87395b88138835eb0464c6d17",
+				"Path": "/7c81155c-119f-4da3-ad5f-ee1b650c7d47_Clash_Gems_Box.png"
+			},
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000124",
+			"priority": 9995,
+			"shopItemBGColor": "0",
+			"startTime": "20250210T080000.000Z",
+			"tid": "TID_DIAMOND_PACK_BOX",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20320220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableInBuilderBase": true,
+			"availableInVillage": true,
+			"availableTreasurePage": true,
+			"diamondCountOverride": 2500,
+			"endTime": "20320220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76698,
+			"imageFile": {
+				"ChecksumSha1": "e19ce878105d39fabbcf16513aee7632b51a5dd2",
+				"Path": "/de8ca657-bcfe-4e28-8a57-48893e580beb_Clash_Gems_Sack.png"
+			},
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000123",
+			"priority": 9996,
+			"shopItemBGColor": "0",
+			"startTime": "20250210T080000.000Z",
+			"tid": "TID_DIAMOND_PACK_SACK",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20320220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"configBooleanList": [],
+			"configIntList": [],
+			"configStringList": [],
+			"endTime": "20271031T114000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 76725,
+			"impressionId": 1,
+			"key": "test-info-screen-pass-discount",
+			"startTime": "20250212T114000.000Z",
+			"type": 37,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20271031T114000.000Z",
+			"visibleTime": "20250212T114000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000055"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 77751,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 160,
+			"shopItemValueSticker": "0",
+			"startTime": "20250216T000000.000Z",
+			"tid": "TID_DRAGON_PALACE_SCENERY",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000132", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 77753,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 199,
+			"shopItemValueSticker": "0",
+			"startTime": "20250216T080000.000Z",
+			"tid": "TID_LUNAR_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000142", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 77754,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 198,
+			"shopItemValueSticker": "0",
+			"startTime": "20250216T080000.000Z",
+			"tid": "TID_LNY24_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000124", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 77755,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 197,
+			"shopItemValueSticker": "0",
+			"startTime": "20250216T080000.000Z",
+			"tid": "TID_LNY24_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 7,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"configBooleanList": [],
+			"configIntList": [
+				{"key": "interval-to-show-again", "value": 0}
+			],
+			"configStringList": [],
+			"endTime": "20270131T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 77785,
+			"impressionId": 1,
+			"key": "test-info-screen-pass-teaser",
+			"startTime": "20250218T073700.000Z",
+			"type": 37,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000056"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 80708,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 165,
+			"shopItemValueSticker": "0",
+			"startTime": "20250317T080000.000Z",
+			"tid": "TID_SCENERY_SPACE",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 80709,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000143",
+			"startTime": "20250317T080059.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000135", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 80710,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 209,
+			"shopItemValueSticker": "0",
+			"startTime": "20250317T080000.000Z",
+			"tid": "TID_SPACE_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000125", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 80711,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 207,
+			"shopItemValueSticker": "0",
+			"startTime": "20250317T080000.000Z",
+			"tid": "TID_SPACE_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 83066,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000126",
+			"startTime": "20250415T080059.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000057"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 83067,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 165,
+			"shopItemValueSticker": "0",
+			"startTime": "20250415T080000.000Z",
+			"tid": "TID_SCENERY_EGYPT",
+			"type": 1,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000144", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 83068,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 198,
+			"shopItemValueSticker": "0",
+			"startTime": "20250415T080000.000Z",
+			"tid": "TID_EGYPTIAN_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000134", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 83069,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 209,
+			"shopItemValueSticker": "0",
+			"startTime": "20250415T080000.000Z",
+			"tid": "TID_EGYPT_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"diamondCountOverride": 14000,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 84099,
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000105",
+			"priority": 140,
+			"shopItemBGColor": "0",
+			"startTime": "20240220T000000.000Z",
+			"tid": "TID_DIAMOND_PACK_CHEST",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"diamondCountOverride": 6500,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 84102,
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000085",
+			"priority": 130,
+			"shopItemBGColor": "0",
+			"startTime": "20240220T000000.000Z",
+			"tid": "TID_DIAMOND_PACK_BOX",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"diamondCountOverride": 2500,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 84105,
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000055",
+			"priority": 125,
+			"shopItemBGColor": "0",
+			"startTime": "20240220T000000.000Z",
+			"tid": "TID_DIAMOND_PACK_SACK",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"skin": "52000136", "type": "9"}
+			],
+			"endTime": "20251212T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 87970,
+			"impressionId": 1,
+			"infoTid": "TID_DESC_SCSTORE_SUPERSQUADBK",
+			"localizationFile": {
+				"ChecksumSha1": "8958abfe0e35f6f8240fc79e5de73d443ebc3b0c",
+				"Path": "/e170a7cd-4f5e-464b-ac49-d879a7475a4f_Super_Squad_BK_skin.csv"
+			},
+			"priority": 992,
+			"shopInfoItemExportName": "offer2_info",
+			"shopItemExportName": "offer2_item",
+			"shopItemValueSticker": "3",
+			"startTime": "20240505T080000.000Z",
+			"tid": "TID_SCENERY_SUPERSQUADBK",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20251212T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000058"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88420,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 198,
+			"shopItemValueSticker": "0",
+			"startTime": "20250515T080000.000Z",
+			"tid": "TID_SCENERY_CLASHBALL",
+			"type": 1,
+			"variantId": 0,
+			"version": 8,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000138", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88421,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 300,
+			"shopItemValueSticker": "0",
+			"startTime": "20250515T080000.000Z",
+			"tid": "TID_HAALANDCLASH_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000145", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88423,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 301,
+			"shopItemValueSticker": "0",
+			"startTime": "20250515T080000.000Z",
+			"tid": "TID_FOOTBALL_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 9,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000127", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88424,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 302,
+			"shopItemValueSticker": "0",
+			"startTime": "20250515T080000.000Z",
+			"tid": "TID_FOOTBALL_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"configBooleanList": [],
+			"configIntList": [
+				{"key": "unlock-th-level", "value": 6}
+			],
+			"configStringList": [],
+			"endTime": "20300630T110000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88680,
+			"impressionId": 1,
+			"key": "test-bb-unlock",
+			"startTime": "20250605T110000.000Z",
+			"type": 37,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20300630T110000.000Z",
+			"visibleTime": "20250605T110000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000059"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88768,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 199,
+			"shopItemValueSticker": "0",
+			"startTime": "20250616T080000.000Z",
+			"tid": "TID_SCENERY_WILDWEST",
+			"type": 1,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88769,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000128",
+			"startTime": "20250616T080059.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000146", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88770,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 300,
+			"shopItemValueSticker": "0",
+			"startTime": "20250616T080000.000Z",
+			"tid": "TID_WILDWEST_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000139", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88772,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 303,
+			"shopItemValueSticker": "0",
+			"startTime": "20250616T080000.000Z",
+			"tid": "TID_WILDWEST_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"diamondCountOverride": 1850,
+			"endTime": "20290618T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 88797,
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000050",
+			"priority": 120,
+			"shopItemBGColor": "0",
+			"startTime": "20250622T080100.000Z",
+			"tid": "TID_DIAMOND_PACK_HELM",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20290618T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90085,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000141",
+			"startTime": "20250715T080059.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000147", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90086,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 302,
+			"shopItemValueSticker": "0",
+			"startTime": "20250715T080000.000Z",
+			"tid": "TID_CLASH_GAMES_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000129", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90087,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 304,
+			"shopItemValueSticker": "0",
+			"startTime": "20250715T080000.000Z",
+			"tid": "TID_CLASH_GAMES_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000060"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90088,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 988,
+			"shopItemValueSticker": "0",
+			"startTime": "20250715T080000.000Z",
+			"tid": "TID_SCENERY_CLASHGAMES",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000061"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90527,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 988,
+			"shopItemValueSticker": "0",
+			"startTime": "20250815T080000.000Z",
+			"tid": "TID_SCENERY_ANIME",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000148", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90529,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 302,
+			"shopItemValueSticker": "0",
+			"startTime": "20250815T080000.000Z",
+			"tid": "TID_ANIME_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000130", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90530,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 304,
+			"shopItemValueSticker": "0",
+			"startTime": "20250815T080000.000Z",
+			"tid": "TID_ANIME_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000191", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90531,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 303,
+			"shopItemValueSticker": "0",
+			"startTime": "20250815T080000.000Z",
+			"tid": "TID_ANIME_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"diamondCountOverride": 1200,
+			"endTime": "20290618T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90532,
+			"imageFile": {
+				"ChecksumSha1": "540633be804f9e60810304bf8e4ec7c25db3acee",
+				"Path": "/0982794e-fc3b-4410-9219-166d01f4fefb_Clash_Gems_Bag.png"
+			},
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000045",
+			"priority": 115,
+			"shopItemBGColor": "0",
+			"startTime": "20250622T080100.000Z",
+			"tid": "TID_DIAMOND_PACK_BAG",
+			"type": 1,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20290618T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"diamondCountOverride": 500,
+			"endTime": "20290618T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90533,
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000035",
+			"priority": 110,
+			"shopItemBGColor": "0",
+			"startTime": "20250622T080100.000Z",
+			"tid": "TID_DIAMOND_PACK_PILE",
+			"type": 1,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20290618T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 99999,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"diamondCountOverride": 80,
+			"endTime": "20280220T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90534,
+			"imageFile": {
+				"ChecksumSha1": "fc3affaec94f29b8c118b8e6bbc310e4b306436e",
+				"Path": "/20e9c3df-0bd4-4f26-82b4-59da85d3d283_Clash_Gems_Pocket.png"
+			},
+			"impressionId": 1,
+			"isGemShopOffer": true,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"pricePoint": "100000007",
+			"priority": 110,
+			"shopItemBGColor": "0",
+			"startTime": "20240220T000000.000Z",
+			"tid": "TID_DIAMOND_PACK_POCKET",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "20280220T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20310930T000000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90555,
+			"impressionId": 1,
+			"regionPriceGroupEntries": [
+				{"priceGroup": 40, "region": "32000007"},
+				{"priceGroup": 40, "region": "32000013"},
+				{"priceGroup": 40, "region": "32000017"},
+				{"priceGroup": 40, "region": "32000043"},
+				{"priceGroup": 40, "region": "32000044"},
+				{"priceGroup": 40, "region": "32000031"},
+				{"priceGroup": 40, "region": "32000030"},
+				{"priceGroup": 40, "region": "32000062"},
+				{"priceGroup": 40, "region": "32000052"},
+				{"priceGroup": 40, "region": "32000061"},
+				{"priceGroup": 40, "region": "32000065"},
+				{"priceGroup": 40, "region": "32000046"},
+				{"priceGroup": 40, "region": "32000059"},
+				{"priceGroup": 40, "region": "32000049"},
+				{"priceGroup": 40, "region": "32000073"},
+				{"priceGroup": 40, "region": "32000074"},
+				{"priceGroup": 40, "region": "32000257"},
+				{"priceGroup": 40, "region": "32000080"},
+				{"priceGroup": 40, "region": "32000082"},
+				{"priceGroup": 40, "region": "32000091"},
+				{"priceGroup": 40, "region": "32000099"},
+				{"priceGroup": 40, "region": "32000095"},
+				{"priceGroup": 40, "region": "32000092"},
+				{"priceGroup": 40, "region": "32000104"},
+				{"priceGroup": 40, "region": "32000079"},
+				{"priceGroup": 40, "region": "32000102"},
+				{"priceGroup": 40, "region": "32000105"},
+				{"priceGroup": 40, "region": "32000107"},
+				{"priceGroup": 40, "region": "32000126"},
+				{"priceGroup": 40, "region": "32000060"},
+				{"priceGroup": 40, "region": "32000198"},
+				{"priceGroup": 40, "region": "32000219"},
+				{"priceGroup": 40, "region": "32000135"},
+				{"priceGroup": 40, "region": "32000134"},
+				{"priceGroup": 40, "region": "32000142"},
+				{"priceGroup": 40, "region": "32000146"},
+				{"priceGroup": 40, "region": "32000150"},
+				{"priceGroup": 40, "region": "32000143"},
+				{"priceGroup": 40, "region": "32000161"},
+				{"priceGroup": 40, "region": "32000163"},
+				{"priceGroup": 40, "region": "32000170"},
+				{"priceGroup": 40, "region": "32000171"},
+				{"priceGroup": 40, "region": "32000165"},
+				{"priceGroup": 40, "region": "32000180"},
+				{"priceGroup": 40, "region": "32000194"},
+				{"priceGroup": 40, "region": "32000221"},
+				{"priceGroup": 40, "region": "32000208"},
+				{"priceGroup": 40, "region": "32000205"},
+				{"priceGroup": 40, "region": "32000214"},
+				{"priceGroup": 40, "region": "32000217"},
+				{"priceGroup": 40, "region": "32000078"},
+				{"priceGroup": 40, "region": "32000227"},
+				{"priceGroup": 40, "region": "32000224"},
+				{"priceGroup": 40, "region": "32000054"},
+				{"priceGroup": 40, "region": "32000233"},
+				{"priceGroup": 40, "region": "32000230"},
+				{"priceGroup": 40, "region": "32000245"},
+				{"priceGroup": 40, "region": "32000220"},
+				{"priceGroup": 40, "region": "32000259"},
+				{"priceGroup": 40, "region": "32000260"},
+				{"priceGroup": 40, "region": "32000203"},
+				{"priceGroup": 40, "region": "32000036"},
+				{"priceGroup": 50, "region": "32000009"},
+				{"priceGroup": 50, "region": "32000018"},
+				{"priceGroup": 50, "region": "32000023"},
+				{"priceGroup": 50, "region": "32000035"},
+				{"priceGroup": 50, "region": "32000026"},
+				{"priceGroup": 50, "region": "32000042"},
+				{"priceGroup": 50, "region": "32000034"},
+				{"priceGroup": 50, "region": "32000038"},
+				{"priceGroup": 50, "region": "32000033"},
+				{"priceGroup": 50, "region": "32000055"},
+				{"priceGroup": 50, "region": "32000064"},
+				{"priceGroup": 50, "region": "32000057"},
+				{"priceGroup": 50, "region": "32000075"},
+				{"priceGroup": 50, "region": "32000010"},
+				{"priceGroup": 50, "region": "32000076"},
+				{"priceGroup": 50, "region": "32000077"},
+				{"priceGroup": 50, "region": "32000085"},
+				{"priceGroup": 50, "region": "32000106"},
+				{"priceGroup": 50, "region": "32000109"},
+				{"priceGroup": 50, "region": "32000111"},
+				{"priceGroup": 50, "region": "32000114"},
+				{"priceGroup": 50, "region": "32000113"},
+				{"priceGroup": 50, "region": "32000116"},
+				{"priceGroup": 50, "region": "32000124"},
+				{"priceGroup": 50, "region": "32000130"},
+				{"priceGroup": 50, "region": "32000045"},
+				{"priceGroup": 50, "region": "32000127"},
+				{"priceGroup": 50, "region": "32000125"},
+				{"priceGroup": 50, "region": "32000131"},
+				{"priceGroup": 50, "region": "32000133"},
+				{"priceGroup": 50, "region": "32000136"},
+				{"priceGroup": 50, "region": "32000160"},
+				{"priceGroup": 50, "region": "32000158"},
+				{"priceGroup": 50, "region": "32000141"},
+				{"priceGroup": 50, "region": "32000157"},
+				{"priceGroup": 50, "region": "32000162"},
+				{"priceGroup": 50, "region": "32000151"},
+				{"priceGroup": 50, "region": "32000153"},
+				{"priceGroup": 50, "region": "32000144"},
+				{"priceGroup": 50, "region": "32000169"},
+				{"priceGroup": 50, "region": "32000181"},
+				{"priceGroup": 50, "region": "32000184"},
+				{"priceGroup": 50, "region": "32000182"},
+				{"priceGroup": 50, "region": "32000185"},
+				{"priceGroup": 50, "region": "32000178"},
+				{"priceGroup": 50, "region": "32000183"},
+				{"priceGroup": 50, "region": "32000192"},
+				{"priceGroup": 50, "region": "32000206"},
+				{"priceGroup": 50, "region": "32000213"},
+				{"priceGroup": 50, "region": "32000196"},
+				{"priceGroup": 50, "region": "32000222"},
+				{"priceGroup": 50, "region": "32000231"},
+				{"priceGroup": 50, "region": "32000232"},
+				{"priceGroup": 50, "region": "32000238"},
+				{"priceGroup": 50, "region": "32000235"},
+				{"priceGroup": 40, "region": "32000239"},
+				{"priceGroup": 50, "region": "32000242"},
+				{"priceGroup": 50, "region": "32000251"},
+				{"priceGroup": 50, "region": "32000254"},
+				{"priceGroup": 50, "region": "32000252"},
+				{"priceGroup": 50, "region": "32000256"},
+				{"priceGroup": 50, "region": "32000201"},
+				{"priceGroup": 50, "region": "32000128"},
+				{"priceGroup": 60, "region": "32000070"},
+				{"priceGroup": 60, "region": "32000093"},
+				{"priceGroup": 60, "region": "32000088"},
+				{"priceGroup": 60, "region": "32000100"},
+				{"priceGroup": 60, "region": "32000066"},
+				{"priceGroup": 60, "region": "32000121"},
+				{"priceGroup": 60, "region": "32000155"},
+				{"priceGroup": 60, "region": "32000199"},
+				{"priceGroup": 60, "region": "32000149"},
+				{"priceGroup": 60, "region": "32000145"},
+				{"priceGroup": 60, "region": "32000173"},
+				{"priceGroup": 60, "region": "32000172"},
+				{"priceGroup": 60, "region": "32000089"},
+				{"priceGroup": 60, "region": "32000187"},
+				{"priceGroup": 60, "region": "32000191"},
+				{"priceGroup": 60, "region": "32000207"},
+				{"priceGroup": 60, "region": "32000212"},
+				{"priceGroup": 60, "region": "32000211"},
+				{"priceGroup": 60, "region": "32000229"},
+				{"priceGroup": 60, "region": "32000234"},
+				{"priceGroup": 60, "region": "32000240"},
+				{"priceGroup": 60, "region": "32000236"},
+				{"priceGroup": 60, "region": "32000250"},
+				{"priceGroup": 60, "region": "32000258"},
+				{"priceGroup": 60, "region": "32000215"},
+				{"priceGroup": 50, "region": "32000246"}
+			],
+			"startTime": "20250821T080000.000Z",
+			"type": 53,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000192", "type": "9"}
+			],
+			"endTime": "20270430T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90610,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 950,
+			"shopItemValueSticker": "0",
+			"startTime": "20250915T080000.000Z",
+			"tid": "TID_TTRPG_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000149", "type": "9"}
+			],
+			"endTime": "20270430T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90611,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 901,
+			"shopItemValueSticker": "0",
+			"startTime": "20250915T080000.000Z",
+			"tid": "TID_TTRPG_QUEEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000131", "type": "9"}
+			],
+			"endTime": "20270430T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90612,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 904,
+			"shopItemValueSticker": "0",
+			"startTime": "20250915T080000.000Z",
+			"tid": "TID_TTRPG_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"animatedTid": "TID_EVENT_ANIMATION_TTRPG_SCENERY",
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000063"}
+			],
+			"endTime": "20270304T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90636,
+			"impressionId": 1,
+			"infoTid": "TID_EVENT_INFO_TTRPG_SCENERY",
+			"localizationFile": {
+				"ChecksumSha1": "96613d5e203fece4bf0f04908b6a431b3f188fd6",
+				"Path": "/ab8fa6f8-a3c2-4cee-a90d-5afc3e5f6953_ttrpg_scenery_loc_15Sept_2025.csv"
+			},
+			"pricePoint": "100000068",
+			"priority": 990,
+			"scFile": {
+				"ChecksumSha1": "af01743d56925b4a37d3c0ac8f324b4cad016d68",
+				"Path": "/700068f8-36da-46f5-a641-c628a4b117e8_sceneryoffer_legendary_cosmetics_tab__2_.sc"
+			},
+			"shopInfoItemExportName": "offer2_info",
+			"shopItemExportName": "offer2_item",
+			"shopItemValueSticker": "3",
+			"startTime": "20250910T080000.000Z",
+			"tid": "TID_EVENT_TITLE_TTRPG_SCENERY",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000009", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90660,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS13",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000013", "magicItemAmount": 10, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90661,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b3772a762a4a711086b2b25b70e2a1eb2a2c5417",
+				"Path": "/5a257df5-5dfc-4332-8845-57af7d1a304d_TID_WallRings.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_10WallRings",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000014", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90662,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS5",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000021", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90663,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "5368b7a85a72942ed2ae9c1e1c056bed7cd9fa6b",
+				"Path": "/a5719e38-0d92-486f-87e6-2cecbad0bb37_sep_bonus_TIDs_v2.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_1_Hero_Potion",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 50,
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90664,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS8",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000006", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90665,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "0b8d6f3ac5d542364e59e4f1be78403313de477f",
+				"Path": "/33f22e49-7fa3-492b-ae00-9c444d8fa611_sep_bonus_TIDs.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_RP",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000004", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90666,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "5368b7a85a72942ed2ae9c1e1c056bed7cd9fa6b",
+				"Path": "/a5719e38-0d92-486f-87e6-2cecbad0bb37_sep_bonus_TIDs_v2.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_1_Book_of_Everything",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000013", "magicItemAmount": 20, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90667,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b3772a762a4a711086b2b25b70e2a1eb2a2c5417",
+				"Path": "/5a257df5-5dfc-4332-8845-57af7d1a304d_TID_WallRings.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_20WallRings",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000003", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90668,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS6",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000008", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90669,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS12",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 100,
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90670,
+			"imageFile": {
+				"ChecksumSha1": "e052c27c2abb6568b12ceccd01801fa3fb0ceb11",
+				"Path": "/2200935f-e713-4b9e-bc5a-3d23897fa0f4_Clash_Gems_Pocket.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS2",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 25,
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90671,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS4",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000013", "magicItemAmount": 5, "source": 0, "type": "8"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90672,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "c8ac7abc7c8925f99053becc0846b02ce8c70bd6",
+				"Path": "/6658cd57-ed73-475f-9232-3ab828d32ba9_TID_5_Wall_Rings.csv"
+			},
+			"startTime": "20251001T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_5WallRings",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"baseScFile": {
+				"ChecksumSha1": "d169575de09d614ea7f78a0fb3c22c752cdbba53",
+				"Path": "/483b413c-86e9-4cdd-94de-48baf23ead3c_scenery_gamearea_cosmic_curse_dl_opt.sc"
+			},
+			"buildingBasesScFile": {
+				"ChecksumSha1": "31aff7d0c252730c03cfe8d31f71422980661da3",
+				"Path": "/8f74da59-7547-4245-b35a-80a18944cb7b_scenery_bases_cosmic_curse_dl_opt.sc"
+			},
+			"endTime": "20270115T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"foregroundExportName": "Player_Background",
+			"hideEventEntry": false,
+			"iconFile": {
+				"ChecksumSha1": "fceca81298e775e792dae9cd9b557a591bbd63f7",
+				"Path": "/ec0892af-d653-45eb-ac80-21f796f4f0a1_scenery_icon_cosmic_curse_dl_opt.sctx"
+			},
+			"id": 90677,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "c25bf767c86d2d2af63623370c5507bc23774798",
+				"Path": "/409fe11e-51f5-4f0d-9f97-e61bd99165d7_sceneryoffer_cosmic_curese_25.csv"
+			},
+			"maxZoom": 26616,
+			"musicFile": {
+				"ChecksumSha1": "ed0caba06fdfb4e067ef8b83112dc6412959da81",
+				"Path": "/b5718681-b2d6-4f9a-950a-ea6f51b85c09_Mus_CosmicCurse_Bed_and_Music.ogg"
+			},
+			"parallaxLayers": [
+				{"layer": "foreground_0", "strength": 5},
+				{"layer": "foreground_1", "strength": 20},
+				{"layer": "foreground_2", "strength": 45},
+				{"layer": "foreground_3", "strength": 70},
+				{"layer": "foreground_4", "strength": 110},
+				{"layer": "background_1", "strength": -100},
+				{"layer": "background_2", "strength": -85},
+				{"layer": "background_3", "strength": -75},
+				{"layer": "background_4", "strength": -60},
+				{"layer": "background_5", "strength": -50},
+				{"layer": "background_6", "strength": -40},
+				{"layer": "background_7", "strength": -20}
+			],
+			"requiredTHLevel": 2,
+			"sceneryScFile": {
+				"ChecksumSha1": "af13c40b82a0bc3757effdb3b9873766d0254a2e",
+				"Path": "/7eeb32b1-9911-450b-b9b7-7a3efaf1af70_scenery_cosmic_curse_dl_opt.sc"
+			},
+			"startTime": "20250901T080000.000Z",
+			"thumbnailFile": {
+				"ChecksumSha1": "86edd1d02bc77ecf466755d51566545bcd4d05cd",
+				"Path": "/a0aa1e74-2dac-437b-a4a2-cc07c3ee1f05_bgr_image_cosmic_curse_dl_opt.sctx"
+			},
+			"tid": "TID_COSMICCURSE_SCENERY",
+			"type": 18,
+			"update": true,
+			"variantId": 0,
+			"version": 2,
+			"villageBackground": "60000078",
+			"villageObjectLocators": [
+				{"locator": "ship_location", "villageObject": "39000000"},
+				{"locator": "boat_location", "villageObject": "39000002"},
+				{"locator": "air_ship_location", "villageObject": "39000025"},
+				{"locator": "forge_location", "villageObject": "39000024"}
+			],
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91217,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000150",
+			"startTime": "20251019T080059.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000193", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91218,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 800,
+			"shopItemValueSticker": "0",
+			"startTime": "20251019T080000.000Z",
+			"tid": "TID_CLASHOWEEN_KING",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000230", "type": "9"}
+			],
+			"endTime": "20321110T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91219,
+			"impressionId": 1,
+			"pricePoint": "100000045",
+			"priority": 801,
+			"shopItemValueSticker": "0",
+			"startTime": "20251019T080000.000Z",
+			"tid": "TID_CLASHOWEEN_WARDEN",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000064"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91220,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 988,
+			"shopItemValueSticker": "0",
+			"startTime": "20251019T080000.000Z",
+			"tid": "TID_SCENERY_CLASHOWEEN2024",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"type": "Disabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"premiumPass": "22000089", "type": "10"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91233,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "2b68ea9fd712008047e30f957e1898235c8368e2",
+				"Key": "6173e9bc8f1721080bcc122aec0b1c7e9a5b2f17f8289ff2e30023be22706e82",
+				"Nonce": "4a3e1fa3db5ac0d6f0b099ea5fc1f1d673ca3e6428d4f1b9",
+				"Path": "/9a7cbea1-ce3c-405e-9718-c19451b138ac.csv"
+			},
+			"pricePoint": "100000027",
+			"priority": 2000,
+			"replacePricePoint": "100000131",
+			"startTime": "20251101T014500.000Z",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"premiumPass": "22000089", "type": "10"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91234,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "ead0473ac3d65aa36938bbce04c82544dfa370bd",
+				"Path": "/6585bfbd-a726-44a4-b3d2-b2940429bcd5_ddf259e9_a17c_4af0_b52a_a4f9b20763ce_gold_pass__1_.csv"
+			},
+			"pricePoint": "100000027",
+			"priority": 2000,
+			"replacePricePoint": "100000131",
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_GOLD_PASS",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000009", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91239,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS13",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000013", "magicItemAmount": 10, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91240,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b3772a762a4a711086b2b25b70e2a1eb2a2c5417",
+				"Path": "/5a257df5-5dfc-4332-8845-57af7d1a304d_TID_WallRings.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_10WallRings",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000014", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91241,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS5",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000021", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91242,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "5368b7a85a72942ed2ae9c1e1c056bed7cd9fa6b",
+				"Path": "/a5719e38-0d92-486f-87e6-2cecbad0bb37_sep_bonus_TIDs_v2.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_1_Hero_Potion",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 50,
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91243,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS8",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000006", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91244,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "0b8d6f3ac5d542364e59e4f1be78403313de477f",
+				"Path": "/33f22e49-7fa3-492b-ae00-9c444d8fa611_sep_bonus_TIDs.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_RP",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000004", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91245,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "5368b7a85a72942ed2ae9c1e1c056bed7cd9fa6b",
+				"Path": "/a5719e38-0d92-486f-87e6-2cecbad0bb37_sep_bonus_TIDs_v2.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_1_Book_of_Everything",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000013", "magicItemAmount": 20, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91246,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b3772a762a4a711086b2b25b70e2a1eb2a2c5417",
+				"Path": "/5a257df5-5dfc-4332-8845-57af7d1a304d_TID_WallRings.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_20WallRings",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000003", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91247,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS6",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000008", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91248,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS12",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 100,
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91249,
+			"imageFile": {
+				"ChecksumSha1": "e052c27c2abb6568b12ceccd01801fa3fb0ceb11",
+				"Path": "/2200935f-e713-4b9e-bc5a-3d23897fa0f4_Clash_Gems_Pocket.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS2",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 25,
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91250,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b0eb4fe813e2e4d49bb07d77a008d4c9f7f2e4a3",
+				"Path": "/e691dd7d-0e51-482d-bc56-b17aca521fe8_TID_bonuses_loc.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_BONUS4",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000013", "magicItemAmount": 5, "source": 0, "type": "8"}
+			],
+			"endTime": "20260101T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91251,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "c8ac7abc7c8925f99053becc0846b02ce8c70bd6",
+				"Path": "/6658cd57-ed73-475f-9232-3ab828d32ba9_TID_5_Wall_Rings.csv"
+			},
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_COC_5WallRings",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20260101T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 20,
+			"endTime": "20251130T230000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91256,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"priority": 100,
+			"shopItemBGColor": "3",
+			"shopItemValueSticker": "3",
+			"startTime": "20251029T082400.000Z",
+			"tid": "TID_EVENT_TITLE_GIFT",
+			"type": 1,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 20,
+			"endTime": "20251130T230000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91257,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"priority": 100,
+			"shopItemBGColor": "3",
+			"shopItemValueSticker": "3",
+			"startTime": "20251029T082400.000Z",
+			"tid": "TID_EVENT_TITLE_GIFT",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 20,
+			"endTime": "20251130T230000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91258,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"priority": 100,
+			"shopItemBGColor": "3",
+			"shopItemValueSticker": "3",
+			"startTime": "20251029T082400.000Z",
+			"tid": "TID_EVENT_TITLE_GIFT",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 20,
+			"endTime": "20251130T230000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91259,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"priority": 100,
+			"shopItemBGColor": "3",
+			"shopItemValueSticker": "3",
+			"startTime": "20251029T082400.000Z",
+			"tid": "TID_EVENT_TITLE_GIFT",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 20,
+			"endTime": "20251130T230000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91260,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"priority": 100,
+			"shopItemBGColor": "3",
+			"shopItemValueSticker": "3",
+			"startTime": "20251029T082400.000Z",
+			"tid": "TID_EVENT_TITLE_GIFT",
+			"type": 1,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"magicItem": "46000014", "magicItemAmount": 2, "source": 0, "type": "8"}
+			],
+			"endTime": "20251117T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91310,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"pricePoint": "100000017",
+			"priority": 999,
+			"shopItemBGColor": "3",
+			"shopItemValueSticker": "3",
+			"startTime": "20251115T080000.000Z",
+			"tid": "TID_OFFER_TITLE_BUILDERREFRESH",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20261231T080000.000Z",
+			"eventPriority": 0,
+			"fallbackSkinPackAndroid": {
+				"ChecksumSha1": "0abc4702e411914aa6756ab1274a9d7086640ea9",
+				"Path": "/40126346-4852-4c0b-b19b-25a1a21d72fc_skin_20251103223556_fallback_android.scp"
+			},
+			"hideEventEntry": false,
+			"id": 91313,
+			"impressionId": 1,
+			"key": {
+				"Key": "4ceb63b51df355db812f3ba489009db90ca4c586543f9f50b9f76fd0f50ec6f1",
+				"Nonce": "081fa05b9b828be826186a294d73a1f31cf3b56adffa95a9"
+			},
+			"skin": "52000242",
+			"skinPack": {
+				"ChecksumSha1": "e0b60cbb1e8539f8f9e08c354dd4e8f59fdcd966",
+				"Path": "/f5b5da95-9075-432a-95ff-88711e33fb67_skin_20251103223556.scp"
+			},
+			"startTime": "20251001T080000.000Z",
+			"type": 16,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20270723T080000.000Z",
+			"eventPriority": 0,
+			"fallbackSkinPackAndroid": {
+				"ChecksumSha1": "07726e111800eab3816e2b3c5de8062546bbca1c",
+				"Path": "/d149ce09-2417-42e2-b912-c2528ced4fc1_skin_20251027155405_fallback_android.scp"
+			},
+			"hideEventEntry": false,
+			"id": 91314,
+			"impressionId": 1,
+			"key": {
+				"Key": "1a9391e33c17628b510e443d191eea935ed2b450a0d51388189f7b44b962ddea",
+				"Nonce": "b38227b55ea02b75ad11272e858624d2b81c9487eaceb655"
+			},
+			"skin": "52000206",
+			"skinPack": {
+				"ChecksumSha1": "cb437a6e11f40b35ef673d583accc6eab9811ae4",
+				"Path": "/3e584471-584d-4f76-8573-c40da184c4a5_skin_20251027155405.scp"
+			},
+			"startTime": "20251001T080000.000Z",
+			"type": 16,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20270225T080000.000Z",
+			"eventPriority": 0,
+			"fallbackSkinPackAndroid": {
+				"ChecksumSha1": "0b493af09ae0680e4a73bfa5a92da3eb2215dc83",
+				"Path": "/0662eb31-c0b8-4fda-be21-b29d0c5c0dab_skin_20251027142415_fallback_android.scp"
+			},
+			"hideEventEntry": false,
+			"id": 91315,
+			"impressionId": 1,
+			"key": {
+				"Key": "b885d027d757949f85408b4637fc3a8e4ad0e5a124753e5bc56dd502720a9f7b",
+				"Nonce": "5c376fb82b8b25e43c14898afd65669e691e9beb90df9531"
+			},
+			"skin": "52000186",
+			"skinPack": {
+				"ChecksumSha1": "de6cff1b60f04937b977f25ba3a44a51ef1f6b3a",
+				"Path": "/1bf70b99-5409-4e55-acef-3c5ce1e162f7_skin_20251027142415.scp"
+			},
+			"startTime": "20251001T080000.000Z",
+			"type": 16,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20271126T080000.000Z",
+			"eventPriority": 0,
+			"fallbackSkinPackAndroid": {
+				"ChecksumSha1": "8a73fd2005c2e8d61daa19911dec99f3f3c420f6",
+				"Path": "/26b95f1c-e983-4a13-8f05-cc48743eb133_skin_20251027155549_fallback_android.scp"
+			},
+			"hideEventEntry": false,
+			"id": 91316,
+			"impressionId": 1,
+			"key": {
+				"Key": "9e43e405d3400d8bac05491a26c94fc665413c492f4ef73faea0aa8145f7849b",
+				"Nonce": "67a24794f2d21a6b7b7472e25fb8128da5a26f8f8c645f0b"
+			},
+			"skin": "52000221",
+			"skinPack": {
+				"ChecksumSha1": "247a5f9f57075ab4a57f150446888fe48012f290",
+				"Path": "/ac32c664-33e4-46c1-a03e-27ba5b3bb0cf_skin_20251027155549.scp"
+			},
+			"startTime": "20251001T080000.000Z",
+			"type": 16,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20270325T080000.000Z",
+			"eventPriority": 0,
+			"fallbackSkinPackAndroid": {
+				"ChecksumSha1": "f63d162c933543a865dcaa45f75c566dfb0389b9",
+				"Path": "/842a0362-e18e-49ca-ad8d-fc4a4f412e4e_skin_20251103101449_fallback_android.scp"
+			},
+			"hideEventEntry": false,
+			"id": 91317,
+			"impressionId": 1,
+			"key": {
+				"Key": "1d991f1a92fdf7a86b089654b5d988de98c6d8a093eb61ec39d548598e4c800a",
+				"Nonce": "25f8d4a800b4e55d9f02907c7286c18bcc548f59f7128d2e"
+			},
+			"skin": "52000260",
+			"skinPack": {
+				"ChecksumSha1": "91fe89d28331ce78d89f0234ae026acc52a6575f",
+				"Path": "/adec68fe-c4ab-4c16-85fb-6d6372dba9d7_skin_20251103101449.scp"
+			},
+			"startTime": "20251001T080000.000Z",
+			"type": 16,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"baseScFile": {
+				"ChecksumSha1": "c86c77ccb0fe82e56645552713eedffd4b494428",
+				"Path": "/abae59bf-445c-4fbe-8191-b571ebb13cc1_scenery_gamearea_war_ruined_dl_opt.sc"
+			},
+			"buildingBasesScFile": {
+				"ChecksumSha1": "b7f969c27cbf994777aad2fe5cd45230072d3a5d",
+				"Path": "/81b7f7f8-beed-4c72-8600-323ae944c72c_scenery_bases_war_ruined_dl_opt.sc"
+			},
+			"endTime": "20270304T080100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"foregroundExportName": "Player_war_bg",
+			"hideEventEntry": false,
+			"homeType": 1,
+			"iconFile": {
+				"ChecksumSha1": "883f52a5f3221fea74ac9296f43ad6758cc27dcf",
+				"Path": "/b9fad616-8ff7-4f62-85dc-092970df54b0_scenery_icon_war_ruined_dl_opt.sctx"
+			},
+			"id": 91320,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "870265507acfb8a71aeb7474509f8a0845643845",
+				"Path": "/7559e2b9-c000-413a-8cfa-03a59028bfca_scenery_war_scenery_25.csv"
+			},
+			"musicFile": {
+				"ChecksumSha1": "bc14e5e6d83e5de347abca3990746b4da4c46626",
+				"Path": "/8b253c1e-bdbe-4e97-978d-2dbf67b6fc39_Mus_War2025_Bed_and_Music_dl_opt.ogg"
+			},
+			"parallaxLayers": [
+				{"layer": "foreground_1", "strength": 15},
+				{"layer": "foreground_2", "strength": 15},
+				{"layer": "background_1", "strength": -30}
+			],
+			"requiredTHLevel": 2,
+			"sceneryScFile": {
+				"ChecksumSha1": "1ca80d6c1ad3b59c88e97a4010190610aafc0e99",
+				"Path": "/d4d1ec7e-29fb-457f-be6a-717d5a872429_scenery_war_ruined_dl_opt.sc"
+			},
+			"startTime": "20250901T080000.000Z",
+			"thumbnailFile": {
+				"ChecksumSha1": "9eaa9edd86a0f68c60c39483da8b8d9b8529897c",
+				"Path": "/d98d0ee1-a4b4-4e5b-9aa1-0c91791d6fdd_bgr_image_war_ruined_dl_opt.sctx"
+			},
+			"tid": "TID_SCENERY_WAR_RUINED",
+			"type": 18,
+			"variantId": 0,
+			"version": 1,
+			"villageBackground": "60000079",
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91323,
+			"imageFile": {
+				"ChecksumSha1": "2fb09c14ea924df3a4ff755a925c35b04f5f88ec",
+				"Path": "/2f0a89f1-68c4-474c-a1c8-5f8e9ab21fb9_1px_transparent.png"
+			},
+			"impressionId": 1,
+			"keyRewardImage": {
+				"ChecksumSha1": "539c275585896b0b884a4a07ec4d68640fd2b8b3",
+				"Path": "/a90bad94-31d5-48f7-8296-fc8b266914bb_Wasteland_BK_Keyreward.png"
+			},
+			"localizationFile": {
+				"ChecksumSha1": "f7eef510e4efbd11da43209778d8ce93ae744f0a",
+				"Path": "/8268ee69-5f96-48e5-b8a4-d284a70fbb4a_November_Season_fix_2.csv"
+			},
+			"maxTH": 16,
+			"minTH": 6,
+			"overrideTasksScore": [],
+			"resourceScalingEnabled": false,
+			"rewardTiers": [
+				{"points": 0, "premiumReward": "52000206", "premiumRewardAmount": 1},
+				{"freeReward": "46000005", "freeRewardAmount": 1, "points": 40, "premiumReward": "37000040", "premiumRewardAmount": 99},
+				{"points": 80, "premiumReward": "37000160", "premiumRewardAmount": 40},
+				{"freeReward": "46000019", "freeRewardAmount": 1, "points": 120, "premiumReward": "37000074", "premiumRewardAmount": 10},
+				{"points": 160, "premiumReward": "37000037", "premiumRewardAmount": 10},
+				{"freeReward": "3000013", "freeRewardAmount": 500, "points": 200, "premiumReward": "37000039", "premiumRewardAmount": 100000},
+				{"points": 240, "premiumReward": "37000122", "premiumRewardAmount": 40000},
+				{"freeReward": "46000025", "freeRewardAmount": 1, "points": 280, "premiumReward": "46000024", "premiumRewardAmount": 1},
+				{"points": 320, "premiumReward": "46000000", "premiumRewardAmount": 1},
+				{"freeReward": "46000006", "freeRewardAmount": 1, "points": 360, "premiumReward": "46000005", "premiumRewardAmount": 2},
+				{"points": 400, "premiumReward": "37000123", "premiumRewardAmount": 1},
+				{"freeReward": "46000022", "freeRewardAmount": 1, "points": 460, "premiumReward": "46000021", "premiumRewardAmount": 2},
+				{"points": 520, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"freeReward": "46000023", "freeRewardAmount": 1, "points": 580, "premiumReward": "37000039", "premiumRewardAmount": 150000},
+				{"points": 640, "premiumReward": "37000122", "premiumRewardAmount": 60000},
+				{"freeReward": "46000005", "freeRewardAmount": 1, "points": 700, "premiumReward": "37000124", "premiumRewardAmount": 2},
+				{"points": 760, "premiumReward": "37000125", "premiumRewardAmount": 4},
+				{"freeReward": "46000021", "freeRewardAmount": 1, "points": 820, "premiumReward": "37000160", "premiumRewardAmount": 60},
+				{"points": 880, "premiumReward": "37000074", "premiumRewardAmount": 15},
+				{"freeReward": "3000013", "freeRewardAmount": 1000, "points": 940, "premiumReward": "37000037", "premiumRewardAmount": 15},
+				{"points": 1000, "premiumReward": "46000008", "premiumRewardAmount": 1},
+				{"freeReward": "3000001", "freeRewardAmount": 1000000, "points": 1080, "premiumReward": "46000009", "premiumRewardAmount": 1},
+				{"points": 1160, "premiumReward": "37000039", "premiumRewardAmount": 200000},
+				{"freeReward": "3000002", "freeRewardAmount": 1000000, "points": 1240, "premiumReward": "37000122", "premiumRewardAmount": 80000},
+				{"points": 1320, "premiumReward": "3000013", "premiumRewardAmount": 2000},
+				{"freeReward": "3000007", "freeRewardAmount": 1000000, "points": 1400, "premiumReward": "46000011", "premiumRewardAmount": 1},
+				{"points": 1480, "premiumReward": "37000160", "premiumRewardAmount": 80},
+				{"freeReward": "3000008", "freeRewardAmount": 1000000, "points": 1560, "premiumReward": "37000074", "premiumRewardAmount": 20},
+				{"points": 1640, "premiumReward": "37000037", "premiumRewardAmount": 20},
+				{"freeReward": "3000003", "freeRewardAmount": 10000, "points": 1720, "premiumReward": "46000012", "premiumRewardAmount": 1},
+				{"points": 1800, "premiumReward": "46000002", "premiumRewardAmount": 1},
+				{"freeReward": "3000001", "freeRewardAmount": 2000000, "points": 1880, "premiumReward": "37000039", "premiumRewardAmount": 300000},
+				{"points": 1960, "premiumReward": "37000122", "premiumRewardAmount": 100000},
+				{"freeReward": "3000002", "freeRewardAmount": 2000000, "points": 2040, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 2120, "premiumReward": "46000010", "premiumRewardAmount": 1},
+				{"freeReward": "3000013", "freeRewardAmount": 1500, "points": 2200, "premiumReward": "46000014", "premiumRewardAmount": 1},
+				{"points": 2300, "premiumReward": "46000003", "premiumRewardAmount": 1},
+				{"freeReward": "3000003", "freeRewardAmount": 20000, "points": 2400, "premiumReward": "46000020", "premiumRewardAmount": 1},
+				{"points": 2500, "premiumReward": "3000013", "premiumRewardAmount": 3000},
+				{"freeReward": "46000003", "freeRewardAmount": 1, "points": 2600, "premiumReward": "46000001", "premiumRewardAmount": 1}
+			],
+			"scFile": {
+				"ChecksumSha1": "c1566b791eac8550cf0713f0732e90febdc97b49",
+				"Path": "/caadf5ef-77f5-4328-9f96-7db5569cd197_event_banner_wastelands_BK.sc"
+			},
+			"startTime": "20251101T080000.000Z",
+			"type": 13,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20251101T080000.000Z",
+			"weeks": [
+				{
+					"tasks": [
+						"53000363",
+						"53000171",
+						"53000383",
+						"53000310",
+						"53000094",
+						"53000129",
+						"53000161",
+						"53000143"
+					]
+				},
+				{
+					"tasks": [
+						"53000169",
+						"53000387",
+						"53000209",
+						"53000301",
+						"53000133",
+						"53000155",
+						"53000159",
+						"53000145"
+					]
+				},
+				{
+					"tasks": [
+						"53000366",
+						"53000033",
+						"53000179",
+						"53000028",
+						"53000077",
+						"53000165",
+						"53000078",
+						"53000090"
+					]
+				},
+				{
+					"tasks": [
+						"53000168",
+						"53000140",
+						"53000410",
+						"53000403",
+						"53000324",
+						"53000119",
+						"53000154",
+						"53000135"
+					]
+				}
+			]
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 999,
+			"availableInVillage": true,
+			"deliverables": [
+				{"premiumPass": "22000089", "type": "10"}
+			],
+			"endTime": "20271028T075900.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91324,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "9b6286f185899f1b5943ea9759b306d29da9a45d",
+				"Path": "/ddf259e9-a17c-4af0-b52a-a4f9b20763ce_gold_pass.csv"
+			},
+			"pricePoint": "100000131",
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_GOLD_PASS",
+			"type": 1,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20271028T075900.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"baseScFile": {
+				"ChecksumSha1": "8c6d32a9a2e8efe2f51e5d70a23ef2aece845e38",
+				"Path": "/820858d0-f2e7-4ec8-8b5f-b1146af689ed_scenery_gamearea_wastelands_dl_opt.sc"
+			},
+			"buildingBasesScFile": {
+				"ChecksumSha1": "9c86114e61c02c728cd64c1d72c940f60552929a",
+				"Path": "/61b30122-af20-4b06-ba9c-3610a77f1c91_scenery_bases_wastelands_dl_opt.sc"
+			},
+			"endTime": "20270923T080100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"foregroundExportName": "Player_Background",
+			"hideEventEntry": false,
+			"iconFile": {
+				"ChecksumSha1": "4ed84c7cac22e4ee00242284c329ef2ea9a4804a",
+				"Path": "/fa0cdc1e-c234-4de7-a1fa-7f0570180c53_scenery_icon_wastelands_dl_opt.sctx"
+			},
+			"id": 91325,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "5b8271b40975240fb9749a4f5d5161f00ed15236",
+				"Path": "/67d63680-e408-4320-8d7f-8de22aa485c0_scenery_wastelands.csv"
+			},
+			"maxZoom": 26616,
+			"musicFile": {
+				"ChecksumSha1": "ab4e2e41b5e3990dae00b2aa7bc8b6e6be499613",
+				"Path": "/c4465c28-da6b-4e51-9643-108e4d7c2f3b_Mus_Wastelands_Bed_and_Music_dl_opt.ogg"
+			},
+			"requiredTHLevel": 2,
+			"sceneryScFile": {
+				"ChecksumSha1": "4f77714f911245cb1a0a44657f90a746d0508a74",
+				"Path": "/0f1fbdcb-bac6-44d8-acf4-e1f1a8b9fd5a_scenery_wastelands_dl_opt.sc"
+			},
+			"startTime": "20250901T080000.000Z",
+			"thumbnailFile": {
+				"ChecksumSha1": "84a180ed28366ea7e93710ad28a8676a7eae934c",
+				"Path": "/a7aeea83-414a-4592-857b-66a04091fd94_bgr_image_wastelands_dl_opt.sctx"
+			},
+			"tid": "TID_SCENERY_WASTELANDS",
+			"type": 18,
+			"variantId": 0,
+			"version": 1,
+			"villageBackground": "60000080",
+			"villageObjectLocators": [
+				{"locator": "ship_location", "villageObject": "39000000"},
+				{"locator": "boat_location", "villageObject": "39000002"},
+				{"locator": "air_ship_location", "villageObject": "39000025"},
+				{"locator": "forge_location", "villageObject": "39000024"}
+			],
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20251201T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91326,
+			"impressionId": 1,
+			"logoAlign": "2",
+			"scFile": {
+				"ChecksumSha1": "fbf92c9f203386be5227f3f4d1acaeca39920c0c",
+				"Path": "/c93de1ca-8de7-4229-8b6e-912403ada853_loading_hammerjam_2025.sc"
+			},
+			"startTime": "20251101T080000.000Z",
+			"type": 6,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "20251101T080000.000Z"
+		},
+		{
+			"endTime": "20251117T080000.000Z",
+			"eventPriority": 0,
+			"exclude": [
+				{"discountPercentageCost": 0, "discountPercentageTime": 0, "maxUpgradeLevel": 0, "minUpgradeLevel": 0, "type": "1000097"}
+			],
+			"excludeSupercharges": true,
+			"forgeDiscount": {
+				"discountPercentageCost": 50,
+				"discountPercentageTime": 50,
+				"maxForgeTier": 0,
+				"minForgeTier": 0
+			},
+			"hideEventEntry": true,
+			"id": 91328,
+			"impressionId": 1,
+			"resourceTypeDiscounts": [
+				{"discountPercentageCost": 50, "discountPercentageTime": 50, "resource": "3000003"},
+				{"discountPercentageCost": 50, "discountPercentageTime": 50, "resource": "3000001"},
+				{"discountPercentageCost": 50, "discountPercentageTime": 50, "resource": "3000002"}
+			],
+			"startTime": "20251101T080000.000Z",
+			"type": 55,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20251117T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91329,
+			"imageFile": {
+				"ChecksumSha1": "2fb09c14ea924df3a4ff755a925c35b04f5f88ec",
+				"Path": "/2f0a89f1-68c4-474c-a1c8-5f8e9ab21fb9_1px_transparent.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "ce5819e05efcb494e7f210dcb2afce11e4cf06af",
+				"Path": "/e43057d0-7bd4-450f-8bb7-a39e9b41f46d_hammer_jam_2025_fix.csv"
+			},
+			"scFile": {
+				"ChecksumSha1": "abb2804feaf60206a413613a22a970f5dc672b7b",
+				"Path": "/129206cf-79a7-4bff-8b67-20f37ba5cc67_HammerJam_2025.sc"
+			},
+			"startTime": "20251114T140000.000Z",
+			"type": 0,
+			"variantId": 0,
+			"version": 12,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20251107T093000.000Z"
+		},
+		{
+			"endTime": "20251201T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91332,
+			"impressionId": 1,
+			"minCost": 10,
+			"monthCost": 1200,
+			"requiredTownHallLevel": 7,
+			"startTime": "20251101T080000.000Z",
+			"type": 34,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20251201T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91333,
+			"impressionId": 1,
+			"minCost": 10,
+			"monthCost": 1200,
+			"requiredTownHallLevel": 7,
+			"requiredWorkerCount": 5,
+			"startTime": "20251101T080000.000Z",
+			"temporaryWorkerCount": 1,
+			"type": 33,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "20251101T080000.000Z"
+		},
+		{
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91334,
+			"imageFile": {
+				"ChecksumSha1": "1a6b9afb1f169494a1df89b94d81dec2db73974e",
+				"Path": "/7a38abe2-8212-44cd-a736-c86dedab29ee_ce95f9c9_3807_40b0_b566_93e22d0d958f_Rama_25_Goblin.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "8b08f93f1b424b2bb1cf986d54374afcb6c9ac26",
+				"Path": "/d0ce0ec0-13fe-4ab6-ae86-3e74728872d8_c85a9c82_ee92_4186_85f2_03a23a54a64f_goblinBuilderGenericEvent__1Aug.csv"
+			},
+			"scFile": {
+				"ChecksumSha1": "25a02cc8810802b5eb3f7213cb0cea9d22f0898b",
+				"Path": "/b3ee1d9d-7c17-47cc-92a9-5d1833b0ea09_df54dc4c_e62b_4b83_961a_e2d327b01889_banner_background_clasharama_2025__1___3_.sc"
+			},
+			"startTime": "20251101T080000.000Z",
+			"type": 0,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "20251101T080000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000079"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91335,
+			"impressionId": 1,
+			"infoTid": "TID_EVENT_INFO_WAR_RUINED_SCENERY",
+			"localizationFile": {
+				"ChecksumSha1": "bf34fc4304f13ab36f89324f41718bff777f46c1",
+				"Path": "/443f02e2-e410-4670-b71f-9c430be73a82_sceneryoffer_war_ruined.csv"
+			},
+			"pricePoint": "100000039",
+			"priority": 300,
+			"scFile": {
+				"ChecksumSha1": "b255b99014b33cd6719e0c7113565f795eca04a3",
+				"Path": "/90c5cda2-e194-4bb7-8f33-da8b92efb5f8_scenery_offer_war.sc"
+			},
+			"shopInfoItemExportName": "offer2_info",
+			"shopItemExportName": "offer2_item",
+			"shopItemValueSticker": "3",
+			"startTime": "20251101T080000.000Z",
+			"tid": "TID_EVENT_TITLE_WAR_RUINED_SCENERY",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 6,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"buttonActionLink": "clashofclans://OpenWebview?url=https%3A%2F%2Fingame-webviews.supercell.com%2Fingame-progress-tracker%2Fclashofclans%2Fen%2Fcrater-cradle%2F",
+			"buttonExportName": "event_meteor_button",
+			"endTime": "20251117T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91344,
+			"impressionId": 1,
+			"placementHudInstanceName": "campaign_button_non_reengaged",
+			"scFile": {
+				"ChecksumSha1": "4e8c9caca709125039a44ba9a922029c55119c49",
+				"Path": "/7d1e0e32-330f-432e-99e1-6f1bbe29f918_event_meteor_th18_button.sc"
+			},
+			"startTime": "20251101T150000.000Z",
+			"type": 41,
+			"variantId": 0,
+			"version": 7,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "20251101T150000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000080"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91358,
+			"impressionId": 1,
+			"infoTid": "TID_EVENT_INFO_WASTELAND_SCENERY",
+			"localizationFile": {
+				"ChecksumSha1": "a026744331901ec2e7d1144fbec579682e4414c1",
+				"Path": "/12b33847-3700-4e2f-9de3-d692965479a8_sceneryoffer_wasteland_2025.csv"
+			},
+			"pricePoint": "100000045",
+			"priority": 302,
+			"scFile": {
+				"ChecksumSha1": "66345cea3f89be43ccaccddc17ee7d022487ca98",
+				"Path": "/5e294483-d154-45cf-b777-25361945d87e_scenery_offer_wastelands.sc"
+			},
+			"shopInfoItemExportName": "offer2_info",
+			"shopItemExportName": "offer2_item",
+			"shopItemValueSticker": "3",
+			"startTime": "20251104T080000.000Z",
+			"tid": "TID_EVENT_TITLE_WASTELAND_SCENERY",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 4,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"animatedTid": "TID_EVENT_ANIMATION_PREPAREYOURSELF",
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"diamondCountOverride": 1,
+			"endTime": "20251231T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91360,
+			"imageFile": {
+				"ChecksumSha1": "fc3affaec94f29b8c118b8e6bbc310e4b306436e",
+				"Path": "/20e9c3df-0bd4-4f26-82b4-59da85d3d283_Clash_Gems_Pocket.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "aa06cd0cda5fce4897a34f96ea9c39e45b002131",
+				"Path": "/24e002b3-1597-4a44-8b22-ea9d9b547da6_70e50b81_9984_4c71_b3b5_NEWLOCS.csv"
+			},
+			"priority": 9999,
+			"shopItemBGColor": "3",
+			"shopItemValueSticker": "3",
+			"startTime": "20241104T000000.000Z",
+			"tid": "TID_BOUNTY_TEST",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"value": 5,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20251117T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91363,
+			"impressionId": 1,
+			"obstacles": [
+				{"appearancePeriodHours": 12, "maxCount": 8, "obstacle": "8000133"}
+			],
+			"startTime": "20251113T080100.000Z",
+			"type": 15,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20251117T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000004", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91364,
+			"imageFile": {
+				"ChecksumSha1": "eccee07680980f6854b63cfa9aa3bcddec8753c9",
+				"Path": "/fd00bda2-f8f2-4997-bd27-2041a9223515_book_of_everything.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 96,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_FINISH_ANY_UPGRADE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000013", "magicItemAmount": 5, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91365,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 86,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_WALL_UPGRADE_ALT_2_LINE_5",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000008", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91366,
+			"imageFile": {
+				"ChecksumSha1": "45e076bb2504634d6f9d4eff3ee25a1116e76969",
+				"Path": "/22ec2e4c-cc5a-4622-9c56-20f6585886a7_rune_of_gold.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 100,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_FILL_GOLD_STORAGE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000024", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090200.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91367,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 72,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_PET_POTION_ALT_2_LINE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090200.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000003", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91368,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 89,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_FINISH_HERO_UPGRADE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000009", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91369,
+			"imageFile": {
+				"ChecksumSha1": "751d1d3a0f3fd7e29c3832c78124d948f8fedffa",
+				"Path": "/aeb0738a-1739-49fc-9fa1-e3b95bb7a4b5_rune_of_elixir.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 98,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_FILL_ELIXIR_STORAGE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000006", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91370,
+			"imageFile": {
+				"ChecksumSha1": "d9fd791adc135ec23f0a38117e68bbe734f6e661",
+				"Path": "/8c83e8f9-ad15-4304-ae5f-6637597087ee_potion_of_resources.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 68,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_BOOST_RESOURCES",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000000", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090200.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91371,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 90,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_FINISH_TROOP_UPGRADE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090200.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000023", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090200.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91372,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 76,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_SUPER_POTION_ALT_2_LINE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090200.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000001", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91373,
+			"imageFile": {
+				"ChecksumSha1": "ddc456c79d526372a88738151e24bf820840da92",
+				"Path": "/e5457dc9-c87c-47e4-b0e2-cdddca72b274_book_of_buildings.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 97,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_FINISH_BUILDING_UPGRADE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000021", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91374,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 80,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_HERO_POTION",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000022", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090200.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91375,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 74,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_LAB_POTION",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090200.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000005", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090200.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91376,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 78,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_MAX_LEVEL_ARMY",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090200.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000020", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91377,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 89,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_MOVE_OBSTACLE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000014", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090100.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91378,
+			"imageFile": {
+				"ChecksumSha1": "f31d3bbef79d1f720232c51ba3c2f986a840cf6b",
+				"Path": "/e8de1c2d-0f29-49ba-a102-100666e97108_builder_potion.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 84,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_BUILDERS_ALT_2_LINE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090100.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 10,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000002", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20300611T090200.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91379,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "33f61cdde1c45d16b4ae4c734a4cbde3f05b26a5",
+				"Path": "/0f40a82c-8a30-4b6a-8163-e856848fdbb8_IDR202506.csv"
+			},
+			"priority": 92,
+			"startTime": "20251105T104000.000Z",
+			"tid": "TID_BOOSTER_FINISH_SPELL_UPGRADE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20300611T090200.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000221", "type": "9"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91399,
+			"impressionId": 1,
+			"infoTid": "TID_EVENT_INFO_WASTELAND_AQ",
+			"localizationFile": {
+				"ChecksumSha1": "5e1272cfa41776bb67344d0e5d71b0318e0bef2f",
+				"Path": "/c882bfba-eadd-4f1b-a12f-7c42eb5dea56_Banner_Skinoffer_Wasteland_AQ_25.csv"
+			},
+			"pricePoint": "100000045",
+			"priority": 303,
+			"scFile": {
+				"ChecksumSha1": "e8afce070035f9e3c5920ec73905d741b017b0f7",
+				"Path": "/40a9f57f-8420-4e36-a285-a9dc178be4ed_skinoffer_wastelands_AQ.sc"
+			},
+			"shopInfoItemExportName": "offer2_info",
+			"shopItemExportName": "offer2_item",
+			"shopItemValueSticker": "3",
+			"startTime": "20251106T080000.000Z",
+			"tid": "TID_EVENT_TITLE_WASTELAND_AQ",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"buildingSelectedSound": {
+				"ChecksumSha1": "513a45fa13248528c93e7c2f9d4cf4ed600f345f",
+				"Path": "/64f5df24-44aa-40a7-8a6b-ade6f3556e6e_de2ca748_7ad3_4fed_aa26_ea65316672c4_darkdays_event_hub_tap_01__1_.ogg"
+			},
+			"endTime": "20251117T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"exportName": "cosmiccurse_eventbuilding_telescope_3x3",
+			"hideEventEntry": false,
+			"id": 91408,
+			"idleAnimationEnd": "idle_end",
+			"idleAnimationStart": "idle_start",
+			"imageFile": {
+				"ChecksumSha1": "2fb09c14ea924df3a4ff755a925c35b04f5f88ec",
+				"Path": "/2f0a89f1-68c4-474c-a1c8-5f8e9ab21fb9_1px_transparent.png"
+			},
+			"impressionId": 1,
+			"lastNotifyTime": "20251115T081500.000Z",
+			"localizationFile": {
+				"ChecksumSha1": "8258653ecf8d6995b5de710d0d6b7f83b603932d",
+				"Path": "/46d26991-4dd5-41e5-b2d6-b535267bac3d_telescope_building_locPRODv3.csv"
+			},
+			"minTownHall": 4,
+			"notifyAnimationEnd": "notify_end",
+			"notifyAnimationStart": "notify_start",
+			"positionSlot": "39000036",
+			"scFile": {
+				"ChecksumSha1": "79a7e353039bacfe1787aa75243273684877a3ca",
+				"Path": "/7a372d01-7565-46d9-bb44-f15e8f1faad3_telescope_event.sc"
+			},
+			"startTime": "20251108T080000.000Z",
+			"type": 58,
+			"variantId": 0,
+			"version": 13,
+			"villageObjectSlot": "39000038",
+			"visibleEndTime": "20251117T080000.000Z",
+			"visibleTime": "20251108T080000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"skin": "52000260", "type": "9"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91409,
+			"impressionId": 1,
+			"infoTid": "TID_EVENT_INFO_WASTELANDS_MP",
+			"localizationFile": {
+				"ChecksumSha1": "e7ff6e1e77625881836ad2e89bffe3ebcbdb834a",
+				"Path": "/41b13686-38f6-476c-af06-c2c63ffa486c_Banner_Skinoffer_Wastelands_MP_25.csv"
+			},
+			"pricePoint": "100000045",
+			"priority": 304,
+			"scFile": {
+				"ChecksumSha1": "6ca3ee7700e4162069f8e6617f66c1f209d29c06",
+				"Path": "/9eeaa4a2-13e4-4d33-b2a5-55c69a5e9eee_skinoffer_wastelands_MP.sc"
+			},
+			"shopInfoItemExportName": "offer2_info",
+			"shopItemExportName": "offer2_item",
+			"shopItemValueSticker": "3",
+			"startTime": "20251108T080000.000Z",
+			"tid": "TID_EVENT_TITLE_WASTELANDS_MP",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 5,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"animatedTid": "TID_EVENT_ANIMATION_UPGRADENOW",
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"magicItem": "46000014", "magicItemAmount": 2, "source": 0, "type": "8"},
+				{"magicItem": "46000006", "magicItemAmount": 3, "source": 0, "type": "8"}
+			],
+			"endTime": "20251117T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91413,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"pricePoint": "100000017",
+			"priority": 695,
+			"shopItemBGColor": "1",
+			"shopItemValueSticker": "3",
+			"startTime": "20251112T080000.000Z",
+			"tid": "TID_EVENT_TITLE_HJP",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"animatedTid": "TID_EVENT_ANIMATION_UPGRADENOW",
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"resource": "3000001", "resourceAmount": 10000000, "type": "1"},
+				{"magicItem": "46000014", "magicItemAmount": 3, "source": 0, "type": "8"},
+				{"magicItem": "46000022", "magicItemAmount": 3, "source": 0, "type": "8"}
+			],
+			"endTime": "20251117T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91414,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"pricePoint": "100000039",
+			"priority": 697,
+			"shopItemBGColor": "1",
+			"shopItemValueSticker": "3",
+			"startTime": "20251112T080000.000Z",
+			"tid": "TID_EVENT_TITLE_HJP",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"animatedTid": "TID_EVENT_ANIMATION_UPGRADENOW",
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"magicItem": "46000013", "magicItemAmount": 50, "source": 0, "type": "8"}
+			],
+			"endTime": "20251117T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91415,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"pricePoint": "100000035",
+			"priority": 696,
+			"shopItemBGColor": "1",
+			"shopItemValueSticker": "3",
+			"startTime": "20251112T080000.000Z",
+			"tid": "TID_EVENT_TITLE_HJP",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"capital": [
+				{
+					"amount": 5,
+					"cost": [
+						350
+					],
+					"item": "3000021",
+					"maxBuys": 2
+				},
+				{
+					"amount": 50,
+					"cost": [
+						300
+					],
+					"item": "3000020",
+					"maxBuys": 2
+				},
+				{
+					"amount": 500,
+					"cost": [
+						350
+					],
+					"item": "3000019",
+					"maxBuys": 2
+				},
+				{
+					"amount": 2500000,
+					"cost": [
+						200
+					],
+					"item": "3000001",
+					"maxBuys": 1
+				},
+				{
+					"amount": 2500000,
+					"cost": [
+						200
+					],
+					"item": "3000002",
+					"maxBuys": 1
+				},
+				{
+					"amount": 25000,
+					"cost": [
+						200
+					],
+					"item": "3000003",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1000000,
+					"cost": [
+						165
+					],
+					"item": "3000007",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1000000,
+					"cost": [
+						165
+					],
+					"item": "3000008",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						100
+					],
+					"item": "46000019",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						150
+					],
+					"item": "46000025",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						150
+					],
+					"item": "46000005",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						150
+					],
+					"item": "46000021",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						115
+					],
+					"item": "46000006",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						200
+					],
+					"item": "46000022",
+					"maxBuys": 3
+				},
+				{
+					"amount": 5,
+					"cost": [
+						225
+					],
+					"item": "46000013",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						3500
+					],
+					"item": "82000045",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						3500
+					],
+					"item": "82000028",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						3500
+					],
+					"item": "82000038",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						3000
+					],
+					"item": "82000056",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						2500
+					],
+					"item": "82000007",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						2000
+					],
+					"item": "82000065",
+					"maxBuys": 1
+				}
+			],
+			"endTime": "20251118T080000.000Z",
+			"eventPriority": 0,
+			"free": [
+				{"amount": 10, "end": 10080, "item": "3000020", "start": 0}
+			],
+			"hideEventEntry": false,
+			"id": 91416,
+			"impressionId": 1,
+			"offer": [
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000019",
+					"maxBuys": 1
+				},
+				{
+					"amount": 15,
+					"cost": [
+						275
+					],
+					"item": "3000021",
+					"maxBuys": 1
+				},
+				{
+					"amount": 60,
+					"cost": [
+						150
+					],
+					"item": "3000020",
+					"maxBuys": 2
+				},
+				{
+					"amount": 300,
+					"cost": [
+						150
+					],
+					"item": "3000019",
+					"maxBuys": 5
+				},
+				{
+					"amount": 1,
+					"cost": [
+						100
+					],
+					"item": "46000025",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						60
+					],
+					"item": "46000006",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						120
+					],
+					"item": "46000022",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						120
+					],
+					"item": "46000024",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						150
+					],
+					"item": "46000005",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						285
+					],
+					"item": "46000014",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1000
+					],
+					"item": "46000012",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1000
+					],
+					"item": "46000009",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1000
+					],
+					"item": "46000008",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						500
+					],
+					"item": "46000003",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						925
+					],
+					"item": "46000000",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						500
+					],
+					"item": "46000020",
+					"maxBuys": 1
+				},
+				{
+					"amount": 5,
+					"cost": [
+						175
+					],
+					"item": "46000013",
+					"maxBuys": 3
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000035",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000048",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000032",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000040",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000041",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000039",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000013",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000014",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000022",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000015",
+					"maxBuys": 1
+				},
+				{
+					"amount": 1,
+					"cost": [
+						1500
+					],
+					"item": "90000010",
+					"maxBuys": 1
+				}
+			],
+			"personallyTargeted": false,
+			"specialoffer": [],
+			"startTime": "20251111T080000.000Z",
+			"type": 7,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"foregroundExportName": "Player_Background",
+			"hideEventEntry": false,
+			"id": 91417,
+			"impressionId": 1,
+			"sceneryScFile": {
+				"ChecksumSha1": "3ef1331165d913cdeff345ffe94eabc31a047435",
+				"Path": "/7fedcb80-2d88-4131-a1e4-047e7e9b9cdf_scenery_default_wastelands_c_dl_opt.sc"
+			},
+			"startTime": "20251111T080100.000Z",
+			"type": 18,
+			"update": true,
+			"variantId": 0,
+			"version": 1,
+			"villageBackground": "60000000",
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableInVillage": true,
+			"billingPackage": "22000184",
+			"deliverables": [
+				{"magicItem": "46000022", "magicItemAmount": 1, "source": 0, "type": "8"}
+			],
+			"endTime": "20251130T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91419,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b2b8bd50bd38f30ba38c3865a01d608adc8b793b",
+				"Path": "/ce85534f-6f35-4520-b6ec-8cd708bc5f0b_Monetization_Locs_7.csv"
+			},
+			"priority": 100,
+			"shopItemBGColor": "3",
+			"shopItemValueSticker": "3",
+			"startTime": "20251007T115500.000Z",
+			"tid": "TID_EVENT_TITLE_GIFT",
+			"type": 1,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20251117T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"eventSlot": "17000148",
+			"hideEventEntry": false,
+			"id": 91421,
+			"imageFile": {
+				"ChecksumSha1": "002fc4bcd648393dadca70709cf3e52ed4d045bc",
+				"Path": "/5a1c8175-c651-4ad3-a1e1-68a099176074_TH17_Challenge_event_banner.png"
+			},
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "7d6770d48e9a3f0c7b820fbfdcf7f0cc7156ecc0",
+				"Path": "/5814c81e-d7af-430a-9992-9b1e57e63753_npc_challenge_locs_nov_2.csv"
+			},
+			"rewardBooster": "46000022",
+			"rewardBoosterAmount": 1,
+			"rewardGems": 25,
+			"rewardXP": 400,
+			"scFile": {
+				"ChecksumSha1": "d8356c789232d037f8f00c3407cf03c10897181f",
+				"Path": "/e055b05d-3034-49cb-8791-0d92b5e57cfd_event_banner_wastelands_th17_championship.sc"
+			},
+			"startTime": "20251114T130000.000Z",
+			"type": 17,
+			"variantId": 0,
+			"version": 2,
+			"visibleEndTime": "20251117T080000.000Z",
+			"visibleTime": "20251112T080000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableCosmeticsPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"type": "12", "villageBackground": "60000065"}
+			],
+			"endTime": "20350303T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91426,
+			"impressionId": 1,
+			"pricePoint": "100000039",
+			"priority": 988,
+			"shopItemValueSticker": "0",
+			"startTime": "20251114T080000.000Z",
+			"tid": "TID_SCENERY_TH17",
+			"type": 1,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"decoration": "18000189", "type": "3"}
+			],
+			"endTime": "20251201T080000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91428,
+			"impressionId": 1,
+			"infoTid": "TID_EVENT_INFO_DECO_FORTUNE_PRINTER",
+			"localizationFile": {
+				"ChecksumSha1": "16e96eeb02cfd021c431441fb797a461f879a21f",
+				"Path": "/7ec2b24d-bbad-435c-92fa-46ed0358cdf6_d71a2543_bb26_47a0_a5b0_88ce431d32c5_offer_fortune_printer_superdeco_loc_copy.csv"
+			},
+			"pricePoint": "100000035",
+			"priority": 406,
+			"scFile": {
+				"ChecksumSha1": "4f56aa7483fea8efdafb275f9821d59fa0771109",
+				"Path": "/a83d023c-9f49-4748-8f79-bf5c0c763035_deco_offer_wastelands.sc"
+			},
+			"shopInfoItemExportName": "offer_item_deco_info",
+			"shopItemBGColor": "2",
+			"shopItemBGTheme": "21",
+			"shopItemExportName": "offer_item_deco",
+			"shopItemValueSticker": "3",
+			"startTime": "20251115T080000.000Z",
+			"tid": "TID_EVENT_TITLE_DECO_FORTUNE_PRINTER",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 3,
+			"visibleEndTime": "20251201T080000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20330930T080000.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 91429,
+			"impressionId": 1,
+			"price": 1500,
+			"skin": "52000194",
+			"startTime": "20251114T080059.000Z",
+			"type": 21,
+			"variantId": 0,
+			"version": 1,
+			"visibleEndTime": "19700101T000000.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {
+					"Exclusive": true
+				},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"magicItem": "46000014", "magicItemAmount": 3, "source": 0, "type": "8"},
+				{"magicItem": "46000022", "magicItemAmount": 3, "source": 0, "type": "8"}
+			],
+			"endTime": "20251119T100953.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 60651,
+			"impressionId": 13,
+			"localizationFile": {
+				"ChecksumSha1": "0d622064f49c284ef65651b9be81ab8193cf05c4",
+				"Path": "/0dcb3ce4-470e-4d7e-ae3f-7819f8c6681c_4___Monetization_Monetization_Long_Term_Text_Default_view.csv"
+			},
+			"personallyTargeted": true,
+			"pricePoint": "100000007",
+			"priority": 3000,
+			"startTime": "20251105T100953.000Z",
+			"tid": "TID_EVENT_TITLE_ONETIMEPURCHASE",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 14,
+			"visibleEndTime": "20251119T100953.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"endTime": "20271218T134426.000Z",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 90144,
+			"impressionId": 1,
+			"maxTH": 5,
+			"minTH": 1,
+			"resourceScalingEnabled": false,
+			"rewardTiers": [
+				{"freeReward": "3000001", "freeRewardAmount": 2000, "points": 100},
+				{"freeReward": "3000002", "freeRewardAmount": 2000, "points": 200},
+				{"freeReward": "3000000", "freeRewardAmount": 10, "points": 400},
+				{"freeReward": "3000001", "freeRewardAmount": 4000, "points": 600},
+				{"freeReward": "3000002", "freeRewardAmount": 4000, "points": 800},
+				{"freeReward": "3000000", "freeRewardAmount": 10, "points": 1000},
+				{"freeReward": "3000001", "freeRewardAmount": 8000, "points": 1200},
+				{"freeReward": "3000002", "freeRewardAmount": 8000, "points": 1400},
+				{"freeReward": "3000000", "freeRewardAmount": 10, "points": 1600},
+				{"freeReward": "3000001", "freeRewardAmount": 25000, "points": 1800},
+				{"freeReward": "3000002", "freeRewardAmount": 25000, "points": 2000},
+				{"freeReward": "3000000", "freeRewardAmount": 10, "points": 2200},
+				{"freeReward": "3000001", "freeRewardAmount": 100000, "points": 2400},
+				{"freeReward": "3000002", "freeRewardAmount": 100000, "points": 2600},
+				{"freeReward": "3000000", "freeRewardAmount": 10, "points": 2800},
+				{"freeReward": "3000001", "freeRewardAmount": 200000, "points": 3000},
+				{"freeReward": "3000002", "freeRewardAmount": 200000, "points": 3200},
+				{"freeReward": "46000006", "freeRewardAmount": 2, "points": 3400},
+				{"freeReward": "3000001", "freeRewardAmount": 500000, "points": 3600},
+				{"freeReward": "3000002", "freeRewardAmount": 500000, "points": 3800},
+				{"freeReward": "46000022", "freeRewardAmount": 2, "points": 4000},
+				{"freeReward": "3000001", "freeRewardAmount": 1000000, "points": 4200},
+				{"freeReward": "3000002", "freeRewardAmount": 1000000, "points": 4400},
+				{"freeReward": "46000014", "freeRewardAmount": 1, "points": 4600},
+				{"freeReward": "46000008", "freeRewardAmount": 1, "points": 4800},
+				{"freeReward": "46000001", "freeRewardAmount": 1, "points": 5000}
+			],
+			"startTime": "20250806T104426.000Z",
+			"th": [
+				{
+					"tasks": [
+						"25000004",
+						"25000003",
+						"25000005",
+						"25000006",
+						"25000007",
+						"25000008",
+						"25000009",
+						"25000010",
+						"25000011",
+						"25000012",
+						"25000013",
+						"25000014",
+						"25000015"
+					]
+				},
+				{
+					"tasks": [
+						"25000002",
+						"25000016",
+						"25000017",
+						"25000018",
+						"25000019",
+						"25000020",
+						"25000021",
+						"25000022",
+						"25000023",
+						"25000024",
+						"25000025",
+						"25000026"
+					]
+				},
+				{
+					"tasks": [
+						"25000027",
+						"25000028",
+						"25000029",
+						"25000030",
+						"25000031",
+						"25000032",
+						"25000034",
+						"25000035",
+						"25000036",
+						"25000037",
+						"25000038"
+					]
+				},
+				{
+					"tasks": [
+						"25000039",
+						"25000040",
+						"25000041",
+						"25000042",
+						"25000043",
+						"25000044",
+						"25000045",
+						"25000046",
+						"25000047",
+						"25000048",
+						"25000049",
+						"25000050",
+						"25000051",
+						"25000052"
+					]
+				},
+				{
+					"tasks": [
+						"25000053",
+						"25000054",
+						"25000055",
+						"25000056",
+						"25000057",
+						"25000058",
+						"25000059",
+						"25000060",
+						"25000033"
+					]
+				}
+			],
+			"type": 45,
+			"variantId": 1,
+			"version": 2,
+			"visibleEndTime": "20271218T134426.000Z",
+			"visibleTime": "20250806T104426.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"building": "1000015", "buildingLevel": 0, "buildingNumber": 3, "type": "2"}
+			],
+			"diamondCountOverride": 200,
+			"endTime": "20340311T141326.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 87955,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b71a4a852407a30ce5a47898a22e38546ff31c2a",
+				"Path": "/64bb8a11-1815-43d6-b63e-ec771b58c1ea_Monetization_Monetization_Texts.csv"
+			},
+			"pricePoint": "100000017",
+			"priority": 2001,
+			"shopItemBGColor": "0",
+			"shopItemBGTheme": "2",
+			"shopItemValueSticker": "2",
+			"startTime": "20250806T104426.000Z",
+			"tid": "TID_DIAMOND_BUNDLE_BUILDER",
+			"type": 1,
+			"variantId": 0,
+			"version": 9,
+			"visibleEndTime": "20340311T141326.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"building": "1000015", "buildingLevel": 0, "buildingNumber": 4, "type": "2"}
+			],
+			"diamondCountOverride": 1000,
+			"endTime": "20350811T104426.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 87954,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b71a4a852407a30ce5a47898a22e38546ff31c2a",
+				"Path": "/64bb8a11-1815-43d6-b63e-ec771b58c1ea_Monetization_Monetization_Texts.csv"
+			},
+			"pricePoint": "100000035",
+			"priority": 2002,
+			"shopItemBGColor": "0",
+			"shopItemBGTheme": "2",
+			"shopItemValueSticker": "2",
+			"startTime": "20250806T104426.000Z",
+			"tid": "TID_DIAMOND_BUNDLE_BUILDER",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 8,
+			"visibleEndTime": "20350811T104426.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		},
+		{
+			"SupercellStore": {
+				"Enabled": {},
+				"type": "Enabled"
+			},
+			"amountCanBePurchased": 1,
+			"availableFrontPage": true,
+			"availableInVillage": true,
+			"deliverables": [
+				{"building": "1000015", "buildingLevel": 0, "buildingNumber": 5, "type": "2"}
+			],
+			"diamondCountOverride": 2000,
+			"endTime": "20350811T104426.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"eventPriority": 0,
+			"hideEventEntry": false,
+			"id": 87953,
+			"impressionId": 1,
+			"localizationFile": {
+				"ChecksumSha1": "b71a4a852407a30ce5a47898a22e38546ff31c2a",
+				"Path": "/64bb8a11-1815-43d6-b63e-ec771b58c1ea_Monetization_Monetization_Texts.csv"
+			},
+			"pricePoint": "100000045",
+			"priority": 2003,
+			"shopItemBGColor": "0",
+			"shopItemBGTheme": "2",
+			"shopItemValueSticker": "2",
+			"startTime": "20250806T104426.000Z",
+			"tid": "TID_DIAMOND_BUNDLE_BUILDER",
+			"type": 1,
+			"useGoldShopButton": true,
+			"useRibbon": true,
+			"variantId": 0,
+			"version": 8,
+			"visibleEndTime": "20350811T104426.000Z",
+			"visibleTime": "19700101T000000.000Z"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+Name,UpgradeLevel,UpgradeType,UpgradeTimeDays,UpgradeTimeHours,UpgradeTimeMinutes,UpgradeTimeSeconds,UpgradeResource,AltUpgradeResource,UpgradeCost,UpgradePriority
+String,int,String,int,int,int,int,String,String,int,int
+GuardianGeneral,1,Building,7,0,0,0,Elixir,,18000000,700
+,2,,9,0,0,0,,,22000000,800
+,3,,11,0,0,0,,,26000000,900
+,4,,13,0,0,0,,,28000000,1000
+GuardianAssassin,1,Building,0,0,10,0,Elixir,,100,700
+,2,,0,0,20,0,Elixir,,200,800

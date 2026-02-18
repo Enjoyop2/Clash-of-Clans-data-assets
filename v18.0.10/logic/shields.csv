@@ -1,0 +1,11 @@
+Name,TID,InfoTID,TimeH,GuardTimeH,Diamonds,IconSWF,IconExportName,CooldownS,LockedAboveScore,Deprecated,IsLegends
+String,String,String,int,int,int,String,String,int,int,boolean,boolean
+Guard 2H,TID_SHOP_GUARD_2H,TID_GUARD_INFO,2,0,10,sc/shop.sc,icon_shield_4,82800,,TRUE,FALSE
+Shield 1D,TID_SHOP_SHIELD_1D,TID_SHIELD_INFO,24,0,100,sc/shop.sc,icon_shield_1,345600,,TRUE,FALSE
+Shield 2D,TID_SHOP_SHIELD_2D,TID_SHIELD_INFO,48,0,150,sc/shop.sc,icon_shield_2,604800,,TRUE,FALSE
+Shield 7D,TID_SHOP_SHIELD_7D,TID_SHIELD_INFO,168,0,250,sc/shop.sc,icon_shield_3,3024000,5200,TRUE,FALSE
+Magic Shield 1D,TID_SHOP_MAGIC_SHIELD_1D,TID_SHOP_MAGIC_SHIELD_1D_INFO,24,0,100,sc/shop.sc,shield_standard_angle,345600,,FALSE,FALSE
+Magic Shield 2D,TID_SHOP_MAGIC_SHIELD_2D,TID_SHOP_MAGIC_SHIELD_2D_INFO,48,0,150,sc/shop.sc,shield_standard_angle,604800,,FALSE,FALSE
+Magic Shield 7D,TID_SHOP_MAGIC_SHIELD_7D,TID_SHOP_MAGIC_SHIELD_7D_INFO,168,0,250,sc/shop.sc,shield_standard_angle,3024000,,FALSE,FALSE
+Legend Shield 1D,TID_SHOP_LEGENDS_SHIELD_1D,TID_LEGENDS_SHIELD_1D_INFO,24,0,100,sc/shop.sc,shield_legend_angle,345600,,FALSE,TRUE
+Legend Shield 2D,TID_SHOP_LEGENDS_SHIELD_2D,TID_LEGENDS_SHIELD_2D_INFO,48,0,150,sc/shop.sc,shield_legend_angle,604800,,FALSE,TRUE
