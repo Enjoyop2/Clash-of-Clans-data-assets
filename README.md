@@ -11,8 +11,7 @@ This repository contains in-game assets showcasing the evolution of Clash of Cla
 ## 📦 Included Content
 
 - Game CSV files  
-- Battle bases  
-- Event data  
+- Battle bases
 - Various in-game assets  
 - Historical version assets (where available)
 
