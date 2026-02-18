@@ -1,0 +1,9 @@
+Name,Emitter,AttachToBone,LockTransformation,ParticleSizeForBoundsCheck,BoundsCheck
+String,String,String,boolean,int,boolean
+test,test,L_gunbone_01_s,TRUE,200,TRUE
+,test2,L_gunbone_01_s,TRUE,200,TRUE
+skeleton_Glow,test2,spine_mid_s,TRUE,200,
+autumn_Walk,hero_autumn_walk,back_item_03_s,,600,TRUE
+empty,empty,spine_mid_s,TRUE,200,TRUE
+autumn_Celebrate,hero_autumn_burst_3D,spine_mid_s,,1800,TRUE
+pekka_sword,hero_pekka_sword,L_gunbone_01_s,TRUE,300,TRUE

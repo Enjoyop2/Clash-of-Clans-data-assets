@@ -1,0 +1,139 @@
+{
+	"events": [
+		{
+			"clashBoxEntryName": "ChristmasSpell",
+			"endTime": "20171228T123000.000Z",
+			"eventEntryName": "DynamicDiscountSpell",
+			"functions": [
+				{
+					"name": "EnableSpell",
+					"parameters": [
+						"26000006"
+					]
+				}
+			],
+			"id": 17,
+			"image": "",
+			"inboxEntryId": 1,
+			"localization": "",
+			"notificationTid": "TID_LOCAL_NOTIFICATION_EVENT_XMAS_1",
+			"sc": "",
+			"startTime": "20171130T090000.000Z",
+			"type": 0,
+			"version": 36,
+			"visibleTime": "20171130T090000.000Z"
+		},
+		{
+			"clashBoxEntryName": "ChristmasUnit",
+			"endTime": "20171228T090000.000Z",
+			"eventEntryName": "DynamicDiscountTroop",
+			"functions": [
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000050",
+						"3",
+						"20",
+						"30",
+						"100"
+					]
+				},
+				{
+					"name": "EnableTroop",
+					"parameters": [
+						"4000050"
+					]
+				}
+			],
+			"id": 18,
+			"image": "",
+			"inboxEntryId": 1,
+			"localization": "",
+			"notificationTid": "TID_LOCAL_NOTIFICATION_EVENT_XMAS_3",
+			"sc": "",
+			"startTime": "20171130T090000.000Z",
+			"type": 0,
+			"version": 57,
+			"visibleTime": "20171130T090000.000Z"
+		},
+		{
+			"clashBoxEntryName": "",
+			"endTime": "20171227T085500.000Z",
+			"endingSoonNotificationMinutesFromEnd": 30,
+			"eventEntryName": "CustomSCLoading",
+			"functions": [],
+			"id": 538,
+			"image": "",
+			"inboxEntryId": -1,
+			"initialTaskTrashCooldownInMinutes": 15,
+			"localization": "/da097e55-40de-4239-8a52-ccf3226db78a_ClanGames.csv",
+			"maxTaskDifficulty": 100,
+			"maxTaskTrashCooldownInMinutes": 600,
+			"maxVisibleTasks": 15,
+			"maxVisibleTasksWithSameType": 0,
+			"minTaskDifficulty": 0,
+			"minTownHallLevel": 7,
+			"minVisibleTasks": 14,
+			"notificationTid": "TID_CLAN_GAMES_STARTED_NOTIFICATION",
+			"overriddenTaskProbabilities": [],
+			"pointsPerPlayer": 1250,
+			"sc": "/7d25b9f7-f750-4250-b7d9-a11e756d328d_green_background.sc",
+			"startTime": "20171207T075500.000Z",
+			"taskCooldownSkipCostPercent": 300,
+			"taskTrashCooldownIncrementInMinutes": 30,
+			"thresholds": [
+				{
+					"points": 250,
+					"rewards": [
+						{"amount": 50, "spawnWeighting": 1, "type": "3000000"},
+						{"amount": 5, "spawnWeighting": 1, "type": "3000004"},
+						{"amount": 5, "spawnWeighting": 1, "type": "3000005"}
+					]
+				},
+				{
+					"points": 500,
+					"rewards": [
+						{"amount": 5, "spawnWeighting": 1, "type": "3000000"},
+						{"amount": 10, "spawnWeighting": 1, "type": "3000005"},
+						{"amount": 10, "spawnWeighting": 1, "type": "3000004"}
+					]
+				},
+				{
+					"points": 750,
+					"rewards": [
+						{"amount": 1, "spawnWeighting": 1, "type": "46000005"},
+						{"amount": 1, "spawnWeighting": 1, "type": "46000006"},
+						{"amount": 1, "spawnWeighting": 1, "type": "46000007"}
+					]
+				},
+				{
+					"points": 1000,
+					"rewards": [
+						{"amount": 15, "spawnWeighting": 1, "type": "3000000"},
+						{"amount": 15, "spawnWeighting": 1, "type": "3000005"},
+						{"amount": 15, "spawnWeighting": 1, "type": "3000006"}
+					]
+				},
+				{
+					"points": 1250,
+					"rewards": [
+						{"amount": 1, "spawnWeighting": 1, "type": "46000003"},
+						{"amount": 1, "spawnWeighting": 1, "type": "46000002"},
+						{"amount": 1, "spawnWeighting": 1, "type": "46000000"}
+					]
+				},
+				{
+					"points": 1500,
+					"rewards": [
+						{"amount": 1, "spawnWeighting": 1, "type": "46000001"},
+						{"amount": 100, "spawnWeighting": 1, "type": "3000004"},
+						{"amount": 100, "spawnWeighting": 1, "type": "3000000"}
+					]
+				}
+			],
+			"type": 5,
+			"version": 1,
+			"visibleTime": "20171207T074500.000Z"
+		}
+	]
+}

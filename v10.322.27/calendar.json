@@ -1,0 +1,110 @@
+{
+	"events": [
+		{
+			"bannerTitleTid": "TID_CLAN_GAMES_THEME_WEEKENDGAMES",
+			"clashBoxEntryName": "",
+			"endTime": "20181228T183000.000Z",
+			"endingSoonNotificationMinutesFromEnd": 30,
+			"eventEntryName": "CustomSCLoading",
+			"functions": [],
+			"id": 779,
+			"imageFile": {
+				"ChecksumSha1": "",
+				"Path": "/8d930065-7440-4e20-8519-e6bf1b5ca3fe_clan_games_generic.png"
+			},
+			"inboxEntryId": -1,
+			"initialTaskTrashCooldownInMinutes": 10,
+			"localizationFile": {
+				"ChecksumSha1": "",
+				"Path": "/9bb01811-eece-4725-aa2b-3e042c2ae330_ClanGames.csv"
+			},
+			"maxTaskDifficulty": 100,
+			"maxTaskTrashCooldownInMinutes": 180,
+			"maxVisibleTasks": 200,
+			"maxVisibleTasksWithSameType": 0,
+			"minTaskDifficulty": 0,
+			"minTownHallLevel": 6,
+			"minVisibleTasks": 10,
+			"notificationTid": "TID_CLAN_GAMES_STARTED_NOTIFICATION",
+			"overriddenTaskProbabilities": [],
+			"pointsPerPlayer": 2500,
+			"scFile": {
+				"ChecksumSha1": "",
+				"Path": "/22bb603f-249f-4b48-86c0-0e3fdad5d504_clan_games_background.sc"
+			},
+			"startTime": "20180226T110000.000Z",
+			"taskCooldownSkipCostPercent": 300,
+			"taskTrashCooldownIncrementInMinutes": 20,
+			"thresholds": [
+				{
+					"clanXP": 10,
+					"points": 2500,
+					"rewards": [
+						{"amount": 50, "spawnWeighting": 1, "type": "3000004"},
+						{"amount": 15, "guaranteed": true, "spawnWeighting": -1, "type": "3000005"},
+						{"amount": 15, "guaranteed": true, "spawnWeighting": -1, "type": "3000006"},
+						{"amount": 10, "guaranteed": true, "spawnWeighting": -1, "type": "3000000"}
+					]
+				},
+				{
+					"clanXP": 20,
+					"points": 5000,
+					"rewards": [
+						{"amount": 15, "guaranteed": true, "spawnWeighting": -1, "type": "3000004"},
+						{"amount": 50, "spawnWeighting": 1, "type": "3000005"},
+						{"amount": 15, "guaranteed": true, "spawnWeighting": -1, "type": "3000006"},
+						{"amount": 20, "guaranteed": true, "spawnWeighting": -1, "type": "3000000"}
+					]
+				},
+				{
+					"clanXP": 30,
+					"points": 7500,
+					"rewards": [
+						{"amount": 15, "spawnWeighting": 1, "type": "3000004"},
+						{"amount": 15, "guaranteed": true, "spawnWeighting": -1, "type": "3000005"},
+						{"amount": 50, "guaranteed": true, "spawnWeighting": -1, "type": "3000006"},
+						{"amount": 30, "guaranteed": true, "spawnWeighting": -1, "type": "3000000"}
+					]
+				},
+				{
+					"clanXP": 40,
+					"points": 12500,
+					"rewards": [
+						{"amount": 1, "spawnWeighting": 1, "type": "46000003"},
+						{"amount": 1, "spawnWeighting": 1, "type": "46000001"},
+						{"amount": 1, "spawnWeighting": 1, "type": "46000000"}
+					]
+				},
+				{
+					"clanXP": 50,
+					"points": 25000,
+					"rewards": [
+						{"amount": 3, "spawnWeighting": 1, "type": "46000007"},
+						{"amount": 3, "spawnWeighting": 1, "type": "46000006"},
+						{"amount": 3, "spawnWeighting": 1, "type": "46000005"}
+					]
+				}
+			],
+			"type": 5,
+			"version": 1,
+			"visibleTime": "20180226T110000.000Z"
+		},
+		{
+			"clashBoxEntryName": "",
+			"endTime": "20180214T131800.000Z",
+			"eventEntryName": "",
+			"functions": [],
+			"id": 734,
+			"inboxEntryId": -1,
+			"notificationTid": "",
+			"scFile": {
+				"ChecksumSha1": "04d0d40abec935e7c1f39cbfc1f06fde62743e4d",
+				"Path": "/6a3c7980-6237-42ce-969f-f2b566440397_silly.sc"
+			},
+			"startTime": "20180204T131800.000Z",
+			"type": 6,
+			"version": 6,
+			"visibleTime": "19700101T000000.000Z"
+		}
+	]
+}

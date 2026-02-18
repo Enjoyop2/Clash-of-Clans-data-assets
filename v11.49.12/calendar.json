@@ -1,0 +1,139 @@
+{
+	"events": [
+		{
+			"boostedTaskExtraScorePercentage": 50,
+			"boostedTasks": [
+				"45000002"
+			],
+			"endTime": "20180628T183000.000Z",
+			"endingSoonNotificationMinutesFromEnd": 180,
+			"eventEntryName": "CustomSCLoading",
+			"id": 779,
+			"imageFile": {
+				"Checksum": "6cfef98ee79cb3f145c503153b0ac496",
+				"File": "clan_games_generic.png",
+				"Path": "/8d930065-7440-4e20-8519-e6bf1b5ca3fe_clan_games_generic.png"
+			},
+			"initialTaskTrashCooldownInMinutes": 10,
+			"localizationFile": {
+				"Checksum": "88d46ae483a92215d12f57e433fed4ce",
+				"ChecksumSha1": "24e38b597f3619bfd43f48fa1a297ed20c175a95",
+				"File": "ClanGamesLong_march.csv",
+				"Path": "/a3b9aabe-309f-43b7-9ef0-45d69e7765fa_ClanGamesLong_march.csv"
+			},
+			"maxTaskTrashCooldownInMinutes": 180,
+			"maxVisibleTasks": 1200,
+			"maxVisibleTasksWithSameType": 1,
+			"minTownHallLevel": 6,
+			"minVisibleTasks": 1200,
+			"notificationTid": "TID_CLAN_GAMES_STARTED_NOTIFICATION",
+			"overriddenTaskScores": [
+				{"score": 5000, "task": "45000000"}
+			],
+			"pointsPerPlayer": 4000,
+			"scFile": {
+				"Checksum": "a276c519f5526b5e72842f18af94bcaa",
+				"ChecksumSha1": "240a083bf5daeec4949f61c22244e0c3ea58c41d",
+				"File": "clan_games_background_march.sc",
+				"Path": "/07c7617e-572f-438a-a8bb-7466bd06e20a_clan_games_background_march.sc"
+			},
+			"startTime": "20180226T110000.000Z",
+			"taskCooldownSkipCostPercent": 300,
+			"taskTrashCooldownIncrementInMinutes": 10,
+			"thresholds": [
+				{
+					"clanXP": 10,
+					"points": 1500,
+					"rewards": [
+						{"amount": 1, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000005"},
+						{"amount": 1, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000006"},
+						{"amount": 1, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000007"}
+					]
+				},
+				{
+					"clanXP": 20,
+					"points": 3000,
+					"rewards": [
+						{"amount": 20, "guaranteed": true, "hidden": false, "spawnWeighting": 1, "type": "3000006"},
+						{"amount": 20, "guaranteed": true, "hidden": false, "spawnWeighting": 1, "type": "3000005"},
+						{"amount": 20, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "3000004"},
+						{"amount": 20, "guaranteed": true, "hidden": false, "spawnWeighting": 1, "type": "3000000"}
+					]
+				},
+				{
+					"clanXP": 40,
+					"points": 7500,
+					"rewards": [
+						{"amount": 1, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000014"},
+						{"amount": 2, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000006"},
+						{"amount": 2, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000013"}
+					]
+				},
+				{
+					"clanXP": 60,
+					"points": 12000,
+					"rewards": [
+						{"amount": 40, "guaranteed": true, "hidden": false, "spawnWeighting": 1, "type": "3000004"},
+						{"amount": 40, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "3000005"},
+						{"amount": 40, "guaranteed": true, "hidden": false, "spawnWeighting": 1, "type": "3000006"},
+						{"amount": 40, "guaranteed": true, "hidden": false, "spawnWeighting": 1, "type": "3000000"}
+					]
+				},
+				{
+					"clanXP": 80,
+					"points": 18000,
+					"rewards": [
+						{"amount": 1, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000001"},
+						{"amount": 1, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000000"},
+						{"amount": 1, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000002"}
+					]
+				},
+				{
+					"clanXP": 100,
+					"points": 30000,
+					"rewards": [
+						{"amount": 1, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000008"},
+						{"amount": 80, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "3000005"},
+						{"amount": 3, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "46000007"}
+					]
+				},
+				{
+					"clanXP": 120,
+					"points": 50000,
+					"rewards": [
+						{"amount": 1, "guaranteed": true, "hidden": false, "spawnWeighting": 1, "type": "46000009"},
+						{"amount": 80, "guaranteed": false, "hidden": false, "spawnWeighting": 1, "type": "3000004"},
+						{"amount": 80, "guaranteed": true, "hidden": false, "type": "3000006"},
+						{"amount": 3, "guaranteed": true, "hidden": false, "type": "46000014"}
+					]
+				}
+			],
+			"type": 5,
+			"version": 1,
+			"visibleTime": "20180226T110000.000Z"
+		},
+		{
+			"bracketSize": 4,
+			"clashBoxEntryName": "",
+			"defaultBracketDemotions": 0,
+			"defaultBracketPromotions": 0,
+			"endTime": "20180625T110000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"id": 734,
+			"inboxEntryId": -1,
+			"notificationTid": "",
+			"scFile": {
+				"ChecksumSha1": "04d0d40abec935e7c1f39cbfc1f06fde62743e4d",
+				"Path": "/6a3c7980-6237-42ce-969f-f2b566440397_silly.sc"
+			},
+			"signupDuration": 3600,
+			"startTime": "20180625T070000.000Z",
+			"type": 8,
+			"version": 6,
+			"visibleTime": "19700101T100000.000Z",
+			"warAttacks": 1,
+			"warDuration": 3600,
+			"warSize": 1
+		}
+	]
+}

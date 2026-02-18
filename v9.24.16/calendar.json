@@ -1,0 +1,1039 @@
+{
+	"events": [
+		{
+			"boomboxEntry": "CollectorBoost",
+			"endTime": "20170105T",
+			"eventEntryName": "CollectorBoost",
+			"functions": [
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000002",
+						"1"
+					]
+				},
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000004",
+						"1"
+					]
+				},
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000023",
+						"1"
+					]
+				}
+			],
+			"id": 0,
+			"inboxEntryId": 1,
+			"name": "Event 0",
+			"showUpcoming": 1,
+			"startTime": "20161222T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "ArmySpellBoost",
+			"endTime": "20170105T",
+			"eventEntryName": "ArmySpellBoost",
+			"functions": [
+				{
+					"name": "TroopTrainingBoost",
+					"parameters": [
+						"1"
+					]
+				},
+				{
+					"name": "SpellBrewingBoost",
+					"parameters": [
+						"1"
+					]
+				},
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000022",
+						"1"
+					]
+				},
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000025",
+						"1"
+					]
+				},
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000030",
+						"1"
+					]
+				}
+			],
+			"id": 1,
+			"inboxEntryId": 1,
+			"name": "Event 1",
+			"showUpcoming": 1,
+			"startTime": "20161230T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountBarbarian",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountBarbarian",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000000",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000000",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountArcher",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountArcher",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000001",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000001",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountGiant",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountGiant",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000003",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000003",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountGoblin",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountGoblin",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000002",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000002",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountWB",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountWB",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000004",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000004",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountLoon",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountLoon",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000005",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000005",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountWizard",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountWizard",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000006",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000006",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountHealer",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountHealer",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000007",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000007",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountDragon",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountDragon",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000008",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000008",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountPekka",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountPekka",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000009",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000009",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountBabyDragon",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountBabyDragon",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000023",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000023",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountMiner",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountMiner",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000024",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000024",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountMinion",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountMinion",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000010",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000010",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountHog",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountHog",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000011",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000011",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountValkyrie",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountValkyrie",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000012",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000012",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountGolem",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountGolem",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000013",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000013",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountWitch",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountWitch",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000015",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000015",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountHound",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountHound",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000017",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000017",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "TroopDiscountBowler",
+			"endTime": "20170520T",
+			"eventEntryName": "TroopDiscountBowler",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000022",
+						"5"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000022",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountLightning",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountLightning",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000000",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountHeal",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountHeal",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000001",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountRage",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountRage",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000002",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountJump",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountJump",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000003",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscounrFreeze",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscounrFreeze",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000005",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountClone",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountClone",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000016",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountPoison",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountPoison",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000009",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountQuake",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountQuake",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000010",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountHaste",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountHaste",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000011",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "SpellDiscountSkeleton",
+			"endTime": "20170520T",
+			"eventEntryName": "SpellDiscountSkeleton",
+			"functions": [
+				{
+					"name": "SpellDiscount",
+					"parameters": [
+						"26000017",
+						"5"
+					]
+				}
+			],
+			"id": 9,
+			"inboxEntryId": 1,
+			"name": "Event 9",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "Custom1",
+			"endTime": "20170520T",
+			"eventEntryName": "Custom1",
+			"functions": [
+				{
+					"name": "StarBonusMultiplier",
+					"parameters": [
+						"2"
+					]
+				}
+			],
+			"id": 7,
+			"inboxEntryId": 1,
+			"name": "Event 7",
+			"showUpcoming": 1,
+			"startTime": "20170515T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "StarBonus",
+			"endTime": "20170415T",
+			"eventEntryName": "StarBonus",
+			"functions": [
+				{
+					"name": "StarBonusMultiplier",
+					"parameters": [
+						"2"
+					]
+				}
+			],
+			"id": 7,
+			"inboxEntryId": 1,
+			"name": "Event 7",
+			"showUpcoming": 1,
+			"startTime": "20170411T",
+			"visibleTime": "20151222T"
+		},
+		{
+			"boomboxEntry": "",
+			"endTime": "20161227T",
+			"eventEntryName": "",
+			"functions": [
+				{
+					"name": "OfferBundle",
+					"parameters": [
+						"38000042"
+					]
+				},
+				{
+					"name": "OfferBundle",
+					"parameters": [
+						"38000043"
+					]
+				},
+				{
+					"name": "OfferBundle",
+					"parameters": [
+						"38000044"
+					]
+				},
+				{
+					"name": "OfferBundle",
+					"parameters": [
+						"38000045"
+					]
+				},
+				{
+					"name": "OfferBundle",
+					"parameters": [
+						"38000046"
+					]
+				},
+				{
+					"name": "OfferBundle",
+					"parameters": [
+						"38000047"
+					]
+				},
+				{
+					"name": "OfferBundle",
+					"parameters": [
+						"38000048"
+					]
+				},
+				{
+					"name": "OfferBundle",
+					"parameters": [
+						"38000050"
+					]
+				}
+			],
+			"id": 10,
+			"inboxEntryId": 1,
+			"name": "Event 10",
+			"showUpcoming": 1,
+			"startTime": "20161207T"
+		},
+		{
+			"boomboxEntry": "ClanWar3x",
+			"endTime": "20170417T",
+			"eventEntryName": "ClanWar3x",
+			"functions": [
+				{
+					"name": "ClanXPMultiplier",
+					"parameters": [
+						"3"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170407T",
+			"visibleTime": "20170101T"
+		},
+		{
+			"boomboxEntry": "StarBonus",
+			"endTime": "20170509T",
+			"eventEntryName": "StarBonus",
+			"functions": [
+				{
+					"name": "StarBonusMultiplier",
+					"parameters": [
+						"2"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170506T",
+			"visibleTime": "20170503T"
+		},
+		{
+			"boomboxEntry": "Golem",
+			"endTime": "20170509T",
+			"eventEntryName": "TroopDiscountGolem",
+			"functions": [
+				{
+					"name": "TroopDiscount",
+					"parameters": [
+						"4000013",
+						"10"
+					]
+				},
+				{
+					"name": "UseTroop",
+					"parameters": [
+						"4000013",
+						"5",
+						"25",
+						"10",
+						"9"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170506T",
+			"visibleTime": "20170503T"
+		},
+		{
+			"boomboxEntry": "StarBonus x 4",
+			"endTime": "20170502T",
+			"eventEntryName": "StarBonus4x",
+			"functions": [
+				{
+					"name": "StarBonusMultiplier",
+					"parameters": [
+						"4"
+					]
+				}
+			],
+			"id": 6,
+			"inboxEntryId": 1,
+			"name": "Event 6",
+			"showUpcoming": 1,
+			"startTime": "20170428T",
+			"visibleTime": "20170425T"
+		}
+	]
+}
