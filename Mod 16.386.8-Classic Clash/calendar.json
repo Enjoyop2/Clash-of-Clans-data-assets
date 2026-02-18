@@ -1,0 +1,156 @@
+{
+	"events": [
+		{
+			"type": 11,
+			"id": 31032,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20211001T080100.000Z",
+			"endTime": "20301001T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"items": [
+				{"deliverable": {"type": "1", "resource": "3000000", "resourceAmount": 50000}, "cost": 1000},
+				{"deliverable": {"type": "1", "resource": "3000001", "resourceAmount": 5000000}, "cost": 25},
+				{"deliverable": {"type": "1", "resource": "3000002", "resourceAmount": 5000000}, "cost": 25},
+				{"deliverable": {"type": "1", "resource": "3000007", "resourceAmount": 5000000}, "cost": 25},
+				{"deliverable": {"type": "1", "resource": "3000008", "resourceAmount": 5000000}, "cost": 25}
+			]
+		},
+		{
+			"type": 7,
+			"id": 31033,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20211001T080100.000Z",
+			"endTime": "20301001T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"free": [
+				{"item": "3000000", "amount": 25000, "start": 0, "end": 10080}
+			],
+			"offer": [
+				{"item": "3000001", "amount": 2500000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000002", "amount": 2500000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000003", "amount": 25000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000007", "amount": 1000000, "maxBuys": 1000, "cost": 250},
+				{"item": "3000008", "amount": 1000000, "maxBuys": 1000, "cost": 250}
+			],
+			"capital": [
+				{"item": "3000001", "amount": 2500000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000002", "amount": 2500000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000003", "amount": 25000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000007", "amount": 1000000, "maxBuys": 1000, "cost": 250},
+				{"item": "3000008", "amount": 1000000, "maxBuys": 1000, "cost": 250}
+			],
+			"personallyTargeted": false
+		},
+		{
+			"type": 0,
+			"id": 31034,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20211001T080100.000Z",
+			"endTime": "20301001T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"scFile": {
+				"Path": "/51613746-aead-4e9e-8ac0-f161862c374f_button_BarbFree_empty.sc",
+				"ChecksumSha1": "37bc9d45520bb8f2c1b15ac1721c38ed4213419c"
+			},
+			"functions": [
+				{"name": "EnableTroop", "parameters": ["4000121"]},
+				{"name": "EnableTroop", "parameters": ["4000122"]}
+			]
+		},
+		{
+			"type": 6,
+			"id": 59612,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240701T080000.000Z",
+			"startTime": "20240701T080000.000Z",
+			"endTime": "20240801T080000.000Z",
+			"visibleEndTime": "20240801T080000.000Z",
+			"scFile": {
+				"Path": "/58cc67ff-7f39-4e63-87d6-6eeb687b2c0b_loading_clashgames_2024.sc",
+				"ChecksumSha1": "f07d76f0fa7d17c60d5d1c32ee9b4b0f7754b073"
+			},
+			"logoAlign": "1"
+		},
+		{
+			"type": 28,
+			"id": 59601,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240701T070100.000Z",
+			"startTime": "20240705T070000.000Z",
+			"endTime": "20240708T070000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/5d114d56-5d81-4ec6-8113-841c22dc6fbb_raid_weekend.png",
+				"ChecksumSha1": "e189252645367f9192eb496ac7df8b0dae1f7e61"
+			},
+			"scFile": {
+				"Path": "/34202d5d-0a6d-4416-9ac4-77499d207857_purple_background.sc",
+				"ChecksumSha1": "0b48e0186b6651a30cb26e4e2b4adb89691e31e9"
+			},
+			"localizationFile": {
+				"Path": "/333d101e-7f1b-402a-8b46-5a936da1e47d.csv",
+				"ChecksumSha1": "ea15df7670dcc48da585fc62e7072478b10f9308",
+				"Key": "bd9ed69a803b73d71ee7b02c9f21cfc59d52c13a408dbf159c312f39a0d84dad",
+				"Nonce": "778ebf768d75acb79276f26d14d2b1e5dacb38852b2f349e"
+			},
+			"attackCount": 15
+		},
+		{
+			"type": 8,
+			"id": 53403,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240426T080000.000Z",
+			"startTime": "20240501T080000.000Z",
+			"endTime": "20240511T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/d5200536-dfa9-48c8-8ab0-caf9e8ea7234_original_war_leagues.png",
+				"ChecksumSha1": "e00ea00a36812df0abbcf1bc6f90e2acb8fbc583"
+			},
+			"scFile": {
+				"Path": "/fb188b80-a449-4837-ab9c-3872e96a75ac_13bd1528_2495_4a3d_b5a1_abe0b8cf60e8_07c7617e_572f_438a_a8bb_7466bd06e20a_clan_games_background_march__1_.sc",
+				"ChecksumSha1": "240a083bf5daeec4949f61c22244e0c3ea58c41d"
+			},
+			"localizationFile": {
+				"Path": "/c8ccdb58-5bf7-4aec-a438-7758bf224082_CWL_text_with_link.csv",
+				"ChecksumSha1": "d03b9f41725283198338b7661cbf02d89519d36d"
+			},
+			"signupDuration": 172800,
+			"bracketSize": 8,
+			"warSizes": [15, 30],
+			"warDuration": 172800,
+			"warAttacks": 1,
+			"warWinLootMultiplier": 4,
+			"warDrawLootMultiplier": 4,
+			"warLoseLootMultiplier": 4,
+			"warWinLootMultiplierOre": 1,
+			"warDrawLootMultiplierOre": 1,
+			"warLoseLootMultiplierOre": 1
+		}
+	]
+}

@@ -1,0 +1,3 @@
+Name,SWF,ExportName,ScaleTimeline,DirectionCount,ParticleEmitter,Effect,StartHeight,IsBallistic,ShadowSWF,ShadowExportName,UseRotate,DirectionFrame,PlayOnce,UseTopLayer,Scale,BallisticHeight,TrajectoryStyle,DestroyedEffect,BounceEffect,StartOffsetFromGunBone,RotateEmitter,RotateEffect,SpawnEffect,3D,DepthBiasFront,DepthBiasBack
+String,String,String,boolean,int,String,String,int,boolean,String,String,boolean,boolean,boolean,boolean,int,int,int,String,String,boolean,boolean,boolean,String,String,int,int
+flying_fortress_projectile,sc/characters.sc,projectile_bomb,FALSE,0,shield_trail_glow,,0,TRUE,sc/buildings.sc,simple_shadow_small,FALSE,FALSE,FALSE,FALSE,100,100,3,,,TRUE,FALSE,FALSE,,,0,0

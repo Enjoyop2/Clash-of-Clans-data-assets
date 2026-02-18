@@ -1,0 +1,2 @@
+Name,Tasks,TownHallUnlock,Prerequisite,TierScores,RewardType,RewardAmount
+String,String,int,String,int,String,int

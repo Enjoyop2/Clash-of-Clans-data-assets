@@ -1,0 +1,193 @@
+Name,Character,IsDefaultSkin,EnabledByCalendar,TID,Icon,Geometry,Texture,NormalMap,MaterialMap,EmissionMap,SWF,SWFTextureExportName,Animation,AltAnimation,CameraDistance,ViewportWidth,ViewportHeight,CelebrateSfx,CelebrateSfxVolume,DeployEffect,AttackEffect,AttackEffect2,AttackEffectAlt,AttackEffect2Alt,HitEffect,DieEffect,AbilityTriggerEffect,AbilityEffect,AbilityActivationEffect,AbilityHitEffect,SkinChangeEffect,ParticleEffect3D,AbilityEffect3D,GunBone,ShadowBone,ProjectileVis,RageProjectileVis,AbilityProjectileVis,SpawnedTroopAnimation,Environment,MakeCreator,ShadowScale,Tier,ThemeIcon,ThemeTID,ThemeYear,FeatureCustomModel,FeatureCustomTextures,FeatureCustomAnimations,FeatureCustomEffects,FeatureCustomSounds,FeatureCustomVoiceovers,FeatureCustomUnits,FeatureExtraAnimations,FeatureExtraEffects,FeatureExtraSounds,ShadowSWF,ShadowExportName,ShadowAlpha
+String,String,boolean,boolean,String,String,String,String,String,String,String,String,String,String,String,int,int,int,String,int,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,int,String,String,String,int,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,String,String,int
+BarbarianKingDefault,Barbarian King,TRUE,FALSE,TID_BARBARIAN_KING,image/skin_icons/bk_original.ktx,sc3d/barbking_default_geo.glb,sc3d/barbking_default2_01.ktx,sc3d/barbking_default2_01_normal.ktx,sc3d/barbking_default2_01_material.ktx,,,,BarbarianKingDefault2,,10000,225,225,,,Barbarian King Deploy,Barbarian King Attack,,,,,Barbarian King Die,King Ability Effect,,,,,,,,hips_s,,,,,Default,,100,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKingGladiator,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueenDefault,Archer Queen,TRUE,FALSE,TID_ARCHER_QUEEN,image/skin_icons/aq_original.ktx,sc3d/archerqueen_default_geo.glb,sc3d/archerqueen_default_a.ktx,sc3d/archerqueen_default_n.ktx,sc3d/archerqueen_default_m.ktx,,,,ArcherQueenDefaultSkin,,10000,225,225,sfx/archer_queen_scream_01.ogg,90,Archer Queen Deploy,ArcherQueen Attack,,,,,Archer Queen Die,Queen Ability Effect,,,,,,,,hips_s,,,,,Default,,100,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+,,,,,,,,,,,,,,,,,,sfx/archer_queen_deploy_01.ogg,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GrandWardenDefault,Grand Warden,TRUE,FALSE,TID_GRAND_WARDEN,image/skin_icons/gw_original.ktx,sc3d/grandwarden_default_geo.glb,sc3d/grandwarden_default_01.ktx,,sc3d/grandwarden_default_01_material.ktx,sc3d/grandwarden_default_01_emission.ktx,,,GrandWardenDefaultSkin,GrandWardenFlyDefaultSkin,10000,225,225,sfx/tap_grand_warden_04.ogg,90,Grand Warden Deploy,GrandWarden Attack,,GrandWarden Attack Air,,,Grand Warden Die,,,,,,,,L_gunbone_01_s,hips_s,,,,,Default,,100,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PekkaKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+SkeletonKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+JollyKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PrimalKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ClockworkKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PartyKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ChampionKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PirateKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GladiatorQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ValkyrieQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+AutumnQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+IceQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+WarriorQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PrimalQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ClockworkQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PirateQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PartyWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PrimalWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ClockworkWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GladiatorWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PirateWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+NorthWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+JungleWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+MasterWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+WarriorPrincessDefault,Warrior Princess,TRUE,FALSE,TID_HERO_ROYAL_CHAMPION,image/skin_icons/rc_original.ktx,sc3d/royalchampion_default_geo.glb,sc3d/royalchampion_default_a.ktx,sc3d/royalchampion_default_n.ktx,sc3d/royalchampion_default_m.ktx,,,,WarriorPrincessDefaultSkin,,10000,225,225,sfx/rg_alert_01.ogg,90,Royal Champion Deploy,Warrior Princess Attack,,,,,Royal Champion Die,Champion Ability Effect,,,,,,,L_weapon_01_s,hips_s,,,,,Default,,100,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+WinterChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RogueChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+JungleChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GladiatorChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ShadowChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PrimalChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+SummerChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PixelChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PartyChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+TH15Champion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PirateChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+JollyChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+WarriorChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PainterChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+DarkAgesChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion016,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+WarriorKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RogueKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+SavageKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+JungleKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+AnniversaryKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GolemKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+IceKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+TigerKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ShadowKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+SummerKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PixelKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ClashFestKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RogueQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+JungleQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PartyQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ChampionQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ShadowQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+MinerQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+SummerQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PixelQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+SpookyQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+TH15Queen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+JollyQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+DarkAgesQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+JollyWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+WarriorWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ShadowWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+SummerWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PixelWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ChampionWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+TH15Warden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PainterWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+DarkAgesWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden018,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GoblinWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+LeagueWarden,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetLassiDefault,Barky,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/lassi_default_geo.glb,sc3d/lassi_01_a.ktx,sc3d/lassi_01_n.ktx,sc3d/lassi_01_m.ktx,sc3d/lassi_01_e.ktx,,,PetLassiDefault,,10000,225,225,,,,,,,,,,,,,,,,,,hips_s,,,,,Default,,105,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetYakDefault,Bulldozer,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/yak_default_geo.glb,sc3d/yak_default_a.ktx,sc3d/yak_default_n.ktx,sc3d/yak_default_m.ktx,,,,PetYakDefault,,10000,225,225,,,,,,,,,,,,,,,,,,hips_s,,,,,Default,,130,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetEowlDefault,Electrowl,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/electro_owl_default_geo.glb,sc3d/electro_owl_default_a.ktx,sc3d/electro_owl_default_n.ktx,sc3d/electro_owl_default_m.ktx,sc3d/electro_owl_default_e.ktx,,,PetEowlDefault,,10000,225,225,,,,,,,,,,,,,,,,,,hips_s,,,,,Default,,82,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetUnicornDefault,Unipony,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/unicorn_default_geo.glb,sc3d/unicorn_default_a.ktx,sc3d/unicorn_default_n.ktx,sc3d/unicorn_default_m.ktx,sc3d/unicorn_default_e.ktx,,,PetUnicornDefault,,10000,225,225,,,,,,,,,,,,,,,,,,hips_s,,,,,Default,,95,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+CapitalFlyingFortressDefault,Flying Fortress,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/flyingfortress_geo.glb,sc3d/flyingfortress_default_01_a.ktx,sc3d/flyingfortress_default_01_n.ktx,sc3d/flyingfortress_default_01_m.ktx,,,,CapitalFlyingFortress,,9333,225,225,,,,,,,,,,,,,,,flying_fortress_smoke,,cannonEmitter_jnt,,,,,,Default,,130,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+CapitalMountainGolemDefault,Mountain Golem,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/megagolem_geo.glb,sc3d/megagolem_default_01_a.ktx,sc3d/megagolem_default_01_n.ktx,sc3d/megagolem_default_01_m.ktx,sc3d/megagolem_default_01_e.ktx,,,CapitalMountainGolem,,38667,225,225,,,,,,,,,,,,,,,,,,,,,,,Default,,250,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+TH15King,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+DarkAgesKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PainterKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BeastKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+LeagueKing,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing026,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing027,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing028,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing029,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing030,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+LunarQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PainterQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ValentinesQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GoblinQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen025,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+LeagueQueen,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen026,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen028,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen029,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen030,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetFrostyDefault,Frosty,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/frosty_default_geo.glb,sc3d/frosty_default_a.ktx,sc3d/frosty_default_n.ktx,sc3d/frosty_default_m.ktx,,,,FrostyDefault,,10000,225,225,,,,,,,,,,,,,,,,,jaw_s,hips_s,,,,,Default,,140,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetPoisonIguanaDefault,Poison Lizard,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/poisoniguana_default_geo.glb,sc3d/poisoniguana_default_a.ktx,sc3d/poisoniguana_default_n.ktx,sc3d/poisoniguana_default_m.ktx,,,,PoisonIguanaDefault,,10000,225,225,,,,,,,,,,,,,,,,,,hips_s,,,,,Default,,100,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetPhoenixDefault,Phoenix,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/pheonix_default_geo.glb,sc3d/pheonix_default_a.ktx,sc3d/pheonix_default_n.ktx,sc3d/pheonix_default_m.ktx,,,,PhoenixDefault,,10000,225,225,,,,,,,,,,,,,,,,,jaw_s,hips_s,,,,,Default,,90,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetDiggyDefault,Diggy,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/diggy_default_geo.glb,sc3d/diggy_default_a.ktx,sc3d/diggy_default_n.ktx,sc3d/diggy_default_m.ktx,,,,DiggyDefault,,10000,225,225,,,,,,,,,,,,,,,,,,hips_s,,,,,Default,,170,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetPhoenixEggDefault,PhoenixEgg,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/pheonix_default_geo.glb,sc3d/pheonix_default_a.ktx,sc3d/pheonix_default_n.ktx,sc3d/pheonix_default_m.ktx,,,,PhoenixEggDefault,,10000,225,225,,,,,,,,,,,,,,,,,,,,,,,Default,,40,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+LeagueChampion,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion018,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion019,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion020,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion021,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion022,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion023,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion024,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion025,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion026,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden020,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden022,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden023,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden024,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden025,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden026,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden027,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden028,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden029,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+GrandWarden030,Grand Warden,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing031,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing032,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing033,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing034,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing035,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing036,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing037,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing038,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing039,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BarbarianKing040,Barbarian King,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen031,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen032,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen033,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen034,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen035,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen036,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen037,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen038,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen039,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArcherQueen040,Archer Queen,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+WarmachineDefault,Warmachine,TRUE,FALSE,TID_WARMACHINE,image/skin_icons/bm_original.ktx,sc3d/buildermachine_default_geo.glb,sc3d/buildermachine_default_a.ktx,sc3d/buildermachine_default_n.ktx,sc3d/buildermachine_default_m.ktx,,,,BuilderMachineDefaultSkin,,10000,225,225,,,Warmachine Deploy,Warmachine Attack,,,,Warmachine Hit,Warmachine Die,,,,Warmachine Power Hit,,,warmachine_weapon_glow,,hips_s,,,,,Default,,200,DEFAULT,,,0,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+ArmoredMachine,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine002,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine003,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine004,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine005,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine006,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine007,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine008,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine009,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+Warmachine010,Warmachine,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopterDefault,Battle Copter,TRUE,FALSE,TID_HERO_BATTLE_COPTER,image/skin_icons/bc_original.ktx,sc3d/battlecopter_default_geo.glb,sc3d/battlecopter_default_a.ktx,sc3d/battlecopter_default_n.ktx,sc3d/battlecopter_default_m.ktx,,,,BattleCopterDefaultSkin,,10000,225,225,,,Battle Copter Deploy,Battle Copter Attack,,,,Battle Copter Hit,Battle Copter Die,,,,,,,,,mainBody_s,,,,,Default,,150,DEFAULT,,,0,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,,,0
+BattleCopter001,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter002,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter003,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter004,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter005,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter006,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter007,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter008,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter009,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+BattleCopter010,Battle Copter,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion027,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion028,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion029,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion030,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion031,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion032,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion033,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion034,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion035,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion036,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion037,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion038,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion039,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RoyalChampion040,Warrior Princess,FALSE,TRUE,,,,,,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Default,,100,,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+PetFennecDefault,Phase Fennec,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/fennec_default_geo.glb,sc3d/fennec_default_a.ktx,sc3d/fennec_default_n.ktx,sc3d/fennec_default_m.ktx,,,,FennecDefault,,10000,225,225,,,Barky Fennec Deploy,,,,,,,,,,,,,,,hips_s,,,,,Default,,60,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,0
+RageJellyDefault,Angry Jelly,TRUE,FALSE,,image/skin_icons/bk_original.ktx,sc3d/ragejelly_default_geo.glb,sc3d/ragejelly_default_a.ktx,sc3d/ragejelly_default_n.ktx,sc3d/ragejelly_default_m.ktx,,,,RageJellyDefault,,10000,225,225,,,RageJelly Deploy,,,,,,,,,,,,,,rootPart2_s,hip_s,,,,,Default,,80,DEFAULT,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sc/buildings.sc,simple_shadow_small,127

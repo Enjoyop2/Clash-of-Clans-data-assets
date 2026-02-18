@@ -1,0 +1,2 @@
+Name,TaskType,ProgressType,Set,TID,InfoTID,IconSWF,IconExportName,Score,DurationMinutes,Quantity,Quantity2,Data1,Data2,SelectionWeight,Disabled,Group,MinTHLevel,MaxTHLevel,MinBHLevel,MaxBHLevel
+String,String,String,String,String,String,String,String,int,int,int,int,String,String,int,boolean,String,int,int,int,int
