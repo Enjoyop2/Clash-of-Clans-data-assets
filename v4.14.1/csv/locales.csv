@@ -1,0 +1,12 @@
+Name,Description,IconSWF,IconExportName,FontSizeIncrease
+String,String,String,String,int
+EN,,sc/ui.sc,flag_gb,0
+FR,,sc/ui.sc,flag_france,0
+DE,,sc/ui.sc,flag_germany,0
+ES,,sc/ui.sc,flag_spain,0
+IT,,sc/ui.sc,flag_italy,0
+NL,,sc/ui.sc,flag_netherlands,0
+NO,,sc/ui.sc,flag_norway,0
+PT,,sc/ui.sc,flag_brazil,0
+TR,,sc/ui.sc,flag_turkey,0
+CN,,sc/ui.sc,flag_china,0

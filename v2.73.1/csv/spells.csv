@@ -1,0 +1,17 @@
+Name,TID,InfoTID,SpellForgeLevel,LaboratoryLevel,TrainingResource,TrainingCost,HousingSpace,TrainingTime,DeployTimeMS,ChargingTimeMS,HitTimeMS,CooldownS,UpgradeTimeH,UpgradeResource,UpgradeCost,BoostTimeMS,SpeedBoost,SpeedBoost2,DamageBoostPercent,Damage,Radius,NumberOfHits,RandomRadius,TimeBetweenHitsMS,IconSWF,IconExportName,BigPicture,PreDeployEffect,DeployEffect,DeployEffect2,ChargingEffect,HitEffect,RandomRadiusAffectsOnlyGfx
+String,String,String,int,int,String,int,int,int,int,int,int,int,int,String,int,int,int,int,int,int,int,int,int,int,String,String,String,String,String,String,String,String,boolean
+LighningStorm,TID_LIGHTNING_STORM,TID_LIGHTNING_STORM_INFO,1,1,Gold,15000,1,50400,800,1000,1100,25,24,Elixir,200000,0,0,0,,50,200,6,350,400,sc/ui.sc,icon_spell_lightning,icon_spell_lightning,Lightning predeploy,Lightning area,,Lightning Spell,Lightning Spell Hit,FALSE
+,,,,1,,18000,,,,,,,48,,500000,0,0,0,,55,200,6,350,400,,icon_spell_lightning2,,,,,,,
+,,,,2,,21000,,,,,,,72,,1000000,0,0,0,,60,200,6,350,400,,icon_spell_lightning3,,,,,,,
+,,,,3,,26000,,,,,,,96,,2000000,0,0,0,,65,200,6,350,400,,icon_spell_lightning4,,,,,,,
+,,,,6,,31000,,,,,,,,,,0,0,0,,70,200,6,350,400,,icon_spell_lightning5,,,,,,,
+HealingWave,TID_HEALING_WAVE,TID_HEALING_WAVE_INFO,2,2,Gold,25000,1,57600,800,300,400,25,24,Elixir,300000,0,0,0,,-10,350,40,200,300,sc/ui.sc,icon_spell_healing,icon_spell_healing,Heal predeploy,Heal area,Heal area top,,Heal spell,TRUE
+,,,,2,,29000,,,,,,,48,,750000,0,0,0,,-15,350,40,200,300,,icon_spell_healing2,,,,,,,
+,,,,4,,33000,,,,,,,72,,1500000,0,0,0,,-20,350,40,200,300,,icon_spell_healing3,,,,,,,
+,,,,5,,38000,,,,,,,120,,2700000,0,0,0,,-25,350,40,200,300,,icon_spell_healing4,,,,,,,
+,,,,6,,43000,,,,,,,,,,0,0,0,,-30,350,40,200,300,,icon_spell_healing5,,,,,,,
+Haste,TID_HASTE,TID_HASTE_INFO,3,3,Gold,40000,1,64800,800,300,400,25,48,Elixir,450000,1000,20,10,130,0,500,60,400,300,sc/ui.sc,icon_spell_rage,icon_spell_rage,Rage predeploy,Rage deploy,Rage deploy top,,,TRUE
+,,,,3,,44000,,,,,,,72,,900000,1000,22,11,140,0,500,60,400,300,,icon_spell_rage2,,,,,,,
+,,,,4,,48000,,,,,,,120,,1800000,1000,24,12,150,0,500,60,400,300,,icon_spell_rage3,,,,,,,
+,,,,5,,53000,,,,,,,168,,3000000,1000,26,13,160,0,500,60,400,300,,icon_spell_rage4,,,,,,,
+,,,,6,,58000,,,,,,,,,,1000,28,14,180,0,500,60,400,300,,icon_spell_rage5,,,,,,,

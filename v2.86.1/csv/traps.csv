@@ -1,0 +1,6 @@
+Name,TID,InfoTID,SWF,ExportName,Damage,DamageRadius,TriggerRadius,Width,Height,Effect,Effect2,DamageEffect,Passable,BuildResource,BuildCost,EjectVictims,EjectHousingLimit,ExportNameTriggered,ActionFrame,PickUpEffect,PlacingEffect,AppearEffect
+String,String,String,String,String,int,int,int,int,int,String,String,String,boolean,String,int,boolean,int,String,int,String,String,String
+Mine,TID_TRAP_MINE,TID_TRAP_MINE_INFO,sc/buildings.sc,bomp_trap_lvl1_setup,12,300,150,1,1,Bomb Exposion,Bomb Exposion ground,Generic Hit,TRUE,Gold,400,FALSE,0,bomp_trap_lvl1,48,Generic Pick Up,Generic Placing,Bomb Appear
+Ejector,TID_TRAP_EJECTOR,TID_TRAP_EJECTOR_INFO,sc/buildings.sc,eject_trap_lvl1_setup,1000,0,70,1,1,Trap Eject,,Generic Hit,TRUE,Gold,2000,TRUE,15,eject_trap_lvl1,10,Generic Pick Up,Generic Placing,Bomb Appear
+Superbomb,TID_TRAP_SUPERBOMB,TID_TRAP_SUPERBOMB_INFO,sc/buildings.sc,bomp_trap_lvl2_setup,110,350,150,2,2,Super_Bomb,Super_Bomb ground,Generic Hit,TRUE,Gold,50000,FALSE,30,bomp_trap_lvl2,48,Generic Pick Up,Generic Placing,Bomb Appear
+Halloweenbomb,TID_TRAP_HALLOWEENBOMB,TID_TRAP_HALLOWEENBOMB_INFO,sc/buildings.sc,bomb_halloween_setup,25,300,150,1,1,Bomb Exposion,Bomb Exposion ground,Generic Hit,TRUE,Gold,1000,FALSE,0,bomp_trap_halloween,48,Generic Pick Up,Generic Placing,Bomb Appear
