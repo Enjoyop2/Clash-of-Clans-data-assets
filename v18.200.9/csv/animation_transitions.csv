@@ -1,0 +1,39 @@
+Name,From,To,Condition
+String,String,String,String
+DebrisTowerTier2,activate,attack,isAnimationOver()
+DebrisTowerTier3,activate,attack,isAnimationOver()
+DebrisTowerTier4,activate,attack,isAnimationOver()
+DebrisTowerLvl2Tier2,activate,attack,isAnimationOver()
+DebrisTowerLvl2Tier3,activate,attack,isAnimationOver()
+DebrisTowerLvl2Tier4,activate,attack,isAnimationOver()
+TownHall17,cutscene2,upgrade,isAnimationOver()
+TownHall18,appear,idle,isAnimationOver()
+,cutscene2,upgradeready,isAnimationOver()
+HeroBoosterT1,selected,idle,isAnimationOver()
+HeroBoosterT2,selected,idle,isAnimationOver()
+HeroBoosterT3,selected,idle,isAnimationOver()
+HeroBoosterT4,selected,idle,isAnimationOver()
+AirBombsDefenseLvl1,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl2,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl3,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl4,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl5,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl6,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl7,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl8,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl9,idle,attack,isFiring()&&isAnimationOver()
+AirBombsDefenseLvl10,idle,attack,isFiring()&&isAnimationOver()
+CrowDefault,attack,attack2,isAnimationOver()
+,attack2,attack,isAnimationOver()
+DragonDukeDefaultSkin,idle,idle2,"hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,idle2,idle,"!hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,attack,attack2,"hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,attack2,attack,"!hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,walk,walk2,"hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,walk2,walk,"!hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+DragonDukeDragonEscapeSkin,idle,idle2,"hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,idle2,idle,"!hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,attack,attack2,"hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,attack2,attack,"!hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,walk,walk2,"hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"
+,walk2,walk,"!hasSpecialAbilityActive(DragonDukeRageWhenAlone, -1)"

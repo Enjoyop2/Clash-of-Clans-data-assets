@@ -1,0 +1,11 @@
+Name,Box,Amount,InitialRarity,TID,InfoTID,IconSWF,IconExportName
+String,String,int,int,String,String,String,String
+CommonPool,CommonChest,29,1,TID_CHEST_COMMON_NAME,TID_CHEST_COMMON_INFO,sc/ui.sc,icon_reward_chest_tier1
+,RareChest,16,,,,,
+,EpicChest,4,,,,,
+,LegendaryChest,1,,,,,
+RarePool,RareChest,16,2,TID_CHEST_RARE_NAME,TID_CHEST_RARE_INFO,sc/ui.sc,icon_reward_chest_tier2
+,EpicChest,4,,,,,
+,LegendaryChest,1,,,,,
+EpicPool,EpicChest,4,3,TID_CHEST_EPIC_NAME,TID_CHEST_EPIC_INFO,sc/ui.sc,icon_reward_chest_tier3
+,LegendaryChest,1,,,,,

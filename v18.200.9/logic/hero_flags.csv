@@ -1,0 +1,3 @@
+Name,TID,InfoTID,SWF,ExportName,ExportNameConstruction,Width,Height,PassableSubtilesAtEdge,Icon,ExportNameBase,VillageType,UseObjectBottomLayer,IsFadedAndPassableInCombat,HeroSwappedEffect
+String,String,String,String,String,String,int,int,int,String,String,int,boolean,boolean,String
+EmptyHeroFlag,TID_HERO_FLAG,TID_HERO_FLAG_INFO,sc/buildings.sc,empty_rally_point,generic_construction_state1,2,2,2,,empty_rally_point_base,,,FALSE,Hero Health Full

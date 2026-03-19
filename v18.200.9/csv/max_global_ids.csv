@@ -1,0 +1,6 @@
+Name,TableID,MaxGlobalID
+String,int,int
+logic/buildings.csv,1,1000104
+logic/characters.csv,4,4000180
+logic/traps.csv,12,12000020
+logic/spells.csv,26,26000136

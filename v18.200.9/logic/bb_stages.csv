@@ -1,0 +1,12 @@
+Name,BuilderHallLevel,DefaultScenery,Defenses,Traps,BB Elixir Collector,BB Elixir Storage,BB Gold Mine,BB Gold Storage,BB Wall,BB Army Camp
+String,int,String,int,int,int,int,int,int,int,int
+1,6,BBDefault,13,12,1,1,1,1,100,4
+,7,,,,,,,,,
+,8,,,,,,,,,
+,9,,14,,,,,,,
+,10,,,,,,,,,
+2,6,BB_Stage2,13,12,1,1,1,1,100,1
+,7,,,,,,,,,2
+,8,,,,2,,2,,,
+,9,,14,,,,,,,
+,10,,,,,,,,,

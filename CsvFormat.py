@@ -42,6 +42,7 @@ def soort_arraycsv_files(root_folder):
 						f.writelines(grup)
 
 				print(f"{file_path} sıralandı.")
+import os
 
 def sort_localization_csv_files(root_folder):
 	for root, dirs, files in os.walk(root_folder):
@@ -65,16 +66,15 @@ def sort_localization_csv_files(root_folder):
 			if len(lines) <= 2:
 				continue
 
-			header = lines[0]
-			data_lines = lines[1:]
+			headers = lines[:2] 
+			data_lines = lines[2:]
 
 			data_lines.sort()
 
 			with open(file_path, "w", encoding="UTF-8") as f:
-				f.writelines([header] + data_lines)
+				f.writelines(headers + data_lines)
 
-			print(f"{file_path} sıralandı.")
-
+			print(f"{file_path} sıralandı (ilk iki satır korundu).")
 
 def fix_boolean_columns(root_folder):
 	for root, dirs, files in os.walk(root_folder):
@@ -98,17 +98,14 @@ def fix_boolean_columns(root_folder):
 				for row in reader[2:]:
 					for i in boolean_indexler:
 						if i < len(row) and row[i].strip() != "":
+							updated = True
 
 							if row[i].strip().lower() == "true":
 								row[i] = "TRUE"
-								updated = True
 
 							elif row[i].strip().lower() == "false":
 								row[i] = "FALSE"
-								updated = True
 
-						else:
-							updated = False
 				if updated:
 					with open(file_path, mode="w", newline="", encoding="UTF-8") as f:
 						writer = csv.writer(f, lineterminator="\n")
@@ -132,25 +129,20 @@ def check_csv_files(root_folder):
 				updated = False
 
 				if len(rows) > 1:
+					updated = True
 					for i in range(len(rows[1])):
 
 						if rows[1][i] == "string":
 							rows[1][i] = "String"
-							updated = True
 
 						elif rows[1][i] == "String":
 							rows[1][i] = "String"
-							updated = True
 
 						elif rows[1][i] == "Int":
 							rows[1][i] = "int"
-							updated = True
 
 						elif rows[1][i] == "Boolean":
 							rows[1][i] = "boolean"
-							updated = True
-				else:
-					updated = False
 
 				if updated:
 					with open(file_path, mode="w", newline="", encoding="UTF-8") as outfile:
@@ -165,5 +157,5 @@ def check_csv_files(root_folder):
 
 soort_arraycsv_files(folder_path)
 sort_localization_csv_files(folder_path)
-#check_csv_files(folder_path)
-#fix_boolean_columns(folder_path)
+check_csv_files(folder_path)
+fix_boolean_columns(folder_path)
