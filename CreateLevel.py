@@ -7,15 +7,15 @@ def print_error(message):
 
 def restore_missing_levels():
 	root_dir = os.getcwd()
-	json_path = os.path.join(root_dir, "AL_LEVELS.json")
-	al_levels_dir = os.path.join(root_dir, "AL_LEVELS")
+	json_path = os.path.join(root_dir, "ALL_LEVELS.json")
+	all_levels_dir = os.path.join(root_dir, "ALL_LEVELS")
 
 	if not os.path.isfile(json_path):
-		print_error("HATA: AL_LEVELS.json bulunamadı!")
+		print_error("HATA: ALL_LEVELS.json bulunamadı!")
 		return
 
-	if not os.path.isdir(al_levels_dir):
-		print_error("HATA: AL_LEVELS klasörü bulunamadı!")
+	if not os.path.isdir(all_levels_dir):
+		print_error("HATA: ALL_LEVELS klasörü bulunamadı!")
 		return
 
 	with open(json_path, "r", encoding="utf-8") as f:
@@ -36,7 +36,7 @@ def restore_missing_levels():
 
 		if os.path.isdir(item_path) and item.startswith("v"):
 			if item not in version_map:
-				print_error(f"{item} klasörü AL_LEVELS.json içinde tanımlı değil!")
+				print_error(f"{item} klasörü ALL_LEVELS.json içinde tanımlı değil!")
 				continue
 
 			level_root = os.path.join(item_path, "level")
@@ -57,7 +57,7 @@ def restore_missing_levels():
 				source_filename = f"{base_name} - {sha}.json"
 
 				source_file = os.path.join(
-					al_levels_dir, os.path.dirname(relative_path), source_filename
+					all_levels_dir, os.path.dirname(relative_path), source_filename
 				)
 
 				if not os.path.isfile(source_file):

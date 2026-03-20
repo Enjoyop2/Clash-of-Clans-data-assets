@@ -4,7 +4,7 @@ import hashlib
 
 root_dir = os.getcwd()
 
-levels_dir = os.path.join(root_dir, "AL_LEVELS")
+levels_dir = os.path.join(root_dir, "ALL_LEVELS")
 os.makedirs(levels_dir, exist_ok=True)
 
 for item in os.listdir(root_dir):
