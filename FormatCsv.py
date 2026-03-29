@@ -41,7 +41,7 @@ def soort_arraycsv_files(root_folder):
 					for grup in gruplar:
 						f.writelines(grup)
 
-				print(f"{file_path} sıralandı.")
+				print(f"{file_path} Sorted arrays rows.")
 import os
 
 def sort_localization_csv_files(root_folder):
@@ -74,7 +74,7 @@ def sort_localization_csv_files(root_folder):
 			with open(file_path, "w", encoding="UTF-8") as f:
 				f.writelines(headers + data_lines)
 
-			print(f"{file_path} sıralandı (ilk iki satır korundu).")
+			print(f"{file_path} Sorted (first two rows preserved).")
 
 def fix_boolean_columns(root_folder):
 	for root, dirs, files in os.walk(root_folder):
@@ -111,10 +111,10 @@ def fix_boolean_columns(root_folder):
 						writer = csv.writer(f, lineterminator="\n")
 						writer.writerows(reader)
 
-					print(f"{file_path} güncellendi (Boolean kolonlar).")
+					print(f"{file_path} formated (Boolean column).")
 
 				else:
-					print(f"\033[91m{file_path} güncellenemedi (Boolean kolonlar).\033[0m")
+					print(f"\033[91m{file_path} Could not update (Boolean column).\033[0m")
 	print("İşlem Bitti")
 
 def check_csv_files(root_folder):
@@ -148,10 +148,10 @@ def check_csv_files(root_folder):
 					with open(file_path, mode="w", newline="", encoding="UTF-8") as outfile:
 						writer = csv.writer(outfile, lineterminator="\n")
 						writer.writerows(rows)
-					print(f"{file_path} güncellendi.")
+					print(f"{file_path} formated.")
 
 				else:
-					print(f"\033[91m{file_path} güncellenemedi.\033[0m")
+					print(f"\033[91m{file_path} Could not update.\033[0m")
 
 	print("İşlem Bitti")
 

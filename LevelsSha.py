@@ -33,4 +33,4 @@ for item in os.listdir(root_dir):
 						destination_file = os.path.join(destination_folder, new_filename)
 						shutil.copy2(source_file, destination_file)
 
-print("İşlem bitti")
+	print("Done")

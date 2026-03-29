@@ -11,11 +11,11 @@ def restore_missing_levels():
 	all_levels_dir = os.path.join(root_dir, "ALL_LEVELS")
 
 	if not os.path.isfile(json_path):
-		print_error("HATA: ALL_LEVELS.json bulunamadı!")
+		print_error("ERROR: ALL_LEVELS.json not found!")
 		return
 
 	if not os.path.isdir(all_levels_dir):
-		print_error("HATA: ALL_LEVELS klasörü bulunamadı!")
+		print_error("ERROR: ALL_LEVELS folder not found!")
 		return
 
 	with open(json_path, "r", encoding="utf-8") as f:
@@ -36,13 +36,13 @@ def restore_missing_levels():
 
 		if os.path.isdir(item_path) and item.startswith("v"):
 			if item not in version_map:
-				print_error(f"{item} klasörü ALL_LEVELS.json içinde tanımlı değil!")
+				print_error(f"{item} The folder is not defined in ALL_LEVELS.json!")
 				continue
 
 			level_root = os.path.join(item_path, "level")
 			os.makedirs(level_root, exist_ok=True)
 
-			print(f"\nKontrol ediliyor: {item}")
+			print(f"\nbeing checked: {item}")
 
 			for file_path, sha in version_map[item]:
 
@@ -50,7 +50,7 @@ def restore_missing_levels():
 				destination_file = os.path.join(level_root, relative_path)
 
 				if os.path.isfile(destination_file):
-					print(f"Zaten var: {destination_file}")
+					print(f"Already exists: {destination_file}")
 					continue
 
 				base_name = os.path.splitext(os.path.basename(relative_path))[0]
@@ -61,15 +61,15 @@ def restore_missing_levels():
 				)
 
 				if not os.path.isfile(source_file):
-					print_error(f"Kaynak bulunamadı: {source_file}")
+					print_error(f"Source not found: {source_file}")
 					continue
 
 				os.makedirs(os.path.dirname(destination_file), exist_ok=True)
 
 				shutil.copy2(source_file, destination_file)
 
-				print(f"Oluşturuldu: {destination_file}")
+				print(f"Created: {destination_file}")
 
-	print("\nİşlem Bitti.")
+	print("\nDone.")
 
 restore_missing_levels()
