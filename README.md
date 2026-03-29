@@ -1,3 +1,18 @@
+# NOTE
+
+This repository is provided in a **compressed format** due to many files being repeated across different versions.
+To generate the final outputs, you need to run the following Python scripts in order:
+
+1. **CreateLevel.py**
+2. **CreateLocalization.py**
+
+### ▶️ Run Commands
+
+```bash
+python3 CreateLevel.py
+python3 CreateLocalization.py
+```
+
 # 🏰 Clash of Clans Assets (coc-assets)
 
 A comprehensive collection of **Clash of Clans game assets** for developers, private server creators, and fan content producers.
